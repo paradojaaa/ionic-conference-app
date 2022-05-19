@@ -1,13 +1,13 @@
 {
   "schedule": [
     {
-      "date": "2047-05-17",
+      "date": "9:14 am",
       "groups": [
         {
           "time": "19-05-2022",
           "sessions": [
             {
-              "name": "Breakfast",
+              "name": "Breakfasttt",
               "timeStart": "8:00 am",
               "timeEnd": "9:00 am",
               "location": "Dining Hall",
