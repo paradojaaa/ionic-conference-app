@@ -7,7 +7,7 @@
           "time": "8:00 am",
           "sessions": [
             {
-              "name": "Breakfastt",
+              "name": "Breakfast",
               "timeStart": "8:00 am",
               "timeEnd": "9:00 am",
               "location": "Dining Hall",
@@ -244,10 +244,6 @@
     }
   ],
 
-  
-  
-  
-  
   "speakers": [
     {
       "name": "Burt Bear",
