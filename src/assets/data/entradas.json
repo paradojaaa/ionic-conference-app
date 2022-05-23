@@ -4,15 +4,16 @@
             "date": "2047-05-17",
             "groups": [
                 {
-                    "time": "19-05-2022",
+                    "time": "",
                     "sessions": [
                         {
-                            "name": "Breakfastfdsdfs111222",
+                            "name": "Entradas no disponibles en estos momentos",
+                            "available": "no",
                             "timeStart": "8:00 am",
                             "timeEnd": "9:00 am",
                             "location": "Dining Hall",
                             "tracks": [ "Food" ],
-                            "id": "1"
+                            "id": "70001"
                         }
                     ]
                 }
