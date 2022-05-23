@@ -1,0 +1,22 @@
+{
+    "schedule": [
+        {
+            "date": "2047-05-17",
+            "groups": [
+                {
+                    "time": "19-05-2022",
+                    "sessions": [
+                        {
+                            "name": "Breakfastfdsdfs111222",
+                            "timeStart": "8:00 am",
+                            "timeEnd": "9:00 am",
+                            "location": "Dining Hall",
+                            "tracks": [ "Food" ],
+                            "id": "1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
