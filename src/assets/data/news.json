@@ -8,11 +8,13 @@
           "sessions": [
             {
               "name": "Breakfastfdsdfs111222",
+              "description": "Descripción noticia",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg",
               "timeStart": "8:00 am",
               "timeEnd": "9:00 am",
               "location": "Dining Hall",
               "tracks": ["Food"],
-              "id": "1"
+              "id": "4001"
             }
           ]
         }
