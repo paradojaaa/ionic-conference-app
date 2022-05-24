@@ -1,5 +1,5 @@
 {
-  "schedule": [
+  "noticias": [
     {
       "date": "2047-05-17",
       "groups": [
@@ -7,7 +7,7 @@
           "time": "8:00 am",
           "sessions": [
             {
-              "name": "Breakfast",
+              "name": "Breakfastt",
               "timeStart": "8:00 am",
               "timeEnd": "9:00 am",
               "location": "Dining Hall",
