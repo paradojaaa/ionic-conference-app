@@ -8,7 +8,7 @@
           "sessions": [
             {
               "name": "¿Es necesario indicar el nombre de los asistentes?",
-              "description": "No, en esta edición no es necesario indicar el nombre de los asistentes.\nEn las entradas aparecerá el nombre del comprador.",
+              "description": "No, en esta edición no es necesario indicar el nombre de los asistentes.\\nEn las entradas aparecerá el nombre del comprador.",
               "tracks": ["Ionic"],
               "id": "1"
             }
@@ -18,9 +18,59 @@
           "sessions": [
             {
               "name": "¿Para qué sirve elegir la hora de entrada al comprar las entradas?",
-              "description": "La hora elegida al comprar la entrada significa que podrá entrar a partir de esa hora, podrá entrar antes pero no después. Las horas más tempranas se irán agotando ya que hay un número limitado de entradas por hora.",
+              "description": "La hora elegida al comprar la entrada significa que podrá entrar a partir de esa hora, podrá entrar antes pero no después.\\nLas horas más tempranas se irán agotando ya que hay un número limitado de entradas por hora.",
               "tracks": ["Ionic"],
               "id": "2"
+            }
+          ]
+        },{
+          "time": "",
+          "sessions": [
+            {
+              "name": "¿Se puede salir y volver a entrar al evento?",
+              "description": "No se puede salir y volver a entrar al recinto de Ifema salvo que tengas la entrada \"Acceso anticipado\".\\nUna vez dentro se puede entrar y salir de los pabellones y del paseo central las veces que se quiera, pero al salir del recinto de Ifema no se puede volver a entrar.",
+              "tracks": ["Ionic"],
+              "id": "3"
+            }
+          ]
+        },{
+          "time": "",
+          "sessions": [
+            {
+              "name": "¿Hay entrada especial para niños?",
+              "description": "Los menores de 7 años (6 años o menos) no necesitan entrada si van acompañados de un adulto. El resto de niños necesitará una entrada normal.",
+              "tracks": ["Ionic"],
+              "id": "4"
+            }
+          ]
+        },{
+          "time": "",
+          "sessions": [
+            {
+              "name": "¿Con qué edad se puede entrar si acompañante?",
+              "description": "Con 14 años o más no es necesario que entren acompañados. Los menores de 14 años necesitarán al menos un acompañante adulto.",
+              "tracks": ["Ionic"],
+              "id": "5"
+            }
+          ]
+        },{
+          "time": "",
+          "sessions": [
+            {
+              "name": "¿Se puede devolver la entrada?",
+              "description": "No se pueden hacer devoluciones de entradas.",
+              "tracks": ["Ionic"],
+              "id": "6"
+            }
+          ]
+        },{
+          "time": "",
+          "sessions": [
+            {
+              "name": "¿Se puede cambiar de hora o de día la entrada?",
+              "description": "En función de la disponibilidad, escribiendo a tienda@japanweekend.com podemos intentar cambiar la hora o el día.\\nNo se admitirán cambios en la semana previa al evento.",
+              "tracks": ["Ionic"],
+              "id": "7"
             }
           ]
         }
