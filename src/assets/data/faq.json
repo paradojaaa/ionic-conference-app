@@ -8,7 +8,7 @@
           "sessions": [
             {
               "name": "¿Es necesario indicar el nombre de los asistentes?",
-              "description": "No, en esta edición no es necesario indicar el nombre de los asistentes.\\nEn las entradas aparecerá el nombre del comprador.",
+              "description": "No, en esta edición no es necesario indicar el nombre de los asistentes.\nEn las entradas aparecerá el nombre del comprador.",
               "tracks": ["Ionic"],
               "id": "1"
             }
@@ -18,7 +18,7 @@
           "sessions": [
             {
               "name": "¿Para qué sirve elegir la hora de entrada al comprar las entradas?",
-              "description": "La hora elegida al comprar la entrada significa que podrá entrar a partir de esa hora, podrá entrar antes pero no después.\\nLas horas más tempranas se irán agotando ya que hay un número limitado de entradas por hora.",
+              "description": "La hora elegida al comprar la entrada significa que podrá entrar a partir de esa hora, podrá entrar antes pero no después.\nLas horas más tempranas se irán agotando ya que hay un número limitado de entradas por hora.",
               "tracks": ["Ionic"],
               "id": "2"
             }
@@ -28,7 +28,7 @@
           "sessions": [
             {
               "name": "¿Se puede salir y volver a entrar al evento?",
-              "description": "No se puede salir y volver a entrar al recinto de Ifema salvo que tengas la entrada \"Acceso anticipado\".\\nUna vez dentro se puede entrar y salir de los pabellones y del paseo central las veces que se quiera, pero al salir del recinto de Ifema no se puede volver a entrar.",
+              "description": "No se puede salir y volver a entrar al recinto de Ifema salvo que tengas la entrada \"Acceso anticipado\".\nUna vez dentro se puede entrar y salir de los pabellones y del paseo central las veces que se quiera, pero al salir del recinto de Ifema no se puede volver a entrar.",
               "tracks": ["Ionic"],
               "id": "3"
             }
@@ -68,9 +68,19 @@
           "sessions": [
             {
               "name": "¿Se puede cambiar de hora o de día la entrada?",
-              "description": "En función de la disponibilidad, escribiendo a tienda@japanweekend.com podemos intentar cambiar la hora o el día.\\nNo se admitirán cambios en la semana previa al evento.",
+              "description": "En función de la disponibilidad, escribiendo a tienda@japanweekend.com podemos intentar cambiar la hora o el día.\nNo se admitirán cambios en la semana previa al evento.",
               "tracks": ["Ionic"],
               "id": "7"
+            }
+          ]
+        },{
+          "time": "",
+          "sessions": [
+            {
+              "name": "¿Hay algún tipo de descuento en las entradas?",
+              "description": "Actualmente no existe ningún tipo de descuento.",
+              "tracks": ["Ionic"],
+              "id": "8"
             }
           ]
         }
