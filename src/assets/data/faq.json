@@ -17,7 +17,7 @@
           "time": "",
           "sessions": [
             {
-              "name": "¿Para qué sirve indicar la hora de entrada al comprar las entradas?",
+              "name": "¿Para qué sirve elegir la hora de entrada al comprar las entradas?",
               "description": "La hora elegida al comprar la entrada significa que podrá entrar a partir de esa hora, podrá entrar antes pero no después. Las horas más tempranas se irán agotando ya que hay un número limitado de entradas por hora.",
               "tracks": ["Ionic"],
               "id": "2"
