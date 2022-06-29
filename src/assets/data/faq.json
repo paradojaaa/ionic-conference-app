@@ -8,7 +8,7 @@
           "sessions": [
             {
               "name": "¿Es necesario indicar el nombre de los asistentes?",
-              "description": "No, en esta edición no es necesario indicar el nombre de los asistentes. En las entradas aparecerá el nombre del comprador.",
+              "description": "No, en esta edición no es necesario indicar el nombre de los asistentes.\nEn las entradas aparecerá el nombre del comprador.",
               "tracks": ["Ionic"],
               "id": "1"
             }
