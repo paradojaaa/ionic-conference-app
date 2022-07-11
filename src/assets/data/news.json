@@ -7,9 +7,9 @@
           "time": "21-05-2022",
           "sessions": [
             {
-              "name": "Título noticia",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "image": "https://image.shutterstock.com/image-vector/news-anchor-on-tv-breaking-600w-664193623.jpg",
+              "name": "Entradas a la venta",
+              "description": "Entradas para Madrid ya a la venta. Se abre la venta de entradas de la próxima edición de Japan Weekend Madrid que tendrá lugar el 24 y 25 de septiembre en Ifema Madrid.",
+              "image": "http://localhost:8103/assets/img/ifema2.jpg",
               "day": "21-05-2022",
               "tracks": ["Ionic"],
               "id": "1"
