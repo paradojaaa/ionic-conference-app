@@ -1,0 +1,24 @@
+{
+    "schedule": [
+        {
+            "date": "2047-05-17",
+            "groups": [
+                {
+                    "time": "",
+                    "sessions": [
+                        {
+                            "name": "ENTRADAS YA A LA VENTA",
+                            "name2": "NUEVOS INVITADOS ANUNCIADOS",
+                            "available": "no",
+                            "timeStart": "8:00 am",
+                            "timeEnd": "9:00 am",
+                            "location": "Dining Hall",
+                            "tracks": [ "Food" ],
+                            "id": "70001"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
