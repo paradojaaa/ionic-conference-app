@@ -8,7 +8,7 @@
           "sessions": [
             {
               "name": "Horario de apertura",
-              "description": "Japan Weekend Madrid tiene lugar el 24 y 25 de septiembre de 2022. El sábado 24 el horario es de 10h a 21h y el domingo es de 10h a 19h",
+              "description": "Japan Weekend Granada tiene lugar el 10 de septiembre de 2022. El horario es de 10h a 21h",
               "image": "https://cdn-icons-png.flaticon.com/512/87/87717.png?w=360",
               "tracks": ["Ionic"],
               "id": "1"
