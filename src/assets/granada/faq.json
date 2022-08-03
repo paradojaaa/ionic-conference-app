@@ -28,7 +28,7 @@
           "sessions": [
             {
               "name": "¿Qué diferencia hay entre los distintos tipos de entradas?",
-              "description": "La entrada gGeneral te permite entrar en Japan Weekend. La entrada Anticrisis añade un manga o película a reccoger en el evento. La entrada Acceso Anticipado (solo sábado) además del manga o película, permite entrar a primera hora y salir y entrar del evento tantas veces como se quiera.",
+              "description": "La entrada General te permite entrar en Japan Weekend. La entrada Anticrisis añade un manga o película a reccoger en el evento.",
               "tracks": ["Ionic"],
               "id": "3"
             }
@@ -38,7 +38,7 @@
           "sessions": [
             {
               "name": "¿Se puede salir y volver a entrar al evento?",
-              "description": "No se puede salir y volver a entrar al recinto de Ifema salvo que tengas la entrada \"Acceso anticipado\".\nUna vez dentro se puede entrar y salir de los pabellones y del paseo central las veces que se quiera, pero al salir del recinto de Ifema no se puede volver a entrar.",
+              "description": "Sí, se puede salir y volver a entrar conservando la entrada y registrando la salida.",
               "tracks": ["Ionic"],
               "id": "4"
             }
@@ -57,7 +57,7 @@
           "time": "",
           "sessions": [
             {
-              "name": "¿Con qué edad se puede entrar si acompañante?",
+              "name": "¿Con qué edad se puede entrar sin acompañante?",
               "description": "Con 14 años o más no es necesario que entren acompañados. Los menores de 14 años necesitarán al menos un acompañante adulto.",
               "tracks": ["Ionic"],
               "id": "6"
@@ -71,16 +71,6 @@
               "description": "No se pueden hacer devoluciones de entradas.",
               "tracks": ["Ionic"],
               "id": "7"
-            }
-          ]
-        },{
-          "time": "",
-          "sessions": [
-            {
-              "name": "¿Se puede cambiar de hora o de día la entrada?",
-              "description": "En función de la disponibilidad, escribiendo a tienda@japanweekend.com podemos intentar cambiar la hora o el día.\nNo se admitirán cambios en la semana previa al evento.",
-              "tracks": ["Ionic"],
-              "id": "8"
             }
           ]
         },{
