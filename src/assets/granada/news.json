@@ -4,12 +4,12 @@
       "date": "2047-05-17",
       "groups": [
         {
-          "time": "21-05-2022",
+          "time": "03-08-2022",
           "sessions": [
             {
               "name": "Entradas a la venta",
-              "description": "Entradas para Madrid ya a la venta. Se abre la venta de entradas de la próxima edición de Japan Weekend Madrid que tendrá lugar el 24 y 25 de septiembre en Ifema Madrid.",
-              "image": "https://www.ifema.es/img/xl/imagen-entrada-palacio-congresos-ifema-madrid/ifema_madrid_prensa_041.jpg",
+              "description": "Entradas para Granada ya a la venta. Se abre la venta de entradas de la próxima edición de Japan Weekend Granada que tendrá lugar el 10 de septiembre en el Palacio de Congresos y Exposiciones de Granada.",
+              "image": "http://granadaporelmundo.com/wp-content/uploads/2019/11/palacio-de-congresos-de-granada.jpg",
               "day": "21-05-2022",
               "tracks": ["Ionic"],
               "id": "1"
