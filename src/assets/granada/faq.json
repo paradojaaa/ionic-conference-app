@@ -80,6 +80,16 @@
               "name": "¿Hay algún tipo de descuento en las entradas?",
               "description": "Actualmente no existe ningún tipo de descuento.",
               "tracks": ["Ionic"],
+              "id": "8"
+            }
+          ]
+        },{
+          "time": "",
+          "sessions": [
+            {
+              "name": "¿Se permite la entrada a perros?",
+              "description": "No está permitida la entrada a perros o cualquier otro tipo de animal de compañía.",
+              "tracks": ["Ionic"],
               "id": "9"
             }
           ]
