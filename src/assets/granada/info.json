@@ -14,7 +14,19 @@
               "id": "1"
             }
           ]
+        },{
+          "time": "SEGURIDAD",
+          "sessions": [
+            {
+              "name": "Objetos prohibidos",
+              "description": "Está prohibido introducir los siguientes objetos: armas y réplicas de metal, explosivos y réplicas, bokken y instrumentos contundentes (bate de baseball), armas de airsoft, cuchillos navajas y objetos afilados.",
+              "image": "https://i.pinimg.com/736x/14/9c/0e/149c0e213255d5256a392e7aa552d71a.jpg",
+              "tracks": ["Ionic"],
+              "id": "2"
+            }
+          ]
         }
+        
       ]
     }
   ]
