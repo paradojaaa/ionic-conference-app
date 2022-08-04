@@ -4,13 +4,13 @@
       "date": "2047-05-17",
       "groups": [
         {
-          "time": "03-08-2022",
+          "time": "28-07-2022",
           "sessions": [
             {
               "name": "Entradas a la venta",
               "description": "Entradas para Granada ya a la venta. Se abre la venta de entradas de la próxima edición de Japan Weekend Granada que tendrá lugar el 10 de septiembre en el Palacio de Congresos y Exposiciones de Granada.",
-              "image": "http://granadaporelmundo.com/wp-content/uploads/2019/11/palacio-de-congresos-de-granada.jpg",
-              "day": "21-05-2022",
+              "image": "https://www.pcgr.org/wp-content/uploads/2015/06/bueno.jpg",
+              "day": "28-07-2022",
               "tracks": ["Ionic"],
               "id": "1"
             }
