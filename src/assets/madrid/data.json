@@ -252,10 +252,22 @@
       "twitter": "Criisalys",
       "about": "Crisalys es una artista visual de Chile cuyos trabajos de colores vibrantes retratan a chicas que comparten sus gustos en vestimenta y hobbies, además ama coleccionar sneakers y juguetes sofubi.",
       "title": "Artista visual",
-      "location": "Everywhere",
-      "email": "burt@example.com",
-      "phone": "+1-541-754-3010",
+      "location": "",
+      "email": "",
+      "phone": "",
       "id": "1"
+    },
+    {
+      "name": "Crisalys",
+      "profilePic": "https://pbs.twimg.com/profile_banners/762434885902491649/1590647967/1500x500",
+      "instagram": "curisaris",
+      "twitter": "Criisalys",
+      "about": "Crisalys es una artista visual de Chile cuyos trabajos de colores vibrantes retratan a chicas que comparten sus gustos en vestimenta y hobbies, además ama coleccionar sneakers y juguetes sofubi.",
+      "title": "Artista visual",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "2"
     }
   ],
 
