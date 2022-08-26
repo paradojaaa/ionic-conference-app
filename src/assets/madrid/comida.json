@@ -1,0 +1,31 @@
+{
+    "schedule": [
+        {
+            "date": "2047-05-17",
+            "groups": [
+                {
+                    "time": "",
+                    "sessions": [
+                        {
+                            "name": "",
+                            "link": "https://benoodle.net/sites/benoodle.net/files/images/ramen.png",
+                            "name2": "Aplicación de android",
+                            "link2": "https://play.google.com/store/apps/details?id=np.com.noodlerex.android&hl=es&gl=US",
+                            "name3": "Localización",
+                            "link3": "https://benoodle.net/sites/benoodle.net/files/images/ramen.png",
+                            "name12": "Be noodle",
+                            "img": "https://resources.matcha-jp.com/resize/720x2000/2020/01/15-95040.jpeg",
+                            "text": "Restaurante Be noodle en Japan Weekend",
+                            "available": "no",
+                            "timeStart": "8:00 am",
+                            "timeEnd": "9:00 am",
+                            "location": "Dining Hall",
+                            "tracks": [ "Food" ],
+                            "id": "70001"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
