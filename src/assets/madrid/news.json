@@ -15,6 +15,19 @@
               "id": "1"
             }
           ]
+        },
+        {
+          "time": "25-07-2022",
+          "sessions": [
+            {
+              "name": "Nuevos invitados",
+              "description": "Nuevos invitados anunciados",
+              "image": "https://tienda.japanweekend.com/app/img/fenixfatalist.png",
+              "day": "25-07-2022",
+              "tracks": ["Ionic"],
+              "id": "2"
+            }
+          ]
         }
       ]
     }
