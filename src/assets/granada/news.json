@@ -15,6 +15,18 @@
               "id": "1"
             }
           ]
+        },{
+          "time": "29-09-2022",
+          "sessions": [
+            {
+              "name": "Invitados anunciados",
+              "description": "Nuevos invitados anunciados.",
+              "image": "https://tienda.japanweekend.com/app/img/phiratecr.png",
+              "day": "28-07-2022",
+              "tracks": ["Ionic"],
+              "id": "1"
+            }
+          ]
         }
       ]
     }
