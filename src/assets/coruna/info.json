@@ -1,0 +1,21 @@
+{
+  "schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+        {
+          "time": "GENERAL",
+          "sessions": [
+            {
+              "name": "Horario de apertura",
+              "description": "Japan Weekend Bilbao tiene lugar el 8 de octubre de 2022. El horario es de 10h a 20h",
+              "image": "https://cdn-icons-png.flaticon.com/512/87/87717.png?w=360",
+              "tracks": ["Ionic"],
+              "id": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
