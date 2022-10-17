@@ -28,7 +28,7 @@
           "sessions": [
             {
               "name": "¿Qué diferencia hay entre los distintos tipos de entradas?",
-              "description": "La entrada gGeneral te permite entrar en Japan Weekend. La entrada Anticrisis añade un manga o película a reccoger en el evento.",
+              "description": "La entrada general te permite entrar en Japan Weekend. La entrada Anticrisis añade un manga o película a reccoger en el evento.",
               "tracks": ["Ionic"],
               "id": "3"
             }
