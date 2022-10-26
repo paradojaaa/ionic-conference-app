@@ -3,27 +3,15 @@
     {
       "date": "2047-05-17",
       "groups": [
-         {
-          "time": "30-09-2022",
-          "sessions": [
-            {
-              "name": "Nuevos invitados",
-              "description": "Nuevos invitados anunciados",
-              "image": "https://pbs.twimg.com/media/FfBmV2SXEAA3glJ?format=jpg&name=small",
-              "day": "30-09-2022",
-              "tracks": ["Ionic"],
-              "id": "10100"
-            }
-          ]
-        },
+         
         {
-          "time": "24-08-2022",
+          "time": "24-09-2022",
           "sessions": [
             {
               "name": "Entradas a la venta",
-              "description": "Entradas para A Coruña ya a la venta. Se abre la venta de entradas de la próxima edición de Japan Weekend A Coruña que tendrá lugar el 22 y 253 de octubre.",
-              "image": "https://acorunacb.com/wp-content/uploads/2021/03/Expocoruna-08.jpg",
-              "day": "24-08-2022",
+              "description": "Entradas para Barcelona ya a la venta. Se abre la venta de entradas de la próxima edición de Japan Weekend Barcelona que tendrá lugar el 29 y 30 de octubre.",
+              "image": "https://cd1.taquilla.com/data/images/t/fe/la-farga.jpg",
+              "day": "24-09-2022",
               "tracks": ["Ionic"],
               "id": "10101"
             }
