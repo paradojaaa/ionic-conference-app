@@ -57,7 +57,7 @@
           "time": "",
           "sessions": [
             {
-              "name": "¿Con qué edad se puede entrar si acompañante?",
+              "name": "¿Con qué edad se puede entrar sin acompañante?",
               "description": "Con 14 años o más no es necesario que entren acompañados. Los menores de 14 años necesitarán al menos un acompañante adulto.",
               "tracks": ["Ionic"],
               "id": "6"
