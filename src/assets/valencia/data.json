@@ -246,84 +246,36 @@
 
   "speakers": [
     {
-      "name": "Crisalys",
-      "profilePic": "https://tienda.japanweekend.com/app/img/crisalys.png",
-      "instagram": "curisaris",
-      "twitter": "criisalys",
+      "name": "Wade Wilder",
+      "profilePic": "https://tienda.japanweekend.com/app/img/wadewilder.png",
+      "instagram": "",
+      "twitter": "",
       "about": "",
-      "title": "Ilustradora",
+      "title": "Youtuber",
       "location": "",
       "email": "",
       "phone": "",
       "id": "119"
     },
     {
-      "name": "Xuri Fenton",
-      "profilePic": "https://tienda.japanweekend.com/app/img/xurifenton.png",
-      "instagram": "xurirux",
-      "twitter": "xurirux",
-      "about": "",
-      "title": "Ilustradora y youtuber",
-      "location": "",
-      "email": "",
-      "phone": "",
-      "id": "120"
-    },
-    {
-      "name": "Ivart",
-      "profilePic": "https://tienda.japanweekend.com/app/img/ivart.png",
-      "instagram": "_ivart",
-      "twitter": "_ivart",
-      "about": "",
-      "title": "Ilustrador y youtuber",
-      "location": "",
-      "email": "",
-      "phone": "",
-      "id": "131"
-    },
-    {
-      "name": "Luca B.",
-      "profilePic": "https://tienda.japanweekend.com/app/img/lucab.png",
-      "instagram": "Luca.b_art",
-      "twitter": "LucaB_Art",
-      "about": "",
-      "title": "Ilustradora",
-      "location": "",
-      "email": "",
-      "phone": "",
-      "id": "132"
-    },
-    {
-      "name": "Gema Vadillo",
-      "profilePic": "https://tienda.japanweekend.com/app/img/gemavadillo.png",
-      "instagram": "gemavadillo",
-      "twitter": "gemavadillo",
-      "about": "",
-      "title": "Ilustradora y youtuber",
-      "location": "",
-      "email": "",
-      "phone": "",
-      "id": "133"
-    },
-    {
-      "name": "Videópatas",
-      "profilePic": "https://tienda.japanweekend.com/app/img/videopatas.png",
-      "instagram": "videopatas",
-      "twitter": "videopatas",
+      "name": "El Bleda & Vulvarde",
+      "profilePic": "https://tienda.japanweekend.com/app/img/elbledavulvarde.png",
+      "instagram": "elbledavulvarde",
+      "twitter": "",
       "about": "",
       "title": "Youtubers",
       "location": "",
       "email": "",
       "phone": "",
-      "id": "134"
+      "id": "120"
     }
   ],
 
   "map": [
     {
-      "name": "La Farga de L'Hospitalet",
-      "lat": 41.3632739,
-      "lng": 2.1025816,
+      "name": "Feria Valencia",
+      "lat": 39.5046258,
+      "lng": -0.4301995,
       "center": true
     }
   ],
