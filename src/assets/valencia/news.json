@@ -1,0 +1,23 @@
+{
+  "schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+         
+        {
+          "time": "24-09-2022",
+          "sessions": [
+            {
+              "name": "Entradas a la venta",
+              "description": "Entradas para Barcelona ya a la venta. Se abre la venta de entradas de la próxima edición de Japan Weekend Barcelona que tendrá lugar el 29 y 30 de octubre.",
+              "image": "https://cd1.taquilla.com/data/images/t/fe/la-farga.jpg",
+              "day": "24-09-2022",
+              "tracks": ["Ionic"],
+              "id": "10101"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
