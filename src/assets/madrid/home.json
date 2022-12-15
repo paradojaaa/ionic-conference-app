@@ -9,6 +9,11 @@
                         {
                             "name": "EDICIÓN DE FEBRERO",
                             "name2": "ENTRADAS YA A LA VENTA",
+                            "available": "no",
+                            "timeStart": "8:00 am",
+                            "timeEnd": "9:00 am",
+                            "location": "Dining Hall",
+                            "tracks": [ "Food" ],
                             "id": "70001"
                         }
                     ]
