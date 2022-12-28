@@ -12,6 +12,7 @@
               "timeEnd": "11:00 am",
               "location": "EMOZ (Escuela Museo Origami de Zaragoza)",
               "tracks": ["Emoz"],
+              "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/177487722_123504863104616_5723136749877959418_n-300x300.jpg",
               "id": "413"
             }
           ]
@@ -26,6 +27,7 @@
               "timeStart": "9:30 am",
               "timeEnd": "9:45 am",
               "tracks": ["Ionic"],
+              "image": "",
               "id": "2"
             },
             {
