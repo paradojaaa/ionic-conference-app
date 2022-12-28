@@ -1,18 +1,18 @@
 {
   "schedule": [
     {
-      "date": "2047-05-17",
+      "date": "SÁBADO (9:30 - 21:00)",
       "groups": [
         {
-          "time": "8:00 am",
+          "time": "EMOZ (Escuela Museo Origami de Zaragoza)",
           "sessions": [
             {
-              "name": "Breakfastt",
-              "timeStart": "8:00 am",
-              "timeEnd": "9:00 am",
-              "location": "Dining Hall",
-              "tracks": ["Food"],
-              "id": "1"
+              "name": "Taller de Origami",
+              "timeStart": "10:00 am",
+              "timeEnd": "11:00 am",
+              "location": "EMOZ (Escuela Museo Origami de Zaragoza)",
+              "tracks": ["EMOZ (Escuela Museo Origami de Zaragoza)"],
+              "id": "413"
             }
           ]
         },
