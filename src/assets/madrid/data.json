@@ -11,7 +11,7 @@
               "timeStart": "10:00 am",
               "timeEnd": "11:00 am",
               "location": "EMOZ (Escuela Museo Origami de Zaragoza)",
-              "tracks": ["EMOZ (Escuela Museo Origami de Zaragoza)"],
+              "tracks": ["Emoz"],
               "id": "413"
             }
           ]
@@ -546,7 +546,7 @@
       "icon": "call"
     },
     {
-      "name": "EMOZ (Escuela Museo Origami de Zaragoza)",
+      "name": "Emoz",
       "icon": "compass"
     }
   ]
