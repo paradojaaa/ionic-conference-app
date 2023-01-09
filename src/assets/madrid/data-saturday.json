@@ -13,7 +13,7 @@
                       "timeStart": "10:00",
                       "timeEnd": "11:00",
                       "image": "https:\/\/www.japanweekend.com\/madrid\/wp-content\/uploads\/sites\/2\/2021\/09\/9-273x300.png",
-                      "tracks": ""
+                      "tracks": [""]
                   },
                   {
                       "id": "1040",
@@ -22,7 +22,7 @@
                       "timeStart": "10:00",
                       "timeEnd": "11:00",
                       "image": "https:\/\/www.japanweekend.com\/madrid\/wp-content\/uploads\/sites\/2\/2021\/09\/9-273x300.png",
-                      "tracks": ""
+                      "tracks": [""]
                   },
                   {
                       "id": "415",
@@ -31,7 +31,7 @@
                       "timeStart": "11:00",
                       "timeEnd": "12:00",
                       "image": "https:\/\/www.japanweekend.com\/madrid\/wp-content\/uploads\/sites\/2\/2021\/09\/9-273x300.png",
-                      "tracks": ""
+                      "tracks": [""]
                   },
                   {
                       "id": "1041",
@@ -40,7 +40,7 @@
                       "timeStart": "11:00",
                       "timeEnd": "12:00",
                       "image": "https:\/\/www.japanweekend.com\/madrid\/wp-content\/uploads\/sites\/2\/2021\/09\/9-273x300.png",
-                      "tracks": ""
+                      "tracks": [""]
                   },
                   {
                       "id": "416",
@@ -49,7 +49,7 @@
                       "timeStart": "12:00",
                       "timeEnd": "13:00",
                       "image": "https:\/\/www.japanweekend.com\/madrid\/wp-content\/uploads\/sites\/2\/2021\/09\/9-273x300.png",
-                      "tracks": ""
+                      "tracks": [""]
                   },
                   {
                       "id": "417",
@@ -58,7 +58,7 @@
                       "timeStart": "13:00",
                       "timeEnd": "14:00",
                       "image": "https:\/\/www.japanweekend.com\/madrid\/wp-content\/uploads\/sites\/2\/2021\/09\/9-273x300.png",
-                      "tracks": ""
+                      "tracks": [""]
                   },
                   {
                       "id": "418",
@@ -67,7 +67,7 @@
                       "timeStart": "16:00",
                       "timeEnd": "17:00",
                       "image": "https:\/\/www.japanweekend.com\/madrid\/wp-content\/uploads\/sites\/2\/2021\/09\/9-273x300.png",
-                      "tracks": ""
+                      "tracks": [""]
                   },
                   {
                       "id": "419",
@@ -76,7 +76,7 @@
                       "timeStart": "17:00",
                       "timeEnd": "18:00",
                       "image": "https:\/\/www.japanweekend.com\/madrid\/wp-content\/uploads\/sites\/2\/2021\/09\/9-273x300.png",
-                      "tracks": ""
+                      "tracks": [""]
                   },
                   {
                       "id": "420",
@@ -85,7 +85,7 @@
                       "timeStart": "18:00",
                       "timeEnd": "19:00",
                       "image": "https:\/\/www.japanweekend.com\/madrid\/wp-content\/uploads\/sites\/2\/2021\/09\/9-273x300.png",
-                      "tracks": ""
+                      "tracks": [""]
                   },
                   {
                       "id": "413",
@@ -94,7 +94,7 @@
                       "timeStart": "19:00",
                       "timeEnd": "20:00",
                       "image": "https:\/\/www.japanweekend.com\/madrid\/wp-content\/uploads\/sites\/2\/2021\/09\/9-273x300.png",
-                      "tracks": ""
+                      "tracks": [""]
                   }
               ]
           }
