@@ -13,9 +13,7 @@
                       "timeStart": "12:00",
                       "timeEnd": "14:30",
                       "image": "",
-                      "tracks": [
-                          "Concurso"
-                      ]
+                      "tracks": ["Concurso"]
                   },
                   {
                       "id": "1047",
