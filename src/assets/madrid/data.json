@@ -499,39 +499,39 @@
 
   "tracks": [
     {
-      "name": "Concurso",
+      "name": "Concierto",
       "icon": "logo-angular"
     },
     {
-      "name": "Cosplay",
+      "name": "Concurso",
       "icon": "document"
     },
     {
-      "name": "Food",
+      "name": "Cosplay",
       "icon": "restaurant"
     },
     {
-      "name": "Ionic",
+      "name": "Exhibición baile",
       "icon": "logo-ionic"
     },
     {
-      "name": "Tooling",
+      "name": "Taller",
       "icon": "hammer"
     },
     {
-      "name": "Design",
+      "name": "Proyecciones",
       "icon": "color-palette"
     },
     {
-      "name": "Services",
+      "name": "Random Dance",
       "icon": "cog"
     },
     {
-      "name": "Workshop",
+      "name": "Baile",
       "icon": "construct"
     },
     {
-      "name": "Communication",
+      "name": "Exhibición artes marciales",
       "icon": "call"
     },
     {
