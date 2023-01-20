@@ -135,7 +135,7 @@
                         "timeEnd": "10:30",
                         "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/banner-1763837_960_720.jpg",
                         "tracks": [
-                            "Proyecciones "
+                            "Proyecciones"
                         ]
                     },
                     {
@@ -376,10 +376,6 @@
     {
       "name": "Exhibición artes marciales",
       "icon": "call"
-    },
-    {
-      "name": "Emoz",
-      "icon": "compass"
     }
   ]
 }
