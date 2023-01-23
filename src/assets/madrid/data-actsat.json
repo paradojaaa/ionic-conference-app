@@ -1,248 +1,333 @@
 {
   "schedule": [
     {
-      "date": "SÁBADO (9:30 - 21:00)",
-      "groups": [
-        {
-          "time": "EMOZ (Actividades sábado)",
-          "sessions": [
+        "date": "SÁBADO (9:30 - 21:00)",
+        "groups": [
             {
-              "name": "Taller de Origami",
-              "timeStart": "10:00 am",
-              "timeEnd": "11:00 am",
-              "location": "EMOZ (Escuela Museo Origami de Zaragoza)",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "tracks": ["Emoz"],
-              "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/177487722_123504863104616_5723136749877959418_n-300x300.jpg",
-              "id": "413"
+                "time": "Escenario Principal",
+                "sessions": [
+                    {
+                        "id": "1159",
+                        "name": "Concierto Victormame",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/victormame-mini-273x300.png",
+                        "tracks": [
+                            "Concierto"
+                        ]
+                    },
+                    {
+                        "id": "1032",
+                        "name": "Concurso Asian Dance",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/JAPAN-WEEKEND-FINAL1-225x300.png",
+                        "tracks": [
+                            "Concurso"
+                        ]
+                    },
+                    {
+                        "id": "1137",
+                        "name": "TBA",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "15:30",
+                        "image": "",
+                        "tracks": [
+                            "Concurso"
+                        ]
+                    },
+                    {
+                        "id": "1047",
+                        "name": "Concierto 1",
+                        "description": "",
+                        "timeStart": "15:30",
+                        "timeEnd": "16:30",
+                        "image": "",
+                        "tracks": [
+                            "Concierto"
+                        ]
+                    },
+                    {
+                        "id": "1033",
+                        "name": "Concurso cosplay JWCS + ICL + PopHi + E2C",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/light-812677_960_720.jpg",
+                        "tracks": [
+                            "Concurso",
+                            "Cosplay"
+                        ]
+                    },
+                    {
+                        "id": "1046",
+                        "name": "Concierto 2",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            "Concierto"
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Escenario Multiverso",
+                "sessions": [
+                    {
+                        "id": "1114",
+                        "name": "Black Rainbow : Escuela de baile, exhibición y random dance",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "",
+                        "tracks": [
+                            "Exhibición baile"
+                        ]
+                    },
+                    {
+                        "id": "1028",
+                        "name": "Concierto Doukou Taiko",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/289496198_705444113822545_1430255860967355925_n-300x300.png",
+                        "tracks": [
+                            "Concierto"
+                        ]
+                    },
+                    {
+                        "id": "1169",
+                        "name": "Concierto TBA",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            "Concierto"
+                        ]
+                    },
+                    {
+                        "id": "1029",
+                        "name": "Taller de Taiko por Doukou Taiko",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "16:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/289496198_705444113822545_1430255860967355925_n-300x300.png",
+                        "tracks": [
+                            "Taller"
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Zona Dance",
+                "sessions": [
+                    {
+                        "id": "1048",
+                        "name": "Proyección MVs",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "10:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/banner-1763837_960_720.jpg",
+                        "tracks": [
+                            "Proyecciones"
+                        ]
+                    },
+                    {
+                        "id": "1049",
+                        "name": "Random Old Kpop",
+                        "description": "",
+                        "timeStart": "10:30",
+                        "timeEnd": "11:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                        "tracks": [
+                            "Random Dance"
+                        ]
+                    },
+                    {
+                        "id": "1050",
+                        "name": "Random New Kpop",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "11:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                        "tracks": [
+                            "Random Dance"
+                        ]
+                    },
+                    {
+                        "id": "1051",
+                        "name": "Random Asian Music",
+                        "description": "",
+                        "timeStart": "11:30",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                        "tracks": [
+                            "Random Dance"
+                        ]
+                    },
+                    {
+                        "id": "1052",
+                        "name": "Just Dance edición asiático",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
+                        "tracks": [
+                            "Baile"
+                        ]
+                    },
+                    {
+                        "id": "1053",
+                        "name": "Proyección MVs",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "15:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/banner-1763837_960_720-300x94.jpg",
+                        "tracks": [
+                            "Proyecciones"
+                        ]
+                    },
+                    {
+                        "id": "1054",
+                        "name": "Random Asian Music",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "16:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                        "tracks": [
+                            "Random Dance"
+                        ]
+                    },
+                    {
+                        "id": "1055",
+                        "name": "Sigue el baile Special Junior",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/background-819577_960_720-300x212.jpg",
+                        "tracks": [
+                            "Baile"
+                        ]
+                    },
+                    {
+                        "id": "1056",
+                        "name": "Exhibición de baile",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/lights-7633389_960_720-300x250.jpg",
+                        "tracks": [
+                            "Exhibición baile"
+                        ]
+                    },
+                    {
+                        "id": "1057",
+                        "name": "Random Dance variado",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "21:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                        "tracks": [
+                            "Random Dance"
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Conferencias 1",
+                "sessions": []
+            },
+            {
+                "time": "Conferencias 2",
+                "sessions": []
+            },
+            {
+                "time": "Escenario Actividades",
+                "sessions": []
+            },
+            {
+                "time": "Tatami 1",
+                "sessions": [
+                    {
+                        "id": "1042",
+                        "name": "Exhibición Aikido Madrid",
+                        "description": "",
+                        "timeStart": "11:30",
+                        "timeEnd": "13:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/fav.png",
+                        "tracks": [
+                            "Exhibición artes marciales"
+                        ]
+                    },
+                    {
+                        "id": "1067",
+                        "name": "Exhibición y taller de Artes Marciales por OSDAM",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/OSDAM.png",
+                        "tracks": [
+                            "Exhibición artes marciales"
+                        ]
+                    },
+                    {
+                        "id": "1116",
+                        "name": "Exhibición KENWAKAI kendo club",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Kenwakai-150x150.png",
+                        "tracks": [
+                            "Exhibición artes marciales"
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Tatami 2",
+                "sessions": [
+                    {
+                        "id": "1141",
+                        "name": "Exhibición de artes marciales \"El camino del Guerrero\"",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
+                        "tracks": [
+                            "Exhibición artes marciales"
+                        ]
+                    },
+                    {
+                        "id": "1149",
+                        "name": "Exhibición de artes marciales por SMR JoDo Seiryukai",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/SMR-JoDo-Seiryuka.jpg",
+                        "tracks": [
+                            "Exhibición artes marciales"
+                        ]
+                    },
+                    {
+                        "id": "1142",
+                        "name": "Exhibición de artes marciales \"El camino del Guerrero\"",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
+                        "tracks": [
+                            "Exhibición artes marciales"
+                        ]
+                    }
+                ]
             }
-          ]
-        },
-        {
-          "time": "9:15 am",
-          "sessions": [
-            {
-              "name": "Getting Started with Ionic",
-              "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "timeStart": "9:30 am",
-              "timeEnd": "9:45 am",
-              "tracks": ["Ionic"],
-              "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/fondo-engro-300x169.png",
-              "id": "2"
-            },
-            {
-              "name": "Ionic Tooling",
-              "location": "Executive Ballroom",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "9:45 am",
-              "timeEnd": "10:00 am",
-              "tracks": [""],
-              "id": "3"
-            },
-            {
-              "name": "University of Ionic",
-              "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ellie Elephant"],
-              "timeStart": "9:15 am",
-              "timeEnd": "9:30 am",
-              "tracks": ["Ionic"],
-              "id": "4"
-            }
-          ]
-        },
-        {
-          "time": "10:00 am",
-          "sessions": [
-            {
-              "name": "Migrating to Ionic",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Eva Eagle", "Lionel Lion"],
-              "timeStart": "10:00 am",
-              "timeEnd": "10:15 am",
-              "tracks": ["Ionic"],
-              "id": "5"
-            },
-            {
-              "name": "What's New in Angular",
-              "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "10:15 am",
-              "timeEnd": "10:30 am",
-              "tracks": ["Angular","Ionic"],
-              "id": "6"
-            },
-            {
-              "name": "The Evolution of Ionicons",
-              "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Isabella Iguana", "Eva Eagle"],
-              "timeStart": "10:15 am",
-              "timeEnd": "10:30 am",
-              "tracks": ["Design"],
-              "id": "7"
-            },
-            {
-              "name": "Ionic Pro",
-              "location": "Grand Ballroom A",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Charlie Cheetah"],
-              "timeStart": "10:45 am",
-              "timeEnd": "11:00 am",
-              "tracks": ["Services"],
-              "id": "8"
-            }
-          ]
-        },
-        {
-          "time": "11:00 am",
-          "sessions": [
-            {
-              "name": "Ionic Workshop",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Karl Kitten", "Lionel Lion"],
-              "timeStart": "11:00 am",
-              "timeEnd": "11:45 am",
-              "tracks": ["Workshop"],
-              "id": "9"
-            },
-            {
-              "name": "Community Interaction",
-              "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Lionel Lion", "Gino Giraffe"],
-              "timeStart": "11:30 am",
-              "timeEnd": "11:50 am",
-              "tracks": ["Communication"],
-              "id": "10"
-            },
-            {
-              "name": "Navigation in Ionic",
-              "location": "Grand Ballroom A",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit", "Eva Eagle"],
-              "timeStart": "11:30 am",
-              "timeEnd": "12:00 pm",
-              "tracks": ["Navigation"],
-              "id": "11"
-            }
-          ]
-        },
-        {
-          "time": "12:00 pm",
-          "sessions": [
-            {
-              "name": "Lunch",
-              "location": "Dining Hall",
-              "description": "Come grab lunch with all the Ionic fanatics and talk all things Ionic",
-              "timeStart": "12:00 pm",
-              "timeEnd": "1:00 pm",
-              "tracks": ["Food"],
-              "id": "12"
-            }
-          ]
-        },
-        {
-          "time": "1:00 pm",
-          "sessions": [
-            {
-              "name": "Ionic in the Enterprise",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Paul Puppy"],
-              "timeStart": "1:00 pm",
-              "timeEnd": "1:15 pm",
-              "tracks": ["Communication"],
-              "id": "13"
-            },
-            {
-              "name": "Ionic Worldwide",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Gino Giraffe"],
-              "timeStart": "1:15 pm",
-              "timeEnd": "1:30 pm",
-              "tracks": ["Communication"],
-              "id": "14"
-            },
-            {
-              "name": "The Ionic Package",
-              "location": "Grand Ballroom B",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Molly Mouse", "Burt Bear"],
-              "timeStart": "1:30 pm",
-              "timeEnd": "2:00 pm",
-              "tracks": ["Services"],
-              "id": "15"
-            }
-          ]
-        },
-        {
-          "time": "2:00 pm",
-          "sessions": [
-            {
-              "name": "Push Notifications in Ionic",
-              "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Burt Bear", "Charlie Cheetah"],
-              "timeStart": "2:00 pm",
-              "timeEnd": "2:30 pm",
-              "tracks": ["Services"],
-              "id": "16"
-            },
-            {
-              "name": "Ionic Documentation",
-              "location": "Grand Ballroom B",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Donald Duck"],
-              "timeStart": "2:30 pm",
-              "timeEnd": "2:45 pm",
-              "tracks": ["Documentation"],
-              "id": "17"
-            },
-            {
-              "name": "UX in Ionic",
-              "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Isabella Iguana", "Ellie Elephant"],
-              "timeStart": "2:45 pm",
-              "timeEnd": "3:00 pm",
-              "tracks": ["Design"],
-              "id": "18"
-            }
-          ]
-        },
-        {
-          "time": "3:00",
-          "sessions": [
-            {
-              "name": "Angular Directives in Ionic",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ted Turtle"],
-              "timeStart": "3:00 pm",
-              "timeEnd": "3:30 pm",
-              "tracks": ["Angular"],
-              "id": "19"
-            },
-            {
-              "name": "Mobile States",
-              "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "3:30 pm",
-              "timeEnd": "3:45 pm",
-              "tracks": ["Navigation"],
-              "id": "20"
-            }
-          ]
-        }
-      ]
+        ]
     }
   ],
 
@@ -257,44 +342,40 @@
 
   "tracks": [
     {
-      "name": "Angular",
+      "name": "Concierto",
       "icon": "logo-angular"
     },
     {
-      "name": "Documentation",
+      "name": "Concurso",
       "icon": "document"
     },
     {
-      "name": "Food",
+      "name": "Cosplay",
       "icon": "restaurant"
     },
     {
-      "name": "Ionic",
+      "name": "Exhibición baile",
       "icon": "logo-ionic"
     },
     {
-      "name": "Tooling",
+      "name": "Taller",
       "icon": "hammer"
     },
     {
-      "name": "Design",
+      "name": "Proyecciones",
       "icon": "color-palette"
     },
     {
-      "name": "Services",
+      "name": "Random Dance",
       "icon": "cog"
     },
     {
-      "name": "Workshop",
+      "name": "Baile",
       "icon": "construct"
     },
     {
-      "name": "Communication",
+      "name": "Exhibición artes marciales",
       "icon": "call"
-    },
-    {
-      "name": "Emoz",
-      "icon": "compass"
     }
   ]
 }
