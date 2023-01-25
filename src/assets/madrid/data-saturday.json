@@ -1,10 +1,10 @@
 {
   "schedule": [
     {
-        "date": "SÁBADO (9:30 - 21:00)",
+        "date": "SÁBADO (9:30 - 21:00) 2",
         "groups": [
             {
-                "time": "Escenario Principal",
+                "time": "Escenario Principal Sab",
                 "sessions": [
                     {
                         "id": "1159",
