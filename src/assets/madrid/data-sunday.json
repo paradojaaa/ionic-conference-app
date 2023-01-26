@@ -7,7 +7,7 @@
                 "time": "Escenario Principal",
                 "sessions": [
                     {
-                        "id": "1159",
+                        "id": "11591",
                         "name": "Concierto Victormame",
                         "description": "",
                         "timeStart": "11:00",
@@ -18,7 +18,7 @@
                         ]
                     },
                     {
-                        "id": "1032",
+                        "id": "10321",
                         "name": "Concurso Asian Dance",
                         "description": "",
                         "timeStart": "12:00",
@@ -29,7 +29,7 @@
                         ]
                     },
                     {
-                        "id": "1137",
+                        "id": "11371",
                         "name": "TBA",
                         "description": "",
                         "timeStart": "14:00",
@@ -40,7 +40,7 @@
                         ]
                     },
                     {
-                        "id": "1047",
+                        "id": "10471",
                         "name": "Concierto 1",
                         "description": "",
                         "timeStart": "15:30",
@@ -51,7 +51,7 @@
                         ]
                     },
                     {
-                        "id": "1033",
+                        "id": "10331",
                         "name": "Concurso cosplay JWCS + ICL + PopHi + E2C",
                         "description": "",
                         "timeStart": "16:30",
@@ -63,7 +63,7 @@
                         ]
                     },
                     {
-                        "id": "1046",
+                        "id": "10461",
                         "name": "Concierto 2",
                         "description": "",
                         "timeStart": "18:00",
