@@ -3,78 +3,7 @@
     {
         "date": "SÁBADO (9:30 - 21:00)",
         "groups": [
-            {
-                "time": "Escenario Principal",
-                "sessions": [
-                    {
-                        "id": "11591",
-                        "name": "Concierto Victormame",
-                        "description": "",
-                        "timeStart": "11:00",
-                        "timeEnd": "12:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/victormame-mini-273x300.png",
-                        "tracks": [
-                            "Concierto"
-                        ]
-                    },
-                    {
-                        "id": "10321",
-                        "name": "Concurso Asian Dance",
-                        "description": "",
-                        "timeStart": "12:00",
-                        "timeEnd": "14:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/JAPAN-WEEKEND-FINAL1-225x300.png",
-                        "tracks": [
-                            "Concurso"
-                        ]
-                    },
-                    {
-                        "id": "11371",
-                        "name": "TBA",
-                        "description": "",
-                        "timeStart": "14:00",
-                        "timeEnd": "15:30",
-                        "image": "",
-                        "tracks": [
-                            "Concurso"
-                        ]
-                    },
-                    {
-                        "id": "10471",
-                        "name": "Concierto 1",
-                        "description": "",
-                        "timeStart": "15:30",
-                        "timeEnd": "16:30",
-                        "image": "",
-                        "tracks": [
-                            "Concierto"
-                        ]
-                    },
-                    {
-                        "id": "10331",
-                        "name": "Concurso cosplay JWCS + ICL + PopHi + E2C",
-                        "description": "",
-                        "timeStart": "16:30",
-                        "timeEnd": "18:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/light-812677_960_720.jpg",
-                        "tracks": [
-                            "Concurso",
-                            "Cosplay"
-                        ]
-                    },
-                    {
-                        "id": "10461",
-                        "name": "Concierto 2",
-                        "description": "",
-                        "timeStart": "18:00",
-                        "timeEnd": "19:00",
-                        "image": "",
-                        "tracks": [
-                            "Concierto"
-                        ]
-                    }
-                ]
-            },
+           
             {
                 "time": "Escenario Multiverso",
                 "sessions": [

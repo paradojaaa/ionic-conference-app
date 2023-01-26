@@ -75,55 +75,7 @@
                     }
                 ]
             },
-            {
-                "time": "Escenario Multiverso",
-                "sessions": [
-                    {
-                        "id": "1114",
-                        "name": "Black Rainbow : Escuela de baile, exhibición y random dance",
-                        "description": "",
-                        "timeStart": "11:00",
-                        "timeEnd": "12:00",
-                        "image": "",
-                        "tracks": [
-                            "Exhibición baile"
-                        ]
-                    },
-                    {
-                        "id": "1028",
-                        "name": "Concierto Doukou Taiko",
-                        "description": "",
-                        "timeStart": "12:00",
-                        "timeEnd": "13:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/289496198_705444113822545_1430255860967355925_n-300x300.png",
-                        "tracks": [
-                            "Concierto"
-                        ]
-                    },
-                    {
-                        "id": "1169",
-                        "name": "Concierto TBA",
-                        "description": "",
-                        "timeStart": "13:00",
-                        "timeEnd": "14:00",
-                        "image": "",
-                        "tracks": [
-                            "Concierto"
-                        ]
-                    },
-                    {
-                        "id": "1029",
-                        "name": "Taller de Taiko por Doukou Taiko",
-                        "description": "",
-                        "timeStart": "16:00",
-                        "timeEnd": "16:30",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/289496198_705444113822545_1430255860967355925_n-300x300.png",
-                        "tracks": [
-                            "Taller"
-                        ]
-                    }
-                ]
-            },
+            
             {
                 "time": "Zona Dance",
                 "sessions": [
