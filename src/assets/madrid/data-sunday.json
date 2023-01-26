@@ -1,330 +1,402 @@
 {
-  "schedule": [
-    {
-        "date": "SÁBADO (9:30 - 21:00)",
-        "groups": [
-           
-            {
-                "time": "Escenario Multiverso",
-                "sessions": [
-                    {
-                        "id": "1114",
-                        "name": "Black Rainbow : Escuela de baile, exhibición y random dance",
-                        "description": "",
-                        "timeStart": "11:00",
-                        "timeEnd": "12:00",
-                        "image": "",
-                        "tracks": [
-                            "Exhibición baile"
-                        ]
-                    },
-                    {
-                        "id": "1028",
-                        "name": "Concierto Doukou Taiko",
-                        "description": "",
-                        "timeStart": "12:00",
-                        "timeEnd": "13:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/289496198_705444113822545_1430255860967355925_n-300x300.png",
-                        "tracks": [
-                            "Concierto"
-                        ]
-                    },
-                    {
-                        "id": "1169",
-                        "name": "Concierto TBA",
-                        "description": "",
-                        "timeStart": "13:00",
-                        "timeEnd": "14:00",
-                        "image": "",
-                        "tracks": [
-                            "Concierto"
-                        ]
-                    },
-                    {
-                        "id": "1029",
-                        "name": "Taller de Taiko por Doukou Taiko",
-                        "description": "",
-                        "timeStart": "16:00",
-                        "timeEnd": "16:30",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/289496198_705444113822545_1430255860967355925_n-300x300.png",
-                        "tracks": [
-                            "Taller"
-                        ]
-                    }
-                ]
-            },
-            {
-                "time": "Zona Dance",
-                "sessions": [
-                    {
-                        "id": "1048",
-                        "name": "Proyección MVs",
-                        "description": "",
-                        "timeStart": "09:30",
-                        "timeEnd": "10:30",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/banner-1763837_960_720.jpg",
-                        "tracks": [
-                            "Proyecciones"
-                        ]
-                    },
-                    {
-                        "id": "1049",
-                        "name": "Random Old Kpop",
-                        "description": "",
-                        "timeStart": "10:30",
-                        "timeEnd": "11:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
-                        "tracks": [
-                            "Random Dance"
-                        ]
-                    },
-                    {
-                        "id": "1050",
-                        "name": "Random New Kpop",
-                        "description": "",
-                        "timeStart": "11:00",
-                        "timeEnd": "11:30",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
-                        "tracks": [
-                            "Random Dance"
-                        ]
-                    },
-                    {
-                        "id": "1051",
-                        "name": "Random Asian Music",
-                        "description": "",
-                        "timeStart": "11:30",
-                        "timeEnd": "12:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
-                        "tracks": [
-                            "Random Dance"
-                        ]
-                    },
-                    {
-                        "id": "1052",
-                        "name": "Just Dance edición asiático",
-                        "description": "",
-                        "timeStart": "12:00",
-                        "timeEnd": "14:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
-                        "tracks": [
-                            "Baile"
-                        ]
-                    },
-                    {
-                        "id": "1053",
-                        "name": "Proyección MVs",
-                        "description": "",
-                        "timeStart": "14:00",
-                        "timeEnd": "15:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/banner-1763837_960_720-300x94.jpg",
-                        "tracks": [
-                            "Proyecciones"
-                        ]
-                    },
-                    {
-                        "id": "1054",
-                        "name": "Random Asian Music",
-                        "description": "",
-                        "timeStart": "15:00",
-                        "timeEnd": "16:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
-                        "tracks": [
-                            "Random Dance"
-                        ]
-                    },
-                    {
-                        "id": "1055",
-                        "name": "Sigue el baile Special Junior",
-                        "description": "",
-                        "timeStart": "16:00",
-                        "timeEnd": "17:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/background-819577_960_720-300x212.jpg",
-                        "tracks": [
-                            "Baile"
-                        ]
-                    },
-                    {
-                        "id": "1056",
-                        "name": "Exhibición de baile",
-                        "description": "",
-                        "timeStart": "17:00",
-                        "timeEnd": "18:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/lights-7633389_960_720-300x250.jpg",
-                        "tracks": [
-                            "Exhibición baile"
-                        ]
-                    },
-                    {
-                        "id": "1057",
-                        "name": "Random Dance variado",
-                        "description": "",
-                        "timeStart": "18:00",
-                        "timeEnd": "21:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
-                        "tracks": [
-                            "Random Dance"
-                        ]
-                    }
-                ]
-            },
-            {
-                "time": "Conferencias 1",
-                "sessions": []
-            },
-            {
-                "time": "Conferencias 2",
-                "sessions": []
-            },
-            {
-                "time": "Escenario Actividades",
-                "sessions": []
-            },
-            {
-                "time": "Tatami 1",
-                "sessions": [
-                    {
-                        "id": "1042",
-                        "name": "Exhibición Aikido Madrid",
-                        "description": "",
-                        "timeStart": "11:30",
-                        "timeEnd": "13:30",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/fav.png",
-                        "tracks": [
-                            "Exhibición artes marciales"
-                        ]
-                    },
-                    {
-                        "id": "1067",
-                        "name": "Exhibición y taller de Artes Marciales por OSDAM",
-                        "description": "",
-                        "timeStart": "15:00",
-                        "timeEnd": "18:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/OSDAM.png",
-                        "tracks": [
-                            "Exhibición artes marciales"
-                        ]
-                    },
-                    {
-                        "id": "1116",
-                        "name": "Exhibición KENWAKAI kendo club",
-                        "description": "",
-                        "timeStart": "18:00",
-                        "timeEnd": "20:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Kenwakai-150x150.png",
-                        "tracks": [
-                            "Exhibición artes marciales"
-                        ]
-                    }
-                ]
-            },
-            {
-                "time": "Tatami 2",
-                "sessions": [
-                    {
-                        "id": "1141",
-                        "name": "Exhibición de artes marciales \"El camino del Guerrero\"",
-                        "description": "",
-                        "timeStart": "12:00",
-                        "timeEnd": "13:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
-                        "tracks": [
-                            "Exhibición artes marciales"
-                        ]
-                    },
-                    {
-                        "id": "1149",
-                        "name": "Exhibición de artes marciales por SMR JoDo Seiryukai",
-                        "description": "",
-                        "timeStart": "17:00",
-                        "timeEnd": "18:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/SMR-JoDo-Seiryuka.jpg",
-                        "tracks": [
-                            "Exhibición artes marciales"
-                        ]
-                    },
-                    {
-                        "id": "1142",
-                        "name": "Exhibición de artes marciales \"El camino del Guerrero\"",
-                        "description": "",
-                        "timeStart": "18:00",
-                        "timeEnd": "19:00",
-                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
-                        "tracks": [
-                            "Exhibición artes marciales"
-                        ]
-                    }
-                ]
-            }
-        ]
-    }
-  ],
-
+    "schedule": [
+      {
+          "date": "SÁBADO (9:30 - 21:00)",
+          "groups": [
+              {
+                  "time": "Escenario Principal",
+                  "sessions": [
+                      {
+                          "id": "11591",
+                          "name": "Concierto Victormame Domingo1",
+                          "description": "Concierto Victormame Sábado descripción",
+                          "timeStart": "11:00",
+                          "timeEnd": "12:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/victormame-mini-273x300.png",
+                          "tracks": [
+                              "Concierto"
+                          ]
+                      },
+                      {
+                          "id": "10321",
+                          "name": "Concurso Asian Dance",
+                          "description": "",
+                          "timeStart": "12:00",
+                          "timeEnd": "14:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/JAPAN-WEEKEND-FINAL1-225x300.png",
+                          "tracks": [
+                              "Concurso"
+                          ]
+                      },
+                      {
+                          "id": "11371",
+                          "name": "TBA",
+                          "description": "",
+                          "timeStart": "14:00",
+                          "timeEnd": "15:30",
+                          "image": "",
+                          "tracks": [
+                              "Concurso"
+                          ]
+                      },
+                      {
+                          "id": "10471",
+                          "name": "Concierto 1",
+                          "description": "",
+                          "timeStart": "15:30",
+                          "timeEnd": "16:30",
+                          "image": "",
+                          "tracks": [
+                              "Concierto"
+                          ]
+                      },
+                      {
+                          "id": "10331",
+                          "name": "Concurso cosplay JWCS + ICL + PopHi + E2C",
+                          "description": "",
+                          "timeStart": "16:30",
+                          "timeEnd": "18:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/light-812677_960_720.jpg",
+                          "tracks": [
+                              "Concurso",
+                              "Cosplay"
+                          ]
+                      },
+                      {
+                          "id": "10461",
+                          "name": "Concierto 2",
+                          "description": "",
+                          "timeStart": "18:00",
+                          "timeEnd": "19:00",
+                          "image": "",
+                          "tracks": [
+                              "Concierto"
+                          ]
+                      }
+                  ]
+              },
+              {
+                  "time": "Escenario Multiverso",
+                  "sessions": [
+                      {
+                          "id": "1114",
+                          "name": "Black Rainbow : Escuela de baile, exhibición y random dance",
+                          "description": "",
+                          "timeStart": "11:00",
+                          "timeEnd": "12:00",
+                          "image": "",
+                          "tracks": [
+                              "Exhibición baile"
+                          ]
+                      },
+                      {
+                          "id": "1028",
+                          "name": "Concierto Doukou Taiko",
+                          "description": "",
+                          "timeStart": "12:00",
+                          "timeEnd": "13:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/289496198_705444113822545_1430255860967355925_n-300x300.png",
+                          "tracks": [
+                              "Concierto"
+                          ]
+                      },
+                      {
+                          "id": "1169",
+                          "name": "Concierto TBA",
+                          "description": "",
+                          "timeStart": "13:00",
+                          "timeEnd": "14:00",
+                          "image": "",
+                          "tracks": [
+                              "Concierto"
+                          ]
+                      },
+                      {
+                          "id": "1029",
+                          "name": "Taller de Taiko por Doukou Taiko",
+                          "description": "",
+                          "timeStart": "16:00",
+                          "timeEnd": "16:30",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/289496198_705444113822545_1430255860967355925_n-300x300.png",
+                          "tracks": [
+                              "Taller"
+                          ]
+                      }
+                  ]
+              },
+              {
+                  "time": "Zona Dance",
+                  "sessions": [
+                      {
+                          "id": "1048",
+                          "name": "Proyección MVs",
+                          "description": "",
+                          "timeStart": "09:30",
+                          "timeEnd": "10:30",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/banner-1763837_960_720.jpg",
+                          "tracks": [
+                              "Proyecciones"
+                          ]
+                      },
+                      {
+                          "id": "1049",
+                          "name": "Random Old Kpop",
+                          "description": "",
+                          "timeStart": "10:30",
+                          "timeEnd": "11:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                          "tracks": [
+                              "Random Dance"
+                          ]
+                      },
+                      {
+                          "id": "1050",
+                          "name": "Random New Kpop",
+                          "description": "",
+                          "timeStart": "11:00",
+                          "timeEnd": "11:30",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                          "tracks": [
+                              "Random Dance"
+                          ]
+                      },
+                      {
+                          "id": "1051",
+                          "name": "Random Asian Music",
+                          "description": "",
+                          "timeStart": "11:30",
+                          "timeEnd": "12:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                          "tracks": [
+                              "Random Dance"
+                          ]
+                      },
+                      {
+                          "id": "1052",
+                          "name": "Just Dance edición asiático",
+                          "description": "",
+                          "timeStart": "12:00",
+                          "timeEnd": "14:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
+                          "tracks": [
+                              "Baile"
+                          ]
+                      },
+                      {
+                          "id": "1053",
+                          "name": "Proyección MVs",
+                          "description": "",
+                          "timeStart": "14:00",
+                          "timeEnd": "15:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/banner-1763837_960_720-300x94.jpg",
+                          "tracks": [
+                              "Proyecciones"
+                          ]
+                      },
+                      {
+                          "id": "1054",
+                          "name": "Random Asian Music",
+                          "description": "",
+                          "timeStart": "15:00",
+                          "timeEnd": "16:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                          "tracks": [
+                              "Random Dance"
+                          ]
+                      },
+                      {
+                          "id": "1055",
+                          "name": "Sigue el baile Special Junior",
+                          "description": "",
+                          "timeStart": "16:00",
+                          "timeEnd": "17:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/background-819577_960_720-300x212.jpg",
+                          "tracks": [
+                              "Baile"
+                          ]
+                      },
+                      {
+                          "id": "1056",
+                          "name": "Exhibición de baile",
+                          "description": "",
+                          "timeStart": "17:00",
+                          "timeEnd": "18:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/lights-7633389_960_720-300x250.jpg",
+                          "tracks": [
+                              "Exhibición baile"
+                          ]
+                      },
+                      {
+                          "id": "1057",
+                          "name": "Random Dance variado",
+                          "description": "",
+                          "timeStart": "18:00",
+                          "timeEnd": "21:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                          "tracks": [
+                              "Random Dance"
+                          ]
+                      }
+                  ]
+              },
+              {
+                  "time": "Conferencias 1",
+                  "sessions": []
+              },
+              {
+                  "time": "Conferencias 2",
+                  "sessions": []
+              },
+              {
+                  "time": "Escenario Actividades",
+                  "sessions": []
+              },
+              {
+                  "time": "Tatami 1",
+                  "sessions": [
+                      {
+                          "id": "1042",
+                          "name": "Exhibición Aikido Madrid",
+                          "description": "",
+                          "timeStart": "11:30",
+                          "timeEnd": "13:30",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/fav.png",
+                          "tracks": [
+                              "Exhibición artes marciales"
+                          ]
+                      },
+                      {
+                          "id": "1067",
+                          "name": "Exhibición y taller de Artes Marciales por OSDAM",
+                          "description": "",
+                          "timeStart": "15:00",
+                          "timeEnd": "18:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/OSDAM.png",
+                          "tracks": [
+                              "Exhibición artes marciales"
+                          ]
+                      },
+                      {
+                          "id": "1116",
+                          "name": "Exhibición KENWAKAI kendo club",
+                          "description": "",
+                          "timeStart": "18:00",
+                          "timeEnd": "20:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Kenwakai-150x150.png",
+                          "tracks": [
+                              "Exhibición artes marciales"
+                          ]
+                      }
+                  ]
+              },
+              {
+                  "time": "Tatami 2",
+                  "sessions": [
+                      {
+                          "id": "1141",
+                          "name": "Exhibición de artes marciales \"El camino del Guerrero\"",
+                          "description": "",
+                          "timeStart": "12:00",
+                          "timeEnd": "13:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
+                          "tracks": [
+                              "Exhibición artes marciales"
+                          ]
+                      },
+                      {
+                          "id": "1149",
+                          "name": "Exhibición de artes marciales por SMR JoDo Seiryukai",
+                          "description": "",
+                          "timeStart": "17:00",
+                          "timeEnd": "18:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/SMR-JoDo-Seiryuka.jpg",
+                          "tracks": [
+                              "Exhibición artes marciales"
+                          ]
+                      },
+                      {
+                          "id": "1142",
+                          "name": "Exhibición de artes marciales \"El camino del Guerrero\"",
+                          "description": "",
+                          "timeStart": "18:00",
+                          "timeEnd": "19:00",
+                          "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
+                          "tracks": [
+                              "Exhibición artes marciales"
+                          ]
+                      }
+                  ]
+              }
+          ]
+      }
+    ],
   
-  "speakers": [
     
-  ],
-
-  "map": [
-    
-  ],
-
-  "tracks": [
-    {
-      "name": "Concierto",
-      "icon": "logo-angular"
-    },
-    {
-      "name": "Concurso",
-      "icon": "document"
-    },
-    {
-      "name": "Cosplay",
-      "icon": "restaurant"
-    },
-    {
-      "name": "Exhibición baile",
-      "icon": "logo-ionic"
-    },
-    {
-      "name": "Taller",
-      "icon": "hammer"
-    },
-    {
-      "name": "Proyecciones",
-      "icon": "color-palette"
-    },
-    {
-      "name": "Random Dance",
-      "icon": "cog"
-    },
-    {
-      "name": "Baile",
-      "icon": "construct"
-    },
-    {
-      "name": "Exhibición artes marciales",
-      "icon": "call"
-    }
-  ]
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    "speakers": [
+      
+    ],
+  
+    "map": [
+      
+    ],
+  
+    "tracks": [
+      {
+        "name": "Concierto",
+        "icon": "logo-angular"
+      },
+      {
+        "name": "Concurso",
+        "icon": "document"
+      },
+      {
+        "name": "Cosplay",
+        "icon": "restaurant"
+      },
+      {
+        "name": "Exhibición baile",
+        "icon": "logo-ionic"
+      },
+      {
+        "name": "Taller",
+        "icon": "hammer"
+      },
+      {
+        "name": "Proyecciones",
+        "icon": "color-palette"
+      },
+      {
+        "name": "Random Dance",
+        "icon": "cog"
+      },
+      {
+        "name": "Baile",
+        "icon": "construct"
+      },
+      {
+        "name": "Exhibición artes marciales",
+        "icon": "call"
+      }
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
