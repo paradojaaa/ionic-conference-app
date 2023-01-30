@@ -377,7 +377,16 @@
         "name": "Exhibición artes marciales",
         "icon": "call"
       }
-    ]
+    ],
+
+
+    "date": [
+        {
+          "year": "2023",
+          "month": "0",
+          "day": "30"
+        }      
+      ]
   }
   
   
