@@ -21,7 +21,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "113"
+      "id": "101"
     },
     {
       "name": "Vye",
@@ -33,7 +33,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "115"
+      "id": "103"
     },
     {
       "name": "EMOZ",
@@ -45,7 +45,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "114"
+      "id": "105"
     },
     {
       "name": "Victormame",
@@ -57,7 +57,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "116"
+      "id": "107"
     },
     {
       "name": "Shinorisu",
@@ -69,7 +69,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "110"
+      "id": "109"
     },
     {
       "name": "Blank Paper",
@@ -93,7 +93,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "117"
+      "id": "113"
     },
     {
       "name": "Masterchenf",
@@ -105,7 +105,31 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "118"
+      "id": "115"
+    },
+    {
+      "name": "Isaky",
+      "profilePic": "https://entradas.japanweekend.com/app/img/isaki.png",
+      "instagram": "isaky_tm",
+      "twitter": "isaky_tm",
+      "about": "",
+      "title": "Ilustradora",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "117"
+    },
+    {
+      "name": "Mochipanko",
+      "profilePic": "https://entradas.japanweekend.com/app/img/mochipanko.png",
+      "instagram": "mochipanko",
+      "twitter": "mochiipanko",
+      "about": "",
+      "title": "Ilustradora y tatuadora",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "119"
     }
   ],
 
