@@ -7,8 +7,8 @@
           "time": "",
           "sessions": [
             {
-              "name": "¿Es necesario indicar el nombre de los asistentes?",
-              "description": "No, en esta edición no es necesario indicar el nombre de los asistentes.\nEn las entradas aparecerá el nombre del comprador.",
+              "name": "¿Puedo usar la entrada si está a nombre de otra persona?",
+              "description": "Sí, las entradas no son nominales, se puede entrar con una entrada a nombre de otra persona.",
               "tracks": ["Ionic"],
               "id": "1"
             }
@@ -17,8 +17,8 @@
           "time": "",
           "sessions": [
             {
-              "name": "¿Para qué sirve elegir la hora de entrada al comprar las entradas?",
-              "description": "La hora elegida al comprar la entrada significa que podrá entrar a partir de esa hora, podrá entrar antes pero no después.\nLas horas más tempranas se irán agotando ya que hay un número limitado de entradas por hora.",
+              "name": "¿Tengo que entrar a la hora exacta que indica la entrada?",
+              "description": "La hora que marca la entrada es la hora a partir de la que se puede entrar, puede entrar más tarde de esa hora pero no antes.",
               "tracks": ["Ionic"],
               "id": "2"
             }
@@ -28,7 +28,7 @@
           "sessions": [
             {
               "name": "¿Qué diferencia hay entre los distintos tipos de entradas?",
-              "description": "La entrada gGeneral te permite entrar en Japan Weekend. La entrada Anticrisis añade un manga o película a reccoger en el evento.",
+              "description": "La entrada general te permite entrar en Japan Weekend. La entrada Anticrisis añade un manga o película a reccoger en el evento.",
               "tracks": ["Ionic"],
               "id": "3"
             }
@@ -38,7 +38,7 @@
           "sessions": [
             {
               "name": "¿Se puede salir y volver a entrar al evento?",
-              "description": "Sí, se puede salir y volver a entrar al recinto.",
+              "description": "Sí se puede salir y volver a entrar al recinto. Se debe escanear la entrada en el momento de salir y conservarla.",
               "tracks": ["Ionic"],
               "id": "4"
             }
@@ -48,7 +48,7 @@
           "sessions": [
             {
               "name": "¿Hay entrada especial para niños?",
-              "description": "Los menores de 7 años (6 años o menos) no necesitan entrada si van acompañados de un adulto. El resto de niños necesitará una entrada normal.",
+              "description": "Los menores de 7 años (6 años o menos) no necesitan entrada si van acompañados de un adulto (se puede pedir documento acreditativo de la edad en la entrada). El resto necesitará una entrada normal.",
               "tracks": ["Ionic"],
               "id": "5"
             }
@@ -78,7 +78,7 @@
           "sessions": [
             {
               "name": "¿Se puede cambiar de hora o de día la entrada?",
-              "description": "En función de la disponibilidad, escribiendo a tienda@japanweekend.com podemos intentar cambiar la hora o el día.\nNo se admitirán cambios en la semana previa al evento.",
+              "description": "Salvo que en las condiciones del evento se indique lo contrario, no se pueden hacer cambios de hora o día.",
               "tracks": ["Ionic"],
               "id": "8"
             }
