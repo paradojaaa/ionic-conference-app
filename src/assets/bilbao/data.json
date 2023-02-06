@@ -10,40 +10,28 @@
 
   "speakers": [
     {
-      "name": "Gema Vadillo",
-      "profilePic": "https://tienda.japanweekend.com/app/img/gemavadillo.png",
-      "instagram": "gemavadillo",
-      "twitter": "gemavadillo",
-      "about": "Gema es la autora de Schizein y la ciudad donde ya no sale el sol, ilustradora y creadora de contenido. En 2014 abrió su canal de Youtube y en 2017 ingresó en una escuela de Ilustración, Publicidad Y Diseño en Madrid. Podréis conocerla en su stand y adquirir sus ilustraciones y su libro. Próximamente el horario con todas las actividades. ",
-      "title": "Ilustradora y youtuber",
+      "name": "Darka Studio",
+      "profilePic": "https://entradas.japanweekend.com/app/img/darkastudio.png",
+      "instagram": "darka_studio",
+      "twitter": "darka_studio",
+      "about": "",
+      "title": "Cosplayer",
       "location": "",
       "email": "",
       "phone": "",
       "id": "119"
     },
     {
-      "name": "Kaos",
-      "profilePic": "https://tienda.japanweekend.com/app/img/kaos.png",
-      "instagram": "estudiokatastrofico",
-      "twitter": "studyofkaos",
-      "about": "Graduado en Bellas Artes por la Universidad de Granada, es un ilustrador, novelista y youtuber que se ha hecho muy popular en redes sociales. Kaos, el autor de Explorando La Torre, tendrá un stand donde podréis conocerle y comprar su merchandising. No faltéis el 24 y 25 de septiembre en Japan Weekend Madrid y el 8 de octubre en Japan Weekend Bilbao. ¡Os esperamos!",
-      "title": "Ilustradora y youtuber",
+      "name": "Lune Dark Wolf",
+      "profilePic": "https://entradas.japanweekend.com/app/img/lunedarkwolf.png",
+      "instagram": "lunedarkwolf",
+      "twitter": "",
+      "about": "",
+      "title": "Cosplayer",
       "location": "",
       "email": "",
       "phone": "",
-      "id": "120"
-    },
-    {
-      "name": "Paula Chesire",
-      "profilePic": "https://tienda.japanweekend.com/app/img/paulachesire.png",
-      "instagram": "lunaticpaw",
-      "twitter": "LunaticPaw",
-      "about": "Escultora digital española con más de 5 años de experiencia en la industria de los toys, ha trabajado en múltiples productos con variedad de estilos para marcas como Funko, Super7 y StickUp Monsters.",
-      "title": "Ilustradora",
-      "location": "",
-      "email": "",
-      "phone": "",
-      "id": "131"
+      "id": "121"
     }
   ],
 
