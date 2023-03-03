@@ -1,0 +1,662 @@
+{
+    "schedule": [
+        {
+            "date": "DOMINGO (10:00 - 20:00)",
+            "groups": [
+                {
+                    "time": "Escenario Principal",
+                    "sessions": [
+                        {
+                            "id": "1308",
+                            "name": "Exhibición Ludosport Hispania",
+                            "description": "",
+                            "timeStart": "11:30",
+                            "timeEnd": "12:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/06a4055b.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1034",
+                            "name": "Idol Festival",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "14:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/light-812677_960_720-300x225.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1045",
+                            "name": "Concierto Blank Paper",
+                            "description": "",
+                            "timeStart": "14:00",
+                            "timeEnd": "15:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/blank-mini.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1295",
+                            "name": "Exhibición de baile con AOE",
+                            "description": "",
+                            "timeStart": "15:15",
+                            "timeEnd": "16:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/logo-odorites-2019.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1044",
+                            "name": "Concierto MADASEKA",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/miniaturas-madrid-273x300.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1035",
+                            "name": "Concurso Cosplay Pasarela + ICL",
+                            "description": "",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/background-819577_960_720.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1297",
+                            "name": "Rave Otaku",
+                            "description": "",
+                            "timeStart": "18:00",
+                            "timeEnd": "19:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1253",
+                            "name": "Entrega de premios Pasarela + ICL",
+                            "description": "",
+                            "timeStart": "19:00",
+                            "timeEnd": "19:30",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Escenario Multiverso",
+                    "sessions": [
+                        {
+                            "id": "1030",
+                            "name": "Concierto Doukou Taiko",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "12:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/289496198_705444113822545_1430255860967355925_n-300x300.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1115",
+                            "name": "Concurso de Cosplay Junior",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:45",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2018/11/pattern-min.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1306",
+                            "name": "Concierto Alessandra",
+                            "description": "",
+                            "timeStart": "13:45",
+                            "timeEnd": "14:15",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/02/Alessandra-Di-Vita.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1069",
+                            "name": "Concurso de Karaoke",
+                            "description": "",
+                            "timeStart": "14:15",
+                            "timeEnd": "16:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/audio-1851517_960_720-300x200.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1031",
+                            "name": "Taller de Taiko por Doukou Taiko",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "16:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/289496198_705444113822545_1430255860967355925_n-300x300.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1356",
+                            "name": "Korejan Party: Sesión de música anime y kpop",
+                            "description": "",
+                            "timeStart": "16:30",
+                            "timeEnd": "18:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/02/Logo-Korejan.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Zona Dance",
+                    "sessions": [
+                        {
+                            "id": "1058",
+                            "name": "Proyección MVs",
+                            "description": "",
+                            "timeStart": "10:00",
+                            "timeEnd": "11:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/banner-1763837_960_720-300x94.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1060",
+                            "name": "Sigue el baile especial Infantil",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "12:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/background-819577_960_720-300x212.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1059",
+                            "name": "Just Dance edición asiático",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1061",
+                            "name": "Quiz K-pop y Adivina el MV colaboración Academia Edeluri",
+                            "description": "",
+                            "timeStart": "13:00",
+                            "timeEnd": "14:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/edeluri.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1062",
+                            "name": "Random Asian Music",
+                            "description": "",
+                            "timeStart": "14:00",
+                            "timeEnd": "14:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1063",
+                            "name": "Proyección MVs",
+                            "description": "",
+                            "timeStart": "14:30",
+                            "timeEnd": "15:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/banner-1763837_960_720-300x94.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1064",
+                            "name": "Just Dance edición asiático",
+                            "description": "",
+                            "timeStart": "15:00",
+                            "timeEnd": "16:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1065",
+                            "name": "Exhibición de baile",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/lights-7633389_960_720-300x250.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1066",
+                            "name": "Random dance variado",
+                            "description": "",
+                            "timeStart": "17:00",
+                            "timeEnd": "20:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Conferencias 1",
+                    "sessions": [
+                        {
+                            "id": "1274",
+                            "name": "Charla/demostración \"Kado. El camino de las flores\" con Sakura Atelier.",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/02/Ikebana.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1350",
+                            "name": "\"Presentación de PRESS START: CINCO DUROS. La historia del videojuego en España. El Podcast\" Por Diego Vargas Pardo",
+                            "description": "",
+                            "timeStart": "15:00",
+                            "timeEnd": "16:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/02/65c72450.jpeg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1265",
+                            "name": "Charla/taller \"Haiku-do. El camino de la poesía\" con Sakura Atelier.",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/02/Haiku.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1220",
+                            "name": "\"Suicidas del Ikigai\" con A.J. Ogayas",
+                            "description": "",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/a.j.-ogayas-blanco-y-negro.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Conferencias 2",
+                    "sessions": [
+                        {
+                            "id": "1210",
+                            "name": "Anime Opening Quiz por Gaming Frontier",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "12:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/iVYnNn6L_400x400.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1212",
+                            "name": "\"Las autoras que nunca conocimos\" por Gema Ceacero",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1213",
+                            "name": "Conferencia: \"Yoshiko Nishitani, madre del romanticismo.\" Con ProShojoSpain",
+                            "description": "",
+                            "timeStart": "13:00",
+                            "timeEnd": "14:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/WhatsApp-Image-2023-01-29-at-17.58.25-300x169.jpeg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1211",
+                            "name": "Anime Opening Quiz por Gaming Frontier",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/iVYnNn6L_400x400.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1214",
+                            "name": "\"El arte de hacer manga con pluma\" por Gema CeaceroE",
+                            "description": "",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1215",
+                            "name": "Conferencia: \"El grupo del 24, germen del shojo manga moderno.\" Con ProShojoSpain",
+                            "description": "",
+                            "timeStart": "18:00",
+                            "timeEnd": "19:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/WhatsApp-Image-2023-01-29-at-17.58.26-2-300x169.jpeg",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Conferencias 3",
+                    "sessions": [
+                        {
+                            "id": "1293",
+                            "name": "Trivial Otaku (Kahoot!) con Gamotaku",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "12:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/LWk3zNW__400x400.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1256",
+                            "name": "TBA?",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1258",
+                            "name": "Conferencia con NeoAnimeZ y VivaerManga: \"Animes más esperados de 2023\"",
+                            "description": "",
+                            "timeStart": "13:00",
+                            "timeEnd": "14:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/02/7f579efe-c115-41ef-ae3d-5e4e16691096-300x212.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1272",
+                            "name": "\"El anime a través de los tatuajes\" por Konoha Tattoo",
+                            "description": "",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/02/Mesa-de-trabajo-2-8.png",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Paneles de Cosplay",
+                    "sessions": [
+                        {
+                            "id": "1281",
+                            "name": "\"Iniciación al cosplay\" por Athemil",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "12:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/02/SDVSDV-1.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1261",
+                            "name": "Q&A con Vye, Shinorisu y Aokiji",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/background-819577_960_720.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1264",
+                            "name": "\"Cosplay Solidario\" con Fanvención",
+                            "description": "",
+                            "timeStart": "13:30",
+                            "timeEnd": "14:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/fanvencion.png",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Tatami 1",
+                    "sessions": [
+                        {
+                            "id": "1043",
+                            "name": "Exhibición Aikido Madrid",
+                            "description": "",
+                            "timeStart": "11:30",
+                            "timeEnd": "13:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/fav.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1068",
+                            "name": "Exhibición y taller de Artes Marciales por OSDAM",
+                            "description": "",
+                            "timeStart": "15:00",
+                            "timeEnd": "18:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/OSDAM.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1117",
+                            "name": "Exhibición KENWAKAI kendo club",
+                            "description": "",
+                            "timeStart": "18:00",
+                            "timeEnd": "20:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Kenwakai-150x150.png",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Tatami 2",
+                    "sessions": [
+                        {
+                            "id": "1291",
+                            "name": "Exhibición de artes marciales con Asoc. Cult. Aikikai España",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "12:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/LogosACAEAmetsuchi.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1143",
+                            "name": "Exhibición de artes marciales \"El camino del Guerrero\"",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1144",
+                            "name": "Exhibición de artes marciales \"El camino del Guerrero\"",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1292",
+                            "name": "Exhibición de artes marciales \"Dojo Ametsuchi de Madrid\"",
+                            "description": "",
+                            "timeStart": "13:00",
+                            "timeEnd": "14:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Ametsuchi.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1298",
+                            "name": "Clase exhibición - Asociación Bujinkan Collado Dojo . Ninjtusu",
+                            "description": "",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/02/ninjutsu-3-cantos.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1299",
+                            "name": "Taller/clase abierta - Asociación Bujinkan Collado Dojo . Ninjtusu",
+                            "description": "",
+                            "timeStart": "18:00",
+                            "timeEnd": "19:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/02/ninjutsu-3-cantos.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+  
+    
+    "speakers": [
+      
+    ],
+  
+    "map": [
+      
+    ],
+  
+    "tracks": [
+      {
+        "name": "Concierto",
+        "icon": "logo-angular"
+      },
+      {
+        "name": "Concurso",
+        "icon": "document"
+      },
+      {
+        "name": "Cosplay",
+        "icon": "restaurant"
+      },
+      {
+        "name": "Exhibición baile",
+        "icon": "logo-ionic"
+      },
+      {
+        "name": "Taller",
+        "icon": "hammer"
+      },
+      {
+        "name": "Proyecciones",
+        "icon": "color-palette"
+      },
+      {
+        "name": "Random Dance",
+        "icon": "cog"
+      },
+      {
+        "name": "Baile",
+        "icon": "construct"
+      },
+      {
+        "name": "Exhibición artes marciales",
+        "icon": "call"
+      }
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

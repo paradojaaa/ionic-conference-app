@@ -1,0 +1,1524 @@
+{
+  "schedule": [
+    {
+        "date": "SÁBADO (9:30 - 21:00)",
+        "groups": [
+            {
+                "time": "EMOZ (Escuela Museo Origami de Zaragoza)",
+                "sessions": [
+                    {
+                        "id": "745",
+                        "name": "Taller de Origami",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "11:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2021/09/9-273x300.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "746",
+                        "name": "Taller de Origami",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2021/09/9-273x300.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "747",
+                        "name": "Taller de Origami",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2021/09/9-273x300.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "748",
+                        "name": "Taller de Origami",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2021/09/9-273x300.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "749",
+                        "name": "Taller de Origami",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2021/09/9-273x300.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "750",
+                        "name": "Taller de Origami",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2021/09/9-273x300.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "751",
+                        "name": "Taller de Origami",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2021/09/9-273x300.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "744",
+                        "name": "Taller de Origami",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2021/09/9-273x300.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Asoc. AIKO",
+                "sessions": [
+                    {
+                        "id": "808",
+                        "name": "Videos musicales grupos J-Pop, nuevas tendencias",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "11:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/logo-aso-aiko-300x274.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "806",
+                        "name": "Documental: \"Explosión anime en Japón\"",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/logo-aso-aiko-300x274.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "810",
+                        "name": "Teatro: \"Takeko Nakano: La última mujer samurai\"",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/logo-aso-aiko-300x274.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "811",
+                        "name": "Charla: Diferencias entre cultura española y japonesa",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/logo-aso-aiko-300x274.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "805",
+                        "name": "Teatro: \"Los amantes y la espada\"",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "15:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/logo-aso-aiko-300x274.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1196",
+                        "name": "Vídeos: Bailes de Geishas japonesas",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "16:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Aiko-150x150.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "804",
+                        "name": "Teatro: “El tabernero y su prometida\"",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/logo-aso-aiko-300x274.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "812",
+                        "name": "Charla: \"Celebraciones y festivales japoneses”",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/logo-aso-aiko-300x274.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "809",
+                        "name": "Teatro: \"Taneko Nakano: la última mujer samurai\"",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/logo-aso-aiko-300x274.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "807",
+                        "name": "Documental: \"Tokyo: Un laboratorio del futuro\"",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/logo-aso-aiko-300x274.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "803",
+                        "name": "Videos musicales J-Pop",
+                        "description": "",
+                        "timeStart": "20:00",
+                        "timeEnd": "21:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/logo-aso-aiko-300x274.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "NIWA",
+                "sessions": [
+                    {
+                        "id": "800",
+                        "name": "Taller de Kusamono clásico (en maceta)",
+                        "description": "Limitado a 12 personas, imprescindible inscribirse en el stand.",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/kusamono-300x242.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "801",
+                        "name": "Taller de Kokedama de iniciación",
+                        "description": "Limitado a 12 personas, imprescindible inscribirse en el stand.",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/Kokedamas-Niwa-09b-246x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Academia Edeluri",
+                "sessions": [
+                    {
+                        "id": "1300",
+                        "name": "Escribe tu nombre en coreano",
+                        "description": "",
+                        "timeStart": "11:30",
+                        "timeEnd": "12:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/edeluri.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1301",
+                        "name": "Taller de maquillaje por @marinaktunes",
+                        "description": "",
+                        "timeStart": "17:30",
+                        "timeEnd": "18:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/edeluri.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Inst. Kojachi - Zona Cultural",
+                "sessions": [
+                    {
+                        "id": "758",
+                        "name": "Taller de Shodo",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "11:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "765",
+                        "name": "Curso de iniciación al Reiki",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "21:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "767",
+                        "name": "Taller de dibujo manga y anime",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "21:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "762",
+                        "name": "Concurso de dibujo",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "13:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "761",
+                        "name": "Iniciación al japonés",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "757",
+                        "name": "Taller Teru Teru Bozu",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "763",
+                        "name": "Enamora pero en japonés: Haz tu love letter",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "759",
+                        "name": "Juegos tradicionales coreanos",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1162",
+                        "name": "Juegos tradicionales coreanos",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1163",
+                        "name": "Juegos tradicionales coreanos",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "760",
+                        "name": "Iniciación al Coreano",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1164",
+                        "name": "USAGI SHIORI, marcapáginas de origami",
+                        "description": "",
+                        "timeStart": "20:00",
+                        "timeEnd": "21:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Inst. Kojachi - Zona Lúdica",
+                "sessions": [
+                    {
+                        "id": "769",
+                        "name": "Golf - Fútbol",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "21:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "771",
+                        "name": "El juego de Eduardo",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "21:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "775",
+                        "name": "La ruleta de la suerte",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "21:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Inst. Kojachi - Escenario",
+                "sessions": [
+                    {
+                        "id": "776",
+                        "name": "Random Play Dance",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "11:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "780",
+                        "name": "DEMUESTRA LO QUE VALES",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "13:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1161",
+                        "name": "Concierto MikuChinatsu",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "777",
+                        "name": "TÚ SÍ LO SABES, demuestra cuánto sabes de cultura nipona",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "16:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "778",
+                        "name": "Random Play Dance",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "781",
+                        "name": "Baila y juega con Kiba y M3gan",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1276",
+                        "name": "Bingo Anime",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1277",
+                        "name": "TÚ SÍ LO SABES - Demuestra cuánto sabes de cultura nipona",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1160",
+                        "name": "Random Play Dance",
+                        "description": "",
+                        "timeStart": "20:00",
+                        "timeEnd": "21:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Veotaku - Escenario",
+                "sessions": [
+                    {
+                        "id": "782",
+                        "name": "Apertura escenario",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "10:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/fondo-engro-300x169.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "783",
+                        "name": "Origami a ciegas",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "11:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "784",
+                        "name": "Adivina el opening",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "789",
+                        "name": "Dibuja a ciegas",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "786",
+                        "name": "Kahoot",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "787",
+                        "name": "Videos musicales",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "15:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "788",
+                        "name": "Charla con cosplayer Viickyscarlet",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "15:30",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "785",
+                        "name": " Karaoke",
+                        "description": "",
+                        "timeStart": "15:30",
+                        "timeEnd": "17:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "790",
+                        "name": "Dibuja a nuestra mascota",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1145",
+                        "name": "Origami a ciegas",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1146",
+                        "name": "Variedades",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "21:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Veotaku - Zona invitados",
+                "sessions": [
+                    {
+                        "id": "791",
+                        "name": "Actividades sin horario fijo",
+                        "description": "- Exposición de figuras 3D con Kota\r\n- Escribe tu nombre en braille\r\n- Zona de descanso y ayuda para personas con discapacidad",
+                        "timeStart": "09:30",
+                        "timeEnd": "21:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/fondo-engro-300x169.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Gaming Frontier",
+                "sessions": [
+                    {
+                        "id": "802",
+                        "name": "Actividades varias",
+                        "description": "-Karaoke Otaku\r\n- Presentación Juegos de Cartas\r\n- Ludoteca\r\n- Zona Videojuegos",
+                        "timeStart": "09:30",
+                        "timeEnd": "21:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/logo-gaming-frontier-300x169.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Pegasus Community",
+                "sessions": [
+                    {
+                        "id": "1183",
+                        "name": "Pide tu canción/ Random Play KPop",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "12:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1170",
+                        "name": "Taller de carpas Koi",
+                        "description": "",
+                        "timeStart": "10:30",
+                        "timeEnd": "11:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Pegasus-150x150.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1171",
+                        "name": "Tu nombre en: Japonés",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1184",
+                        "name": "Meet & Greet: Alicia y Yumi",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "13:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1172",
+                        "name": "Pide tu canción",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1173",
+                        "name": "Taller de tamborillos chinos",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1174",
+                        "name": "Just Dance!",
+                        "description": "",
+                        "timeStart": "12:30",
+                        "timeEnd": "13:30",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1185",
+                        "name": "Photocall",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1186",
+                        "name": "Charla Confección",
+                        "description": "",
+                        "timeStart": "13:30",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1175",
+                        "name": "Blackmoon actividad",
+                        "description": "",
+                        "timeStart": "15:30",
+                        "timeEnd": "16:30",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1187",
+                        "name": "Photocall",
+                        "description": "",
+                        "timeStart": "15:30",
+                        "timeEnd": "16:30",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1188",
+                        "name": "Meet & Greet: Alicia y Yumi",
+                        "description": "",
+                        "timeStart": "15:30",
+                        "timeEnd": "17:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1176",
+                        "name": "Concurso de baile",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Pegasus-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1177",
+                        "name": "Random Dance KPop",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "21:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Pegasus-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Proyecto Watashi",
+                "sessions": [
+                    {
+                        "id": "796",
+                        "name": "Tu nombre en japonés",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/177487722_123504863104616_5723136749877959418_n-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "793",
+                        "name": "Taller de caligrafía",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/177487722_123504863104616_5723136749877959418_n-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "799",
+                        "name": "Taller de caligrafía",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/177487722_123504863104616_5723136749877959418_n-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "794",
+                        "name": "Tu nombre en japonés",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/177487722_123504863104616_5723136749877959418_n-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "798",
+                        "name": "Taller de caligrafía",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/177487722_123504863104616_5723136749877959418_n-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1109",
+                        "name": "Tu nombre en japonés",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/177487722_123504863104616_5723136749877959418_n-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "792",
+                        "name": "Taller de caligrafía",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/177487722_123504863104616_5723136749877959418_n-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "797",
+                        "name": "Tu nombre en japonés",
+                        "description": "",
+                        "timeStart": "20:00",
+                        "timeEnd": "21:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/177487722_123504863104616_5723136749877959418_n-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Tridokku Force",
+                "sessions": [
+                    {
+                        "id": "1118",
+                        "name": "Trivial Harry potter",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Tridokku-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1119",
+                        "name": "Adivina la canción Disney",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Tridokku-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1120",
+                        "name": "Del revés",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Tridokku-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1121",
+                        "name": "Minutos musicales",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "15:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Tridokku-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1122",
+                        "name": "Trivial Pokemon",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "16:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Tridokku-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1123",
+                        "name": "Yandere, Tsundere y Viceversa",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Tridokku-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1124",
+                        "name": "Who is este personaje",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Tridokku-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1125",
+                        "name": "Adivina la canción Retro/Millenial",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Tridokku-150x150.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1126",
+                        "name": "Pasapalabra",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Tridokku-150x150.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1127",
+                        "name": "¿Quien tiene más nakasones?",
+                        "description": "",
+                        "timeStart": "20:00",
+                        "timeEnd": "21:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Tridokku-150x150.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Gamotaku",
+                "sessions": [
+                    {
+                        "id": "1234",
+                        "name": "Freeplays en consolas y juegos de mesa",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "21:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1235",
+                        "name": "Dibujo libre",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "21:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/LWk3zNW__400x400.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1229",
+                        "name": "Torneo de Mario Kart 8 Deluxe",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/LWk3zNW__400x400.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1236",
+                        "name": "Concurso de Dibujo (participaciones)",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1238",
+                        "name": "Juegos interactivos (Gartic Phone, Pinturillo, Quizz, etc.)",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "11:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1230",
+                        "name": "Torneo de Bolos Wii Sports",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1239",
+                        "name": "Concurso de poses de JoJo ́s",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1231",
+                        "name": "Guía de iniciación en Pokémon TCG",
+                        "description": "",
+                        "timeStart": "11:05",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1232",
+                        "name": "Partida de Rol (la llamada de Cthulu)",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1240",
+                        "name": "Taller de dibujo: aprende a hacer Cartoon",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1241",
+                        "name": "Concurso de Anime Music Quizz",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "15:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1242",
+                        "name": "Torneo de Twister",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "16:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1243",
+                        "name": "Torneo de Super Smash Bros Ultimate",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1233",
+                        "name": "Partida de Rol (la llamada de Cthulu)",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1237",
+                        "name": "Concurso de Dibujo (ganadores)",
+                        "description": "",
+                        "timeStart": "19:30",
+                        "timeEnd": "19:45",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Nextage",
+                "sessions": [
+                    {
+                        "id": "1138",
+                        "name": "Torneo de DDR Pro",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/nextage-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Falco Motor",
+                "sessions": [
+                    {
+                        "id": "827",
+                        "name": "INITIAL D \"Simuladores de conducción\"",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "15:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/f0803c748cb294550e97dcdcf1093143-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "826",
+                        "name": "INITIAL D \"Simuladores de conducción\"",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "20:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/09/f0803c748cb294550e97dcdcf1093143-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Pa Kua",
+                "sessions": [
+                    {
+                        "id": "1263",
+                        "name": "Taller de arquería y Armas de Corte Antiguas",
+                        "description": "Ofrecemos talleres de 20 min cada 30 para máximo 4 (arquería) 0 6 personas (Armas). Mostramos tiros con flechas de contacto básicos y con armas de madera técnicas básicas de uso y defensa",
+                        "timeStart": "10:00",
+                        "timeEnd": "21:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/pakua.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Bujinkan FudoMyo Dojo Vallecas",
+                "sessions": [
+                    {
+                        "id": "1153",
+                        "name": "KENDAMA : JUEGO DE COPA Y PELOTA",
+                        "description": "",
+                        "timeStart": "10:30",
+                        "timeEnd": "11:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1154",
+                        "name": "DARUMA OTOSHI",
+                        "description": "",
+                        "timeStart": "11:30",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1155",
+                        "name": "KAGOME KAGOME",
+                        "description": "",
+                        "timeStart": "13:30",
+                        "timeEnd": "16:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1156",
+                        "name": "DARUMASAN GA KORONDA",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1157",
+                        "name": "ONI GOKKO",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1158",
+                        "name": "KAGOME KAGOME",
+                        "description": "",
+                        "timeStart": "19:30",
+                        "timeEnd": "20:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/el-camino-del-guerrero-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Ludosport Hispania",
+                "sessions": [
+                    {
+                        "id": "753",
+                        "name": "Clase de prueba con sables láser",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "20:30",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/unnamed-9.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Escuela Circo Diverso",
+                "sessions": [
+                    {
+                        "id": "756",
+                        "name": "Talleres abiertos de circo y malabares",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "21:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/cd-300x95.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1226",
+                        "name": "Taller de diávolos orientales",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "16:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1225",
+                        "name": "Exhibición zancudos led",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "NoGameOver",
+                "sessions": [
+                    {
+                        "id": "755",
+                        "name": "Partidas de \"NoGameOver\"",
+                        "description": "",
+                        "timeStart": "09:30",
+                        "timeEnd": "21:00",
+                        "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/08/juegos-de-cartas-de-rol-no-game-over-logo-300x106.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+  ],
+
+  
+  "speakers": [
+    
+  ],
+
+  "map": [
+    
+  ],
+
+  "tracks": [
+    {
+      "name": "Concierto",
+      "icon": "logo-angular"
+    },
+    {
+      "name": "Concurso",
+      "icon": "document"
+    },
+    {
+      "name": "Cosplay",
+      "icon": "restaurant"
+    },
+    {
+      "name": "Exhibición baile",
+      "icon": "logo-ionic"
+    },
+    {
+      "name": "Taller",
+      "icon": "hammer"
+    },
+    {
+      "name": "Proyecciones",
+      "icon": "color-palette"
+    },
+    {
+      "name": "Random Dance",
+      "icon": "cog"
+    },
+    {
+      "name": "Baile",
+      "icon": "construct"
+    },
+    {
+      "name": "Exhibición artes marciales",
+      "icon": "call"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
