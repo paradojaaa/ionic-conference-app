@@ -1,109 +1,61 @@
 {
     "schedule": [
+        
         {
             "date": "DOMINGO 12/03 (11:00 - 19:00)",
             "groups": [
                 {
-                    "time": "Escenario Principal",
+                    "time": "Inst. Kojachi - Zona Cultural",
                     "sessions": [
                         {
-                            "id": "494",
-                            "name": "Concierto ZEPPIN",
+                            "id": "448",
+                            "name": "Iniciación al japonés",
                             "description": "",
-                            "timeStart": "11:15",
-                            "timeEnd": "12:00",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/02/mini-zeppin-273x300.png",
+                            "timeStart": "10:30",
+                            "timeEnd": "11:00",
+                            "image": "",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
-                            "id": "464",
-                            "name": "Cover Fest por Vice2Dance",
+                            "id": "450",
+                            "name": "Iniciación al japonés",
                             "description": "",
-                            "timeStart": "12:00",
-                            "timeEnd": "14:00",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/03/334233073_154934080787601_668495969555133004_n-300x300.jpg",
+                            "timeStart": "10:30",
+                            "timeEnd": "11:00",
+                            "image": "",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
-                            "id": "492",
-                            "name": "Concierto VictorMAME",
+                            "id": "458",
+                            "name": "Iniciación al japonés",
                             "description": "",
-                            "timeStart": "14:00",
-                            "timeEnd": "15:00",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/02/victormame-mini.png",
+                            "timeStart": "10:30",
+                            "timeEnd": "11:00",
+                            "image": "",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
-                            "id": "483",
-                            "name": "Concierto Subwoolfer",
-                            "description": "",
-                            "timeStart": "15:00",
-                            "timeEnd": "15:30",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/02/mini-lobos.png",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "479",
-                            "name": "Exhibición Kizuna",
-                            "description": "",
-                            "timeStart": "15:45",
-                            "timeEnd": "16:00",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/01/IMG_8791.jpg",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "349",
-                            "name": "Idol Festival",
-                            "description": "",
-                            "timeStart": "16:00",
-                            "timeEnd": "18:00",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/02/light-812677_960_720.jpg",
-                            "tracks": [
-                                ""
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "time": "Escenario de Actividades",
-                    "sessions": [
-                        {
-                            "id": "525",
-                            "name": "Presentación SoftCombatBCN",
+                            "id": "459",
+                            "name": "Iniciación al japonés",
                             "description": "",
                             "timeStart": "11:30",
                             "timeEnd": "12:00",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2021/08/1519891385115.png",
+                            "image": "",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
-                            "id": "470",
-                            "name": "Concurso Cosplay Junior",
+                            "id": "460",
+                            "name": "Concurso de dibujo",
                             "description": "",
                             "timeStart": "12:00",
-                            "timeEnd": "13:30",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/02/background-819577_960_720.jpg",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "490",
-                            "name": "Concierto Hellena X",
-                            "description": "",
-                            "timeStart": "13:30",
                             "timeEnd": "14:00",
                             "image": "",
                             "tracks": [
@@ -111,103 +63,21 @@
                             ]
                         },
                         {
-                            "id": "465",
-                            "name": "Concurso de Karaoke",
-                            "description": "",
-                            "timeStart": "14:00",
-                            "timeEnd": "16:00",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/02/audio-1851517_960_720.jpg",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "495",
-                            "name": "Concierto ZEPPIN",
-                            "description": "",
-                            "timeStart": "16:00",
-                            "timeEnd": "17:00",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/02/mini-zeppin-273x300.png",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "521",
-                            "name": "Actividad OTK",
-                            "description": "",
-                            "timeStart": "17:00",
-                            "timeEnd": "18:00",
-                            "image": "",
-                            "tracks": [
-                                ""
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "time": "Conferencias 1",
-                    "sessions": [
-                        {
-                            "id": "590",
-                            "name": "Presentación Sakura Matsuri Sabadell 2023",
-                            "description": "",
-                            "timeStart": "11:15",
-                            "timeEnd": "12:00",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/03/LogoSakura.png",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "480",
-                            "name": "Q&A con PaperJulia y Alisvart",
-                            "description": "",
-                            "timeStart": "12:00",
-                            "timeEnd": "13:00",
-                            "image": "",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "476",
-                            "name": "Q&A Cosplayers Invitados",
-                            "description": "",
-                            "timeStart": "13:00",
-                            "timeEnd": "14:00",
-                            "image": "",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "477",
-                            "name": "Q&A con AKrCos y Lemon",
-                            "description": "",
-                            "timeStart": "13:00",
-                            "timeEnd": "14:00",
-                            "image": "",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "486",
-                            "name": "Conferencia con Akurin",
+                            "id": "449",
+                            "name": "Iniciación al japonés",
                             "description": "",
                             "timeStart": "15:00",
-                            "timeEnd": "16:00",
+                            "timeEnd": "15:30",
                             "image": "",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
-                            "id": "488",
-                            "name": "Q&A con RizDraws",
+                            "id": "461",
+                            "name": "Descubre Corea (conferencia sobre viajes)",
                             "description": "",
-                            "timeStart": "16:00",
+                            "timeStart": "15:30",
                             "timeEnd": "17:00",
                             "image": "",
                             "tracks": [
@@ -215,12 +85,12 @@
                             ]
                         },
                         {
-                            "id": "513",
-                            "name": "Conferencia \"Hay vida más allá del grupo del 24. Reconocimientos a aquellas mujeres pioneras que sentaron las bases del shōjo manga\" Con ProShojoSpain",
+                            "id": "447",
+                            "name": "Concurso de dibujo",
                             "description": "",
                             "timeStart": "17:00",
-                            "timeEnd": "18:00",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/03/FqXpOHoWwAI8Y6A-300x169.png",
+                            "timeEnd": "19:00",
+                            "image": "",
                             "tracks": [
                                 ""
                             ]
@@ -228,26 +98,42 @@
                     ]
                 },
                 {
-                    "time": "Conferencias 2",
+                    "time": "Inst. Kojachi - Zona Tu Nombre",
                     "sessions": [
                         {
-                            "id": "489",
-                            "name": "Panel de Cosplay Bungou Stray Dogs",
+                            "id": "446",
+                            "name": "Tu nombre en Japonés",
                             "description": "",
-                            "timeStart": "12:00",
-                            "timeEnd": "13:00",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/03/Picsart_23-03-05_19-28-07-319.jpg",
+                            "timeStart": "11:00",
+                            "timeEnd": "19:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Inst. Kojachi - Zona Lúdica",
+                    "sessions": [
+                        {
+                            "id": "443",
+                            "name": "Golf",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "19:00",
+                            "image": "",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
-                            "id": "514",
-                            "name": "Conferencia \"Descubriendo uno de los primeros booms del shōjo manga: La Rosa de Versalles. El manga que revolucionó el shōjo \" Con ProShojoSpain",
+                            "id": "444",
+                            "name": "El juego de Eduardo",
                             "description": "",
-                            "timeStart": "13:00",
-                            "timeEnd": "14:00",
-                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/03/FqX43XKWYAECzug-300x169.png",
+                            "timeStart": "11:00",
+                            "timeEnd": "19:00",
+                            "image": "",
                             "tracks": [
                                 ""
                             ]
@@ -255,11 +141,76 @@
                     ]
                 },
                 {
-                    "time": "Tatami 1",
+                    "time": "EMOZ (Escuela Museo de Origami de Zaragoza)",
                     "sessions": [
                         {
-                            "id": "543",
-                            "name": "Aikido con Akira Hirano (Exhibición y Taller)",
+                            "id": "438",
+                            "name": "Taller de papiroflexia",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "12:00",
+                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2021/08/unnamed-10-300x169.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "439",
+                            "name": "Taller de papiroflexia",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2021/08/unnamed-10-300x169.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "440",
+                            "name": "Taller de papiroflexia",
+                            "description": "",
+                            "timeStart": "13:00",
+                            "timeEnd": "14:00",
+                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2021/08/unnamed-10-300x169.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "437",
+                            "name": "Taller de papiroflexia",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2021/08/unnamed-10-300x169.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Ludosport",
+                    "sessions": [
+                        {
+                            "id": "456",
+                            "name": "Demostraciones de sables láser",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "19:00",
+                            "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2022/03/LS-Barcelona-300x300.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Brigada S.O.S.",
+                    "sessions": [
+                        {
+                            "id": "558",
+                            "name": "Gincana Brigadiense",
                             "description": "",
                             "timeStart": "11:00",
                             "timeEnd": "12:00",
@@ -269,8 +220,8 @@
                             ]
                         },
                         {
-                            "id": "546",
-                            "name": "Kenjutsu con Ramón Soler (Katori Shinto Ryu - Hirota). Exhibición y Taller",
+                            "id": "562",
+                            "name": "Rosco Pasapalabra",
                             "description": "",
                             "timeStart": "12:00",
                             "timeEnd": "13:00",
@@ -280,55 +231,55 @@
                             ]
                         },
                         {
-                            "id": "548",
-                            "name": "Budo Taijutsu con Víctor Bayod de Bujinkan Okami Bushi Dojo (Exhibición y Taller)",
+                            "id": "563",
+                            "name": "Trivial Anime",
                             "description": "",
                             "timeStart": "13:00",
-                            "timeEnd": "13:45",
+                            "timeEnd": "14:00",
                             "image": "",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
-                            "id": "545",
-                            "name": "Kenjutsu con Ramón Soler (Katori Shinto Ryu - Hirota)",
+                            "id": "561",
+                            "name": "Ruleta de la suerte",
                             "description": "",
-                            "timeStart": "13:45",
-                            "timeEnd": "14:45",
+                            "timeStart": "15:00",
+                            "timeEnd": "16:00",
                             "image": "",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
-                            "id": "510",
-                            "name": "Rokushaku Bo Jutsu con Víctor Bayou de Bujinkan Okami Bushi Dojo (Exhibición y Taller)",
+                            "id": "557",
+                            "name": "Trivial Kpop",
                             "description": "",
-                            "timeStart": "15:45",
-                            "timeEnd": "16:45",
+                            "timeStart": "16:00",
+                            "timeEnd": "16:30",
                             "image": "",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
-                            "id": "544",
-                            "name": "Ninjutsu con Víctor Bayod de Bujinkan Okami Bushi Dojo (Exhibición y Taller)",
+                            "id": "559",
+                            "name": "Rosco Pasapalabra",
                             "description": "",
-                            "timeStart": "16:45",
-                            "timeEnd": "17:45",
+                            "timeStart": "16:30",
+                            "timeEnd": "17:15",
                             "image": "",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
-                            "id": "549",
-                            "name": "Concurso Shuriken",
+                            "id": "560",
+                            "name": "Trivial Anime",
                             "description": "",
-                            "timeStart": "18:00",
-                            "timeEnd": "18:45",
+                            "timeStart": "17:15",
+                            "timeEnd": "18:00",
                             "image": "",
                             "tracks": [
                                 ""
@@ -337,11 +288,35 @@
                     ]
                 },
                 {
-                    "time": "Tatami 2",
+                    "time": "Dado Dorado / Shirokuro Club",
+                    "sessions": []
+                },
+                {
+                    "time": "Softcombat BCN",
+                    "sessions": []
+                },
+                {
+                    "time": "Asoc. Eusko-Japonesa AIKO",
                     "sessions": [
                         {
-                            "id": "526",
-                            "name": "Kendo con SENSHIN DOJO",
+                            "id": "591",
+                            "name": "Vídeos musicales \"Grupos J-Pop. Nuevas tendencias\"",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "12:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Espacio \"Welcome to the traditional culture of Japan\"",
+                    "sessions": [
+                        {
+                            "id": "578",
+                            "name": "Taller idioma japonès con NIPPÒNIA",
                             "description": "",
                             "timeStart": "11:00",
                             "timeEnd": "11:30",
@@ -351,8 +326,8 @@
                             ]
                         },
                         {
-                            "id": "527",
-                            "name": "Kobudo con SENSHIN DOJO",
+                            "id": "579",
+                            "name": "Taller d'il.lustració con BARBARA ILUSTRA ART",
                             "description": "",
                             "timeStart": "11:30",
                             "timeEnd": "12:00",
@@ -362,21 +337,10 @@
                             ]
                         },
                         {
-                            "id": "528",
-                            "name": "Karate con SENSHIN DOJO",
+                            "id": "581",
+                            "name": "Taller de anime con NIPPÒNIA",
                             "description": "",
                             "timeStart": "12:00",
-                            "timeEnd": "12:30",
-                            "image": "",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "529",
-                            "name": "Tatsumi con SENSHIN DOJO",
-                            "description": "",
-                            "timeStart": "12:30",
                             "timeEnd": "13:00",
                             "image": "",
                             "tracks": [
@@ -384,33 +348,22 @@
                             ]
                         },
                         {
-                            "id": "530",
-                            "name": "Naginata con MATSU NIHON BUDO",
-                            "description": "",
-                            "timeStart": "16:00",
-                            "timeEnd": "17:00",
-                            "image": "",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "509",
-                            "name": "Taller con MATSU NIHON BUDO",
+                            "id": "582",
+                            "name": "Taller dibuix manga con NIPPÒNIA",
                             "description": "",
                             "timeStart": "17:00",
-                            "timeEnd": "17:30",
+                            "timeEnd": "18:00",
                             "image": "",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
-                            "id": "531",
-                            "name": "AIKIDO DC Martial Arts",
+                            "id": "583",
+                            "name": "Taller de chibis con NIPPÒNIA",
                             "description": "",
-                            "timeStart": "17:30",
-                            "timeEnd": "18:00",
+                            "timeStart": "18:00",
+                            "timeEnd": "19:00",
                             "image": "",
                             "tracks": [
                                 ""
@@ -419,78 +372,25 @@
                     ]
                 },
                 {
-                    "time": "Conferencias Cultural",
-                    "sessions": [
-                        {
-                            "id": "584",
-                            "name": "Taller Pintar Mandalas Zen y Japoneses. Público familiar, HAIKU",
-                            "description": "",
-                            "timeStart": "11:00",
-                            "timeEnd": "12:00",
-                            "image": "",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "585",
-                            "name": "Taller Pintura Sumi-e. ANDI DOMDOM",
-                            "description": "",
-                            "timeStart": "11:00",
-                            "timeEnd": "12:30",
-                            "image": "",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "586",
-                            "name": "Conferencia Haikus. Explicación, lectura y creación asistentes. Público Familiar. HAIKU Escenario",
-                            "description": "",
-                            "timeStart": "12:00",
-                            "timeEnd": "13:00",
-                            "image": "",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "587",
-                            "name": "Taller Pintura Sumi-e. ANDI DOMDOM",
-                            "description": "",
-                            "timeStart": "13:00",
-                            "timeEnd": "14:30",
-                            "image": "",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "588",
-                            "name": "Demostración de Pintura Sumi-e. ANDI DOMDOM Escenario",
-                            "description": "",
-                            "timeStart": "16:00",
-                            "timeEnd": "17:00",
-                            "image": "",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "589",
-                            "name": "Conferencia Tés japoneses. Matcha y explicación ceremonia, Degustación tés. HAIKU Escenario",
-                            "description": "",
-                            "timeStart": "17:00",
-                            "timeEnd": "18:00",
-                            "image": "",
-                            "tracks": [
-                                ""
-                            ]
-                        }
-                    ]
+                    "time": "Associació KOURINDOU",
+                    "sessions": []
+                },
+                {
+                    "time": "SmashBros BCN",
+                    "sessions": []
+                },
+                {
+                    "time": "RCW Wrestling",
+                    "sessions": []
+                },
+                {
+                    "time": "KameKame",
+                    "sessions": []
                 }
             ]
         }
+
+
     ],
   
     
@@ -539,7 +439,16 @@
         "name": "Exhibición artes marciales",
         "icon": "call"
       }
-    ]
+    ],
+
+
+    "date": [
+        {
+          "year": "2023",
+          "month": "0",
+          "day": "30"
+        }      
+      ]
   }
   
   
