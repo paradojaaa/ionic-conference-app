@@ -1,0 +1,700 @@
+{
+    "schedule": [
+        {
+            "date": "SÁBADO 25/3 (10:00 A 20:00)",
+            "groups": [
+                {
+                    "time": "Escenario Principal",
+                    "sessions": [
+                        {
+                            "id": "273",
+                            "name": "Concurso Dance Kuaizi",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "14:00",
+                            "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/03/light-812677_960_720.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "372",
+                            "name": "Concierto Sofi",
+                            "description": "",
+                            "timeStart": "15:00",
+                            "timeEnd": "15:30",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "377",
+                            "name": "Trivial otaku",
+                            "description": "",
+                            "timeStart": "15:30",
+                            "timeEnd": "16:30",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "274",
+                            "name": "Concurso de Cosplay",
+                            "description": "",
+                            "timeStart": "16:30",
+                            "timeEnd": "18:30",
+                            "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/03/background-819577_960_720.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "378",
+                            "name": "Adivina el anime",
+                            "description": "",
+                            "timeStart": "18:30",
+                            "timeEnd": "19:30",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Conferencias",
+                    "sessions": [
+                        {
+                            "id": "385",
+                            "name": "Charla cosplay TBa",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "12:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "351",
+                            "name": "\"Cómo hacer pelucas de Dragon Ball\" por LauraNiko y Miyuki",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/03/mini-miyuraniko.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "370",
+                            "name": "Charla con Paula Chesire",
+                            "description": "Paula Cheshire es una ilustradora y dibujante de cómics pontevedresa nacida con un lápiz en la mano izquierda. Desde ese día, no puede parar de dibujar todo lo que se le ocurre. Actualmente se dedica a la ilustración como freelance, habiendo ilustrado algunos títulos infantiles como “Un tesoro para Martín” o “Miquits”. También sube sus experiencias personales -exponiendo diferentes temas y situaciones en formato cómic y con un humor un poco ácido y haciendo hincapié en la salud mental- a sus redes sociales, publicando a raíz de esto su primer recopilatorio autoeditado “Me das ansiedad”. Su último cómic, \"El duelo\", publicado con Fandogamia, sobre la experiencia de la autora con la pérdida de su madre a causa del cáncer, ha sido galardonado con el Premio Antifaz a la autora revelación en el pasado Saló del Cómic de Valencia. Actualmente se encuentra trabajando en \"La receta de la magia\" para Grafito Editorial, y en el verkami \"Meigatas\".",
+                            "timeStart": "13:00",
+                            "timeEnd": "14:00",
+                            "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/03/FrRre0tXwAcMAM7-300x300.jpeg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "386",
+                            "name": "Charla cosplay TBA",
+                            "description": "",
+                            "timeStart": "14:00",
+                            "timeEnd": "15:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "384",
+                            "name": "Encuentro con \"Odaiba Ediciones\"",
+                            "description": "Un encuentre desenfadado en el que la editorial comentará las últimas obras publicadas, los tomos que saldrán en breve, y los planes de futuro para este año 2023.",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/03/1500x500-5-300x100.jpeg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "306",
+                            "name": "\"Viajar a Japón y no morir en el intento\" por Instituto Kojachi",
+                            "description": "",
+                            "timeStart": "18:00",
+                            "timeEnd": "19:30",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Zona Kpop Kuàizi",
+                    "sessions": [
+                        {
+                            "id": "359",
+                            "name": "Kpop Dance Class",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:30",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "360",
+                            "name": "Random Dance",
+                            "description": "",
+                            "timeStart": "17:30",
+                            "timeEnd": "20:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Asoc. AIKO",
+                    "sessions": [
+                        {
+                            "id": "287",
+                            "name": "Videos musicales grupos J-Pop. Nuevas tendencias",
+                            "description": "",
+                            "timeStart": "10:00",
+                            "timeEnd": "11:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "279",
+                            "name": "Charla: \"Cómo poner un kimono\"",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "12:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "284",
+                            "name": "Teatro: \"El samurai cazapulgas\"",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "12:30",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "381",
+                            "name": "Performance teatral: \"Los amantes y la espada\"",
+                            "description": "",
+                            "timeStart": "13:15",
+                            "timeEnd": "14:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "278",
+                            "name": "Videos musicales \"Bailes de geishas japonesas\"",
+                            "description": "",
+                            "timeStart": "14:00",
+                            "timeEnd": "15:30",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "281",
+                            "name": "Teatro: \"La visita\"",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "285",
+                            "name": "Teatro: \"Takeko Nakano: la última mujer samurai\"",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "280",
+                            "name": "Charla: \"Diferencias entre la cultura española y japonesa\"",
+                            "description": "",
+                            "timeStart": "17:00",
+                            "timeEnd": "17:40",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "286",
+                            "name": "Performance teatral: \"Los amantes y la espada\"",
+                            "description": "",
+                            "timeStart": "17:40",
+                            "timeEnd": "18:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "283",
+                            "name": "Teatro: \"El samurai cazapulgas\"",
+                            "description": "",
+                            "timeStart": "18:30",
+                            "timeEnd": "19:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "282",
+                            "name": "Documental: \"Tokio, un laboratorio del futuro\"",
+                            "description": "",
+                            "timeStart": "19:00",
+                            "timeEnd": "20:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Inst. Kojachi - Zona Cultural",
+                    "sessions": [
+                        {
+                            "id": "289",
+                            "name": "Iniciación al japonés",
+                            "description": "",
+                            "timeStart": "10:30",
+                            "timeEnd": "11:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "354",
+                            "name": "Concurso de dibujo",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "12:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "355",
+                            "name": "Tú sí lo sabes",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "291",
+                            "name": "Concurso de dibujo",
+                            "description": "",
+                            "timeStart": "13:00",
+                            "timeEnd": "14:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "292",
+                            "name": "Iniciación al japonés",
+                            "description": "",
+                            "timeStart": "15:00",
+                            "timeEnd": "15:30",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "356",
+                            "name": "Concurso de dibujo",
+                            "description": "",
+                            "timeStart": "15:30",
+                            "timeEnd": "17:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "353",
+                            "name": "Tú sí lo sabes",
+                            "description": "",
+                            "timeStart": "17:00",
+                            "timeEnd": "19:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "288",
+                            "name": "Concurso de dibujo",
+                            "description": "",
+                            "timeStart": "19:00",
+                            "timeEnd": "20:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Inst. Kojachi - Zona Tu Nombre",
+                    "sessions": [
+                        {
+                            "id": "294",
+                            "name": "Tu nombre en Japonés",
+                            "description": "(CONSULTA EL HORARIO EN EL STAND DE INSTITUTO KOJACHI)",
+                            "timeStart": "10:00",
+                            "timeEnd": "20:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Inst. Kojachi - Zona lúdica",
+                    "sessions": [
+                        {
+                            "id": "341",
+                            "name": "El juego de Eduardo",
+                            "description": "(CONSULTA EL\r\nHORARIO EN EL STAND\r\nDE INSTITUTO\r\nKOJACHI)",
+                            "timeStart": "10:00",
+                            "timeEnd": "20:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "342",
+                            "name": "Golf",
+                            "description": "",
+                            "timeStart": "10:00",
+                            "timeEnd": "20:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Legión Gamer Galicia",
+                    "sessions": [
+                        {
+                            "id": "275",
+                            "name": "Freeplays de juegos retro",
+                            "description": "",
+                            "timeStart": "10:00",
+                            "timeEnd": "20:00",
+                            "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2022/03/b016b6ce-6190-4827-9055-66cae1409dd7-300x169.jpeg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "277",
+                            "name": "Grandblue Fantasy Versus (PS4)",
+                            "description": "",
+                            "timeStart": "13:00",
+                            "timeEnd": "15:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "276",
+                            "name": "King Of Fighters XV (PS4)",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "18:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Hijos del lobo",
+                    "sessions": [
+                        {
+                            "id": "344",
+                            "name": "Taller de cota de malla",
+                            "description": "",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Escuadron SAS-01",
+                    "sessions": [
+                        {
+                            "id": "305",
+                            "name": "Demostración de combate con sables láser",
+                            "description": "",
+                            "timeStart": "10:00",
+                            "timeEnd": "20:00",
+                            "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2022/10/311786793_410781201253877_6550624063488353468_n-300x114.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "346",
+                            "name": "Taller \"crea tu propio sable láser\"",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "347",
+                            "name": "Taller \"crea tu propio sable láser\"",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "348",
+                            "name": "Torneo",
+                            "description": "",
+                            "timeStart": "17:00",
+                            "timeEnd": "19:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Galicia Squad",
+                    "sessions": []
+                },
+                {
+                    "time": "Ryuucorp Anime Club",
+                    "sessions": [
+                        {
+                            "id": "364",
+                            "name": "Concurso de dibujo",
+                            "description": "",
+                            "timeStart": "10:00",
+                            "timeEnd": "14:00",
+                            "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/03/LOGO-RYUUCORP-2019-BLACK-scaled.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "365",
+                            "name": "Cacería de cosplay",
+                            "description": "",
+                            "timeStart": "14:00",
+                            "timeEnd": "17:00",
+                            "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/03/LOGO-RYUUCORP-2019-BLACK-scaled.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "366",
+                            "name": "Rockola Kpop",
+                            "description": "",
+                            "timeStart": "17:00",
+                            "timeEnd": "20:00",
+                            "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/03/LOGO-RYUUCORP-2019-BLACK-scaled.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Multiversus Cosplay",
+                    "sessions": [
+                        {
+                            "id": "301",
+                            "name": "Fotografía con fondo profesional",
+                            "description": "",
+                            "timeStart": "10:00",
+                            "timeEnd": "20:00",
+                            "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2022/10/Zdz8Cd5d_400x400-300x300.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Espacio Quidditch",
+                    "sessions": [
+                        {
+                            "id": "299",
+                            "name": "Partidas de Quidditch con \"Dementores Coruña\"",
+                            "description": "",
+                            "timeStart": "10:00",
+                            "timeEnd": "20:00",
+                            "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2022/10/LogoDementoresCoruna-300x271.jpeg",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Sakura Crew",
+                    "sessions": [
+                        {
+                            "id": "379",
+                            "name": "Presentación de coches japoneses",
+                            "description": "",
+                            "timeStart": "10:00",
+                            "timeEnd": "20:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+  
+    
+    "speakers": [
+      
+    ],
+  
+    "map": [
+      
+    ],
+  
+    "tracks": [
+      {
+        "name": "Concierto",
+        "icon": "logo-angular"
+      },
+      {
+        "name": "Concurso",
+        "icon": "document"
+      },
+      {
+        "name": "Cosplay",
+        "icon": "restaurant"
+      },
+      {
+        "name": "Exhibición baile",
+        "icon": "logo-ionic"
+      },
+      {
+        "name": "Taller",
+        "icon": "hammer"
+      },
+      {
+        "name": "Proyecciones",
+        "icon": "color-palette"
+      },
+      {
+        "name": "Random Dance",
+        "icon": "cog"
+      },
+      {
+        "name": "Baile",
+        "icon": "construct"
+      },
+      {
+        "name": "Exhibición artes marciales",
+        "icon": "call"
+      }
+    ],
+
+
+    "date": [
+        {
+          "year": "2023",
+          "month": "0",
+          "day": "30"
+        }      
+      ]
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

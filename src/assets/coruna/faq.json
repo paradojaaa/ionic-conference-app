@@ -77,16 +77,6 @@
           "time": "",
           "sessions": [
             {
-              "name": "¿Se puede cambiar de hora o de día la entrada?",
-              "description": "En función de la disponibilidad, escribiendo a tienda@japanweekend.com podemos intentar cambiar la hora o el día.\nNo se admitirán cambios en la semana previa al evento.",
-              "tracks": ["Ionic"],
-              "id": "8"
-            }
-          ]
-        },{
-          "time": "",
-          "sessions": [
-            {
               "name": "¿Hay algún tipo de descuento en las entradas?",
               "description": "Actualmente no existe ningún tipo de descuento.",
               "tracks": ["Ionic"],
