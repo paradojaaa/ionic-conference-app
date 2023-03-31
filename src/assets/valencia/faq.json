@@ -8,7 +8,7 @@
           "sessions": [
             {
               "name": "¿Es necesario indicar el nombre de los asistentes?",
-              "description": "No, en esta edición no es necesario indicar el nombre de los asistentes.\nEn las entradas aparecerá el nombre del comprador.",
+              "description": "No, no es necesario indicar el nombre de los asistentes.\nEn las entradas aparecerá el nombre del comprador.",
               "tracks": ["Ionic"],
               "id": "1"
             }
@@ -38,7 +38,7 @@
           "sessions": [
             {
               "name": "¿Se puede salir y volver a entrar al evento?",
-              "description": "Sí, se puede salir y volver a entrar al recinto.",
+              "description": "Sí, se puede salir y volver a entrar al recinto conservando la entrada.",
               "tracks": ["Ionic"],
               "id": "4"
             }
@@ -57,7 +57,7 @@
           "time": "",
           "sessions": [
             {
-              "name": "¿Con qué edad se puede entrar sin acompañante?",
+              "name": "¿Con qué edad se puede entrar si acompañante?",
               "description": "Con 14 años o más no es necesario que entren acompañados. Los menores de 14 años necesitarán al menos un acompañante adulto.",
               "tracks": ["Ionic"],
               "id": "6"
@@ -71,16 +71,6 @@
               "description": "No se pueden hacer devoluciones de entradas.",
               "tracks": ["Ionic"],
               "id": "7"
-            }
-          ]
-        },{
-          "time": "",
-          "sessions": [
-            {
-              "name": "¿Se puede cambiar de hora o de día la entrada?",
-              "description": "En función de la disponibilidad, escribiendo a tienda@japanweekend.com podemos intentar cambiar la hora o el día.\nNo se admitirán cambios en la semana previa al evento.",
-              "tracks": ["Ionic"],
-              "id": "8"
             }
           ]
         },{

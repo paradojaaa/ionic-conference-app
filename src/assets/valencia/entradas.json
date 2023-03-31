@@ -7,11 +7,11 @@
                     "time": "",
                     "sessions": [
                         {
-                            "name": "Entradas no disponibles",
+                            "name": "Entradas ya disponibles - Tienda",
                             "available": "no",
                             "timeStart": "8:00 am",
                             "timeEnd": "9:00 am",
-                            "location": "Dining Hall2",
+                            "location": "Dining Hall",
                             "tracks": [ "Food" ],
                             "id": "70001"
                         }

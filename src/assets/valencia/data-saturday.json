@@ -1,0 +1,85 @@
+{
+    "schedule": [
+        {
+          
+        }
+    ],
+  
+    
+    "speakers": [
+      
+    ],
+  
+    "map": [
+      
+    ],
+  
+    "tracks": [
+      {
+        "name": "Concierto",
+        "icon": "logo-angular"
+      },
+      {
+        "name": "Concurso",
+        "icon": "document"
+      },
+      {
+        "name": "Cosplay",
+        "icon": "restaurant"
+      },
+      {
+        "name": "Exhibición baile",
+        "icon": "logo-ionic"
+      },
+      {
+        "name": "Taller",
+        "icon": "hammer"
+      },
+      {
+        "name": "Proyecciones",
+        "icon": "color-palette"
+      },
+      {
+        "name": "Random Dance",
+        "icon": "cog"
+      },
+      {
+        "name": "Baile",
+        "icon": "construct"
+      },
+      {
+        "name": "Exhibición artes marciales",
+        "icon": "call"
+      }
+    ],
+
+
+    "date": [
+        {
+          "year": "2023",
+          "month": "0",
+          "day": "30"
+        }      
+      ]
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
