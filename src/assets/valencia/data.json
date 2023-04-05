@@ -11,7 +11,18 @@
 
   
   "speakers": [
-   
+    {
+      "name": "Askal Cosplay",
+      "profilePic": "https://entradas.japanweekend.com/app/img/madaseka.png",
+      "instagram": "askalcosplay",
+      "twitter": "kalimox0",
+      "about": "Askal Cosplay es el grupo formado por la pareja de cosplayers españoles Astron y Kali, conocidos por sus diferentes actuaciones a lo largo de los años y los diferentes concursos por las provincias de España. Siendo ganadores de la representación española para el concurso internacional European Cosplay Gathering - ECG (París 2016). Además son conocidos por su trabajo como presentadores, pero no solo eso, sino que a causa de la pandemia, decidieron tomar un camino complementario al Cosplay, y actualmente se dedican al mundo de Twitch, donde han conseguido muchos seguidores gracias a sus capacidades interpretativas y al roleplay que desempeñan.",
+      "title": "Cosplayers",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "101"
+    }
   ],
 
   "map": [
