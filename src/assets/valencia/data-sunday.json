@@ -1,8 +1,87 @@
 {
     "schedule": [
-        {
-           
-        }
+      {
+        "date": "Domingo 7/5 (11:00-19:00)",
+        "groups": [
+            {
+                "time": "Escenario Principal",
+                "sessions": [
+                    {
+                        "id": "1144",
+                        "name": "Concierto Katou",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "13:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/04/IMG-20221229-WA0028.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "910",
+                        "name": "Concurso de Karaoke",
+                        "description": "",
+                        "timeStart": "13:30",
+                        "timeEnd": "15:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/03/karaoke-300x225.gif",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "911",
+                        "name": "Idol Festival",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/03/idolfest-vlc.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "912",
+                        "name": "\"Rave Otaku\" con Arquel",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/04/1573162080_859024_1573162508_rrss_normal-300x158.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Conferencias",
+                "sessions": [
+                    {
+                        "id": "899",
+                        "name": "Conferencia \"Descubre Corea\" con Inst. Kojachi",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:30",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Escenario de Actividades",
+                "sessions": []
+            },
+            {
+                "time": "Tatami",
+                "sessions": []
+            },
+            {
+                "time": "Zona K-pop",
+                "sessions": []
+            }
+        ]
+    }
     ],
   
     
