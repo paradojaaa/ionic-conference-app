@@ -1,8 +1,110 @@
 {
     "schedule": [
-        {
-          
-        }
+      {
+        "date": "Sábado 6/5 (10:00-20:00)",
+        "groups": [
+            {
+                "time": "Escenario Principal",
+                "sessions": [
+                    {
+                        "id": "907",
+                        "name": "Concurso Asian Dance",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "14:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/empty-dark-room-modern-futuristic-sci-fi-background-3d-illustration.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "908",
+                        "name": "Concurso de Cosplay",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "18:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/bokeh-2072271_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "909",
+                        "name": "\"Rave Otaku\" con Arquel",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/04/1573162080_859024_1573162508_rrss_normal-300x158.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Conferencias",
+                "sessions": [
+                    {
+                        "id": "1135",
+                        "name": "Conferencia SG",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "16:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Escenario de Actividades",
+                "sessions": []
+            },
+            {
+                "time": "Tatami",
+                "sessions": [
+                    {
+                        "id": "913",
+                        "name": "Exhibición de Kendo por \"Escuela Deportiva de Kendo Universitat de València\"",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:30",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "914",
+                        "name": "Exhibición Aikido por \"Ki Aikido Valencia\"",
+                        "description": "",
+                        "timeStart": "12:30",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1142",
+                        "name": "Exhibición de Asociación Cultural Valenciana de Aikido",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Zona K-pop",
+                "sessions": []
+            }
+        ]
+    }
     ],
   
     
