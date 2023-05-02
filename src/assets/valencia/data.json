@@ -12,6 +12,18 @@
   
   "speakers": [
     {
+      "name": "Akuo",
+      "profilePic": "https://entradas.japanweekend.com/app/img/akuo.png",
+      "instagram": "",
+      "twitter": "AkuoArt",
+      "about": "",
+      "title": "Artista",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "99"
+    },
+    {
       "name": "The Tomboys",
       "profilePic": "https://entradas.japanweekend.com/app/img/thetomboys.png",
       "instagram": "_the_tomboys_",
@@ -46,6 +58,18 @@
       "email": "",
       "phone": "",
       "id": "105"
+    },
+    {
+      "name": "Alberto Calero",
+      "profilePic": "https://entradas.japanweekend.com/app/img/albertocalero.png",
+      "instagram": "",
+      "twitter": "",
+      "about": "",
+      "title": "Conferenciante",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "106"
     },
     {
       "name": "Enayla",
