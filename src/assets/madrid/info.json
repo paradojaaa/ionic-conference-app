@@ -8,7 +8,7 @@
           "sessions": [
             {
               "name": "Horario de apertura",
-              "description": "Japan Weekend Madrid tiene lugar el 11 y 12 de febrero de 2023. El sábado 11 el horario es de 10h a 21h y el domingo es de 10h a 20h",
+              "description": "Japan Weekend Madrid tiene lugar el 23 y 24 de septiembre de 2023. El sábado el horario es de 10h a 21h y el domingo es de 10h a 20h",
               "image": "https://cdn-icons-png.flaticon.com/512/87/87717.png?w=360",
               "tracks": ["Ionic"],
               "id": "1"
