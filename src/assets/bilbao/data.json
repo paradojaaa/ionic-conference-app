@@ -9,30 +9,7 @@
   ],
 
   "speakers": [
-    {
-      "name": "Darka Studio",
-      "profilePic": "https://entradas.japanweekend.com/app/img/darkastudio.png",
-      "instagram": "darka_studio",
-      "twitter": "darka_studio",
-      "about": "",
-      "title": "Cosplayer",
-      "location": "",
-      "email": "",
-      "phone": "",
-      "id": "119"
-    },
-    {
-      "name": "Lune Dark Wolf",
-      "profilePic": "https://entradas.japanweekend.com/app/img/lunedarkwolf.png",
-      "instagram": "lunedarkwolf",
-      "twitter": "",
-      "about": "",
-      "title": "Cosplayer",
-      "location": "",
-      "email": "",
-      "phone": "",
-      "id": "121"
-    }
+ 
   ],
 
   "map": [

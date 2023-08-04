@@ -11,54 +11,7 @@
 
   
   "speakers": [
-    {
-      "name": "Mery",
-      "profilePic": "https://entradas.japanweekend.com/app/img/mery.png",
-      "instagram": "mery_nyan",
-      "twitter": "merynyan",
-      "about": "",
-      "title": "Cosplayer",
-      "location": "",
-      "email": "",
-      "phone": "",
-      "id": "101"
-    },
-    {
-      "name": "LauraNiko y Miyuki Kurame",
-      "profilePic": "https://entradas.japanweekend.com/app/img/lauraniko.png",
-      "instagram": "",
-      "twitter": "miyuraniko",
-      "about": "",
-      "title": "Cosplayers",
-      "location": "",
-      "email": "",
-      "phone": "",
-      "id": "103"
-    },
-    {
-      "name": "Shiroki",
-      "profilePic": "https://entradas.japanweekend.com/app/img/shiroki.png",
-      "instagram": "_shiroki",
-      "twitter": "_shiroki",
-      "about": "",
-      "title": "Cosplayer",
-      "location": "",
-      "email": "",
-      "phone": "",
-      "id": "105"
-    },
-    {
-      "name": "Paula Cheshire",
-      "profilePic": "https://entradas.japanweekend.com/app/img/paulachesire.png",
-      "instagram": "paulacheshire_",
-      "twitter": "paulacheshire_",
-      "about": "",
-      "title": "Artista",
-      "location": "",
-      "email": "",
-      "phone": "",
-      "id": "107"
-    }
+   
   ],
 
   "map": [
