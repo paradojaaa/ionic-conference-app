@@ -7,8 +7,8 @@
           "time": "",
           "sessions": [
             {
-              "name": "¿Es necesario indicar el nombre de los asistentes?",
-              "description": "No, en esta edición no es necesario indicar el nombre de los asistentes.\nEn las entradas aparecerá el nombre del comprador.",
+              "name": "¿Puedo usar la entrada si está a nombre de otra persona?",
+              "description": "Sí, las entradas no son nominales, se puede entrar con una entrada a nombre de otra persona.",
               "tracks": ["Ionic"],
               "id": "1"
             }
