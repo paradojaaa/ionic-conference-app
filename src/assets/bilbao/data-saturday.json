@@ -1,11 +1,113 @@
 {
     "schedule": [
       {
-          "date": "SÁBADO (9:30 - 21:00)",
-          "groups": [
-             
-          ]
-      }
+        "date": "",
+        "groups": [
+            {
+                "time": "Escenario Principal",
+                "sessions": [
+                    {
+                        "id": "468",
+                        "name": "Concurso de Dance",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "14:30",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/pattern-3880698_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "469",
+                        "name": "Concurso de Karaoke",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "16:30",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/audio-1851517_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "465",
+                        "name": "Concurso de cosplay",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/01/light-812677_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Escenario de actividades",
+                "sessions": []
+            },
+            {
+                "time": "Conferencias",
+                "sessions": []
+            },
+            {
+                "time": "Tatami",
+                "sessions": []
+            },
+            {
+                "time": "Zona K-Pop Kuaizi",
+                "sessions": [
+                    {
+                        "id": "478",
+                        "name": "Conoce la Baraja Hwatu y el modo de juego",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "479",
+                        "name": "Taller de juego Hwatu: aprende a jugar y echa unas partidas con nosotrxs",
+                        "description": "",
+                        "timeStart": "14:30",
+                        "timeEnd": "15:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "475",
+                        "name": "Escenario Abierto",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "16:30",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "476",
+                        "name": "Kahoot Kpop",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "17:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Firmas",
+                "sessions": []
+            }
+        ]
+    }
     ],
   
     

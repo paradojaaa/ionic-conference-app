@@ -1,9 +1,575 @@
 {
   "schedule": [
     {
-      "date": "SÁBADO (9:30 - 21:00)",
+      "date": "",
       "groups": [
-        
+          {
+              "time": "DRAGOI BOLA N-CAST!!",
+              "sessions": [
+                  {
+                      "id": "523",
+                      "name": "Firmas Seve Atencia, actor de doblaje de Goku en euskera",
+                      "description": "",
+                      "timeStart": "17:00",
+                      "timeEnd": "18:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/Seve-Atencia.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "524",
+                      "name": "Firmas Pablo Domínguez , actor de doblaje de Goku en castellano",
+                      "description": "",
+                      "timeStart": "17:00",
+                      "timeEnd": "18:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/35917.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  }
+              ]
+          },
+          {
+              "time": "Pro Wrestling Euskadi",
+              "sessions": [
+                  {
+                      "id": "525",
+                      "name": "Show Wrestling",
+                      "description": "",
+                      "timeStart": "13:30",
+                      "timeEnd": "14:30",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/PWE.png",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "526",
+                      "name": "Show Pro Wrestling",
+                      "description": "",
+                      "timeStart": "17:00",
+                      "timeEnd": "18:30",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/PWE.png",
+                      "tracks": [
+                          ""
+                      ]
+                  }
+              ]
+          },
+          {
+              "time": "Zona Cultural de Instituto Kojachi",
+              "sessions": [
+                  {
+                      "id": "500",
+                      "name": "Iniciación al japonés",
+                      "description": "",
+                      "timeStart": "10:30",
+                      "timeEnd": "11:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "501",
+                      "name": "Concurso de dibujo",
+                      "description": "",
+                      "timeStart": "11:00",
+                      "timeEnd": "12:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "502",
+                      "name": "Descubre Corea - Conferencia sobre viajes",
+                      "description": "",
+                      "timeStart": "12:00",
+                      "timeEnd": "13:30",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "503",
+                      "name": "Descubre Corea - Conferencia sobre viajes",
+                      "description": "",
+                      "timeStart": "12:00",
+                      "timeEnd": "13:30",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "504",
+                      "name": "Concurso de dibujo",
+                      "description": "",
+                      "timeStart": "13:30",
+                      "timeEnd": "17:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "505",
+                      "name": "Iniciación al japonés",
+                      "description": "",
+                      "timeStart": "17:00",
+                      "timeEnd": "17:30",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "506",
+                      "name": "Concurso de dibujo",
+                      "description": "",
+                      "timeStart": "17:30",
+                      "timeEnd": "20:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  }
+              ]
+          },
+          {
+              "time": "Zona lúdica de Instituto Kojachi",
+              "sessions": [
+                  {
+                      "id": "507",
+                      "name": "Tu nombre en japonés",
+                      "description": "",
+                      "timeStart": "10:00",
+                      "timeEnd": "20:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "508",
+                      "name": "El juego de Eduardo",
+                      "description": "",
+                      "timeStart": "10:00",
+                      "timeEnd": "20:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "509",
+                      "name": "Golf",
+                      "description": "",
+                      "timeStart": "10:00",
+                      "timeEnd": "20:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  }
+              ]
+          },
+          {
+              "time": "Navarmanga",
+              "sessions": [
+                  {
+                      "id": "510",
+                      "name": "Torneo Mario Strikers",
+                      "description": "",
+                      "timeStart": "11:00",
+                      "timeEnd": "12:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "511",
+                      "name": "Torneo Mario Kart 8 Deluxe *13:00 - 2:30*",
+                      "description": "",
+                      "timeStart": "13:00",
+                      "timeEnd": "14:30",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "512",
+                      "name": "Super Smash Bross Ultimate *16:00 - 17:45*",
+                      "description": "",
+                      "timeStart": "16:00",
+                      "timeEnd": "17:45",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "513",
+                      "name": "Torneo Dragon Ball Figther Z",
+                      "description": "",
+                      "timeStart": "18:00",
+                      "timeEnd": "19:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "514",
+                      "name": "Concurso de aviones de papel",
+                      "description": "",
+                      "timeStart": "19:30",
+                      "timeEnd": "19:50",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  }
+              ]
+          },
+          {
+              "time": "Jugger Bizkaia",
+              "sessions": [
+                  {
+                      "id": "521",
+                      "name": "Clases de Jugger",
+                      "description": "",
+                      "timeStart": "11:00",
+                      "timeEnd": "13:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/jugger-bizkaia.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "522",
+                      "name": "Clases de Jugger",
+                      "description": "",
+                      "timeStart": "15:00",
+                      "timeEnd": "17:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/jugger-bizkaia.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  }
+              ]
+          },
+          {
+              "time": "Asociación Aiko",
+              "sessions": [
+                  {
+                      "id": "490",
+                      "name": "Vídeos musicales: Jpop, nuevas tendencias",
+                      "description": "",
+                      "timeStart": "10:00",
+                      "timeEnd": "11:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/01/Aiko.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "491",
+                      "name": "Documental: Explosión anime en Japón",
+                      "description": "",
+                      "timeStart": "11:00",
+                      "timeEnd": "12:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/01/Aiko.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "492",
+                      "name": "Teatro: Takeko Nakano, la última mujer samurai",
+                      "description": "",
+                      "timeStart": "12:00",
+                      "timeEnd": "13:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/01/Aiko.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "493",
+                      "name": "Charla: Diferencias entre la cultura española y japonesa",
+                      "description": "",
+                      "timeStart": "13:00",
+                      "timeEnd": "14:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/01/Aiko.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "494",
+                      "name": "Teatro: Los amantes y la espada",
+                      "description": "",
+                      "timeStart": "14:00",
+                      "timeEnd": "15:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/01/Aiko.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "495",
+                      "name": "Vídeos: Bailes de geishas japonesas",
+                      "description": "",
+                      "timeStart": "15:00",
+                      "timeEnd": "16:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/01/Aiko.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "496",
+                      "name": "Teatro: El tabernero y su prometida",
+                      "description": "",
+                      "timeStart": "16:00",
+                      "timeEnd": "17:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/01/Aiko.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "497",
+                      "name": "Charla: Celebraciones y festivales japoneses",
+                      "description": "",
+                      "timeStart": "17:00",
+                      "timeEnd": "18:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/01/Aiko.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "498",
+                      "name": "Teatro: Takeko Nakano, la última mujer samurai",
+                      "description": "",
+                      "timeStart": "18:00",
+                      "timeEnd": "19:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/01/Aiko.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "499",
+                      "name": "Documental: Tokyo, un laboratorio del futuro",
+                      "description": "",
+                      "timeStart": "19:00",
+                      "timeEnd": "20:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/01/Aiko.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  }
+              ]
+          },
+          {
+              "time": "EMOZ",
+              "sessions": [
+                  {
+                      "id": "516",
+                      "name": "Taller de Origami",
+                      "description": "",
+                      "timeStart": "10:00",
+                      "timeEnd": "11:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2022/02/emoz-300x169.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "517",
+                      "name": "Taller de Origami",
+                      "description": "",
+                      "timeStart": "11:00",
+                      "timeEnd": "12:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2022/02/emoz-300x169.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "518",
+                      "name": "Taller de Origami",
+                      "description": "",
+                      "timeStart": "12:00",
+                      "timeEnd": "13:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2022/02/emoz-300x169.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "519",
+                      "name": "Taller de Origami",
+                      "description": "",
+                      "timeStart": "13:00",
+                      "timeEnd": "14:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2022/02/emoz-300x169.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "520",
+                      "name": "Taller de Origami",
+                      "description": "",
+                      "timeStart": "16:00",
+                      "timeEnd": "17:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2022/02/emoz-300x169.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "515",
+                      "name": "Taller de Origami",
+                      "description": "",
+                      "timeStart": "17:00",
+                      "timeEnd": "18:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2022/02/emoz-300x169.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  }
+              ]
+          },
+          {
+              "time": "Jardines de Kyoto",
+              "sessions": [
+                  {
+                      "id": "527",
+                      "name": "Exposición \"Bonsai: 2500 años de arte natural\"",
+                      "description": "",
+                      "timeStart": "10:00",
+                      "timeEnd": "20:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/juniperus-sabina-rastrera_6262294_13030756-2-300x205.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "529",
+                      "name": "Taller: \"Aprende a diseñar tu personaje manga\" con Escuela Manga Bonsai Mágico",
+                      "description": "",
+                      "timeStart": "11:00",
+                      "timeEnd": "12:30",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/Manga_technique_-_Drawing_-_Belgotaku_02-300x200.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "530",
+                      "name": "Taller: \"Aprende a diseñar tu personaje manga\" con Escuela Manga Bonsai Mágico",
+                      "description": "",
+                      "timeStart": "12:30",
+                      "timeEnd": "14:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/Manga_technique_-_Drawing_-_Belgotaku_02-300x200.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "531",
+                      "name": "Taller: \"Aprende a diseñar tu personaje manga\" con Escuela Manga Bonsai Mágico",
+                      "description": "",
+                      "timeStart": "16:00",
+                      "timeEnd": "17:30",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/Manga_technique_-_Drawing_-_Belgotaku_02-300x200.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "528",
+                      "name": "Taller: \"Aprende a diseñar tu personaje manga\" con Escuela Manga Bonsai Mágico",
+                      "description": "",
+                      "timeStart": "17:30",
+                      "timeEnd": "19:00",
+                      "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/Manga_technique_-_Drawing_-_Belgotaku_02-300x200.jpg",
+                      "tracks": [
+                          ""
+                      ]
+                  }
+              ]
+          },
+          {
+              "time": "Bonsai Mágico ",
+              "sessions": [
+                  {
+                      "id": "536",
+                      "name": "Exposición de bonsais y tienda",
+                      "description": "",
+                      "timeStart": "10:00",
+                      "timeEnd": "20:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "532",
+                      "name": "Taller de Manga",
+                      "description": "",
+                      "timeStart": "11:00",
+                      "timeEnd": "12:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "533",
+                      "name": "Taller Manga (diseña tu personaje manga)",
+                      "description": "",
+                      "timeStart": "13:00",
+                      "timeEnd": "14:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "534",
+                      "name": "Taller Manga (diseña tu personaje manga)",
+                      "description": "",
+                      "timeStart": "17:00",
+                      "timeEnd": "18:00",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  },
+                  {
+                      "id": "535",
+                      "name": "Taller Manga (diseña tu personaje manga)",
+                      "description": "",
+                      "timeStart": "18:30",
+                      "timeEnd": "19:30",
+                      "image": "",
+                      "tracks": [
+                          ""
+                      ]
+                  }
+              ]
+          }
       ]
   }
   ],
