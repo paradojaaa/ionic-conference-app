@@ -12,6 +12,18 @@
   
   "speakers": [
     {
+      "name": "Tasia",
+      "profilePic": "https://entradas.japanweekend.com/app/img/tasia.png",
+      "instagram": "tasia.m.s",
+      "twitter": "_tasiams",
+      "about": "",
+      "title": "Ilustradora",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "99"
+    },
+    {
       "name": "Heikala",
       "profilePic": "https://entradas.japanweekend.com/app/img/heikala.png",
       "instagram": "heikala",
