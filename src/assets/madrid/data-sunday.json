@@ -57,11 +57,11 @@
                         },
                         {
                             "id": "1767",
-                            "name": "Concierto",
+                            "name": "Concierto Noa Collazos",
                             "description": "",
                             "timeStart": "13:00",
                             "timeEnd": "13:30",
-                            "image": "",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/08/Noa.png",
                             "tracks": [
                                 ""
                             ]
@@ -94,78 +94,56 @@
                             ]
                         },
                         {
-                            "id": "1438",
-                            "name": "Sigue el baile especial Infantil",
+                            "id": "1859",
+                            "name": "Random old Kpop",
                             "description": "",
                             "timeStart": "11:00",
+                            "timeEnd": "11:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1860",
+                            "name": "Random new Kpop",
+                            "description": "",
+                            "timeStart": "11:30",
                             "timeEnd": "12:00",
-                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/background-819577_960_720-300x212.jpg",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
                             "id": "1437",
-                            "name": "Just Dance edición asiático",
+                            "name": "Random Asian Music",
                             "description": "",
                             "timeStart": "12:00",
-                            "timeEnd": "13:00",
-                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "1439",
-                            "name": "Quiz K-pop y Adivina el MV colaboración Academia Edeluri",
-                            "description": "",
-                            "timeStart": "13:00",
                             "timeEnd": "14:00",
-                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/edeluri.png",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
                             "id": "1440",
-                            "name": "Random Asian Music",
+                            "name": "Sigue el baile",
                             "description": "",
                             "timeStart": "14:00",
-                            "timeEnd": "14:30",
+                            "timeEnd": "15:00",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
                             "tracks": [
                                 ""
                             ]
                         },
                         {
-                            "id": "1441",
-                            "name": "Proyección MVs",
-                            "description": "",
-                            "timeStart": "14:30",
-                            "timeEnd": "15:00",
-                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/banner-1763837_960_720-300x94.jpg",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
                             "id": "1442",
-                            "name": "Just Dance edición asiático",
+                            "name": "Sube a bailar",
                             "description": "",
                             "timeStart": "15:00",
-                            "timeEnd": "16:00",
-                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
-                            "tracks": [
-                                ""
-                            ]
-                        },
-                        {
-                            "id": "1443",
-                            "name": "Exhibición de baile",
-                            "description": "",
-                            "timeStart": "16:00",
                             "timeEnd": "17:00",
-                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/lights-7633389_960_720-300x250.jpg",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
                             "tracks": [
                                 ""
                             ]
@@ -188,7 +166,7 @@
                     "sessions": []
                 },
                 {
-                    "time": "Conferencias 3",
+                    "time": "Escenario Multiverso",
                     "sessions": [
                         {
                             "id": "1773",

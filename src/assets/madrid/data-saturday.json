@@ -70,7 +70,7 @@
                             "name": "Random New Kpop",
                             "description": "",
                             "timeStart": "11:00",
-                            "timeEnd": "11:30",
+                            "timeEnd": "12:00",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
                             "tracks": [
                                 "Random Dance"
@@ -80,18 +80,29 @@
                             "id": "1374",
                             "name": "Random Asian Music",
                             "description": "",
-                            "timeStart": "11:30",
-                            "timeEnd": "12:00",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
                             "tracks": [
                                 "Random Dance"
                             ]
                         },
                         {
-                            "id": "1375",
-                            "name": "Just Dance edición asiático",
+                            "id": "1857",
+                            "name": "Adivina la silueta",
                             "description": "",
-                            "timeStart": "12:00",
+                            "timeStart": "13:00",
+                            "timeEnd": "13:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
+                            "tracks": [
+                                "Baile"
+                            ]
+                        },
+                        {
+                            "id": "1375",
+                            "name": "Adivina la canción",
+                            "description": "",
+                            "timeStart": "13:30",
                             "timeEnd": "14:00",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/pattern-3880698_960_720-300x169.jpg",
                             "tracks": [
@@ -99,44 +110,33 @@
                             ]
                         },
                         {
-                            "id": "1376",
-                            "name": "Proyección MVs",
+                            "id": "1858",
+                            "name": "Sigue la letra",
                             "description": "",
                             "timeStart": "14:00",
-                            "timeEnd": "15:00",
+                            "timeEnd": "14:30",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/banner-1763837_960_720-300x94.jpg",
                             "tracks": [
                                 "Proyecciones"
                             ]
                         },
                         {
-                            "id": "1377",
-                            "name": "Random Asian Music",
+                            "id": "1376",
+                            "name": "Sigue el baile",
                             "description": "",
                             "timeStart": "15:00",
-                            "timeEnd": "16:00",
-                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
+                            "timeEnd": "16:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/banner-1763837_960_720-300x94.jpg",
                             "tracks": [
-                                "Random Dance"
-                            ]
-                        },
-                        {
-                            "id": "1378",
-                            "name": "Sigue el baile especial Infantil",
-                            "description": "",
-                            "timeStart": "16:00",
-                            "timeEnd": "17:00",
-                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/background-819577_960_720-300x212.jpg",
-                            "tracks": [
-                                "Baile"
+                                "Proyecciones"
                             ]
                         },
                         {
                             "id": "1379",
-                            "name": "Exhibición de baile",
+                            "name": "Concurso de baile",
                             "description": "",
-                            "timeStart": "17:00",
-                            "timeEnd": "18:00",
+                            "timeStart": "16:30",
+                            "timeEnd": "18:30",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/lights-7633389_960_720-300x250.jpg",
                             "tracks": [
                                 "Exhibición baile"
@@ -146,7 +146,7 @@
                             "id": "1380",
                             "name": "Random Dance variado",
                             "description": "",
-                            "timeStart": "18:00",
+                            "timeStart": "18:30",
                             "timeEnd": "21:00",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720-300x200.jpg",
                             "tracks": [
@@ -164,7 +164,7 @@
                     "sessions": []
                 },
                 {
-                    "time": "Conferencias 3",
+                    "time": "Escenario Multiverso",
                     "sessions": [
                         {
                             "id": "1755",
