@@ -12,6 +12,54 @@
   
   "speakers": [
     {
+      "name": "TRUE",
+      "profilePic": "https://entradas.japanweekend.com/app/img/true.png",
+      "instagram": "",
+      "twitter": "",
+      "about": "",
+      "title": "Cantante",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "140"
+    },
+    {
+      "name": "Andrés Garrido",
+      "profilePic": "https://entradas.japanweekend.com/app/img/andresgarrido.png",
+      "instagram": "andresgarridoart",
+      "twitter": "andreslaoveja",
+      "about": "",
+      "title": "Dibujante de cómics",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "142"
+    },
+    {
+      "name": "Alisyuon",
+      "profilePic": "https://entradas.japanweekend.com/app/img/alisyuon.png",
+      "instagram": "alisyuon",
+      "twitter": "alisyuon",
+      "about": "",
+      "title": "Cosplayer",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "144"
+    },
+    {
+      "name": "DayoScript",
+      "profilePic": "https://entradas.japanweekend.com/app/img/dayoscript.png",
+      "instagram": "dayoscript",
+      "twitter": "DayoScript",
+      "about": "",
+      "title": "Autor",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "146"
+    },
+    {
       "name": "Tasia",
       "profilePic": "https://entradas.japanweekend.com/app/img/tasia.png",
       "instagram": "tasia.m.s",
@@ -21,7 +69,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "100"
+      "id": "150"
     },
     {
       "name": "Heikala",
@@ -33,7 +81,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "101"
+      "id": "151"
     },
     {
       "name": "Mika",
@@ -45,7 +93,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "103"
+      "id": "153"
     },
     {
       "name": "María Luisa Marciel",
@@ -57,7 +105,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "105"
+      "id": "155"
     },
     {
       "name": "Sara Iglesias",
@@ -69,7 +117,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "107"
+      "id": "157"
     },
     {
       "name": "Salvi Garrido",
@@ -81,7 +129,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "109"
+      "id": "159"
     },
     {
       "name": "Joel Gómez Jiménez",
@@ -93,7 +141,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "111"
+      "id": "161"
     },
     {
       "name": "Gracia Comitre Velasco",
@@ -105,7 +153,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "113"
+      "id": "163"
     },
     {
       "name": "Marta Argota",
@@ -117,7 +165,7 @@
       "location": "",
       "email": "",
       "phone": "",
-      "id": "115"
+      "id": "165"
     }
   ],
 
