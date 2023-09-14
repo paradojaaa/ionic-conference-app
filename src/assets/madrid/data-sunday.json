@@ -7,12 +7,34 @@
                     "time": "Escenario Principal",
                     "sessions": [
                         {
+                            "id": "1958",
+                            "name": "Exhibición de baile G- O´clock",
+                            "description": "",
+                            "timeStart": "11:30",
+                            "timeEnd": "12:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/06/dance-goclock.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
                             "id": "1765",
                             "name": "Japan Weekend Idol Festival",
                             "description": "",
                             "timeStart": "12:00",
-                            "timeEnd": "14:00",
+                            "timeEnd": "14:30",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/light-812677_960_720.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "2061",
+                            "name": "Concierto de TRUE",
+                            "description": "",
+                            "timeStart": "15:00",
+                            "timeEnd": "16:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/08/TRUE.png",
                             "tracks": [
                                 ""
                             ]
@@ -45,10 +67,152 @@
                     "time": "Conferencias 1",
                     "sessions": [
                         {
+                            "id": "2078",
+                            "name": "GAMOTAKU: Trivial Otaku",
+                            "description": "",
+                            "timeStart": "11:00",
+                            "timeEnd": "12:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/08/Gamotaku.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "2079",
+                            "name": "\"Introducción al shojosei\" por ProShojoSpain",
+                            "description": "¿Quieres leer shojosei pero no sabes por dónde empezar? ¿Para ti todo es de color de rosa en los mangas para mujeres? Pues esta es tu charla. Una guía práctica para poder empezar con buen pie en la demografía femenina. ",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/image-4.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "2054",
+                            "name": "Quiz K-pop y adivina el MV por Academia Edeluri",
+                            "description": "",
+                            "timeStart": "13:00",
+                            "timeEnd": "14:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/edeluri.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1964",
+                            "name": "\"Viajar a Japón y no morir en el intento\" por Instituto Kojachi",
+                            "description": "",
+                            "timeStart": "14:00",
+                            "timeEnd": "15:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/08/Instituto-Kojachi.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1920",
+                            "name": "\"Un drift por la historia de Japón\" por Daikoku Racing",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "2060",
+                            "name": "Animedia Contest",
+                            "description": "Pon a prueba tus conocimientos de anime en base a sus openings desde los años 80 hasta la actualidad.",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/iVYnNn6L_400x400.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "2059",
+                            "name": "\"25 años de Cardcaptor Sakura\" por ProShojoSpain",
+                            "description": "25 años alimentando las fantasías de las lectoras ",
+                            "timeStart": "18:00",
+                            "timeEnd": "19:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/image-5.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Conferencias 2",
+                    "sessions": [
+                        {
+                            "id": "1773",
+                            "name": "Q&A - Cosplayers invitados: Anaelic, Annshella y Crimsyn",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/light-812677_960_720.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1919",
+                            "name": "Animedia Contest",
+                            "description": "Pon a prueba tus conocimientos de anime en base a sus openings desde los años 80 hasta la actualidad.",
+                            "timeStart": "13:00",
+                            "timeEnd": "14:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/iVYnNn6L_400x400.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1967",
+                            "name": "Panel Heikala",
+                            "description": "",
+                            "timeStart": "15:00",
+                            "timeEnd": "16:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/07/Heikala.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1966",
+                            "name": "\"Arte y redes sociales\" por Tasia",
+                            "description": "¿Cómo las redes sociales pueden influir en el contenido que crea un artista? ",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/08/Tasia.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1924",
+                            "name": "\"Empezando a conocer la literatura japonesa\" por Niponatura",
+                            "description": "Desde la antigüedad hasta ahora, Japón ha contado con un sin fin de grandes autores y maestros de la literatura, pero aún son algo desconocidos para nosotros. Sin duda, la distancia que nos separa de Japón hace que su literatura nos resulte algo nuevo, no tiene mucho que ver con lo que estamos acostumbrados. ¿Qué tiene de especial?. ¿Qué autor es mejor para introducirse a este interesantísimo mundo?. Si te llama la atención la literatura de Japón, pero no conoces nada sobre ella, en esta ponencia realizaremos un resumen histórico y cultural desde los inicios hasta la actualidad, hablando de los autores más importantes y, sobre todo recomendando cientos de obras para que puedas encontrar un nuevo mundo en el que adentrarte.",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/02/Haiku.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "time": "Escenario Multiverso",
+                    "sessions": [
+                        {
                             "id": "1751",
                             "name": "Concurso de Cosplay Junior",
                             "description": "",
-                            "timeStart": "12:00",
+                            "timeStart": "11:30",
                             "timeEnd": "13:00",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/background-819577_960_720.jpg",
                             "tracks": [
@@ -73,6 +237,28 @@
                             "timeStart": "13:30",
                             "timeEnd": "15:30",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/audio-1851517_960_720.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1923",
+                            "name": "QUIZZ de preguntas de Videojuegos con ShenronZ y SAeNcSA",
+                            "description": "¡Demuestra cuánto sabes de videojuegos y llévate fantásticos premios!",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/unnamed.jpg",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1928",
+                            "name": "\"Fotografía e Iluminación aplicada al Cosplay\" por Morgane",
+                            "description": "Trataremos de enseñar de forma práctica e interactiva, cómo resolver cuestiones técnicas de iluminación y fotografía. \r\nLa conferencia estaría dirigida tanto a profesionales con cierto nivel e inexperta. Nuestro objetivo es mostrar cómo sacar partido a sus propios trabajos en el medio digital.\r\nEn el taller podréis ver cómo trabajamos con una modelo en vivo y la toma de fotografías en directo.",
+                            "timeStart": "18:00",
+                            "timeEnd": "19:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/logo-firma-MORGANE.png",
                             "tracks": [
                                 ""
                             ]
@@ -162,26 +348,6 @@
                     ]
                 },
                 {
-                    "time": "Conferencias 2",
-                    "sessions": []
-                },
-                {
-                    "time": "Escenario Multiverso",
-                    "sessions": [
-                        {
-                            "id": "1773",
-                            "name": "Q&A - Cosplayers invitados",
-                            "description": "",
-                            "timeStart": "13:00",
-                            "timeEnd": "14:00",
-                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/background-819577_960_720.jpg",
-                            "tracks": [
-                                ""
-                            ]
-                        }
-                    ]
-                },
-                {
                     "time": "Tatami 1",
                     "sessions": [
                         {
@@ -234,12 +400,23 @@
                             ]
                         },
                         {
-                            "id": "1769",
+                            "id": "2065",
                             "name": "Exhibición de kendo por \"Club kendo Kenwakai\"",
                             "description": "",
                             "timeStart": "13:00",
                             "timeEnd": "15:00",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/Kenwakai.png",
+                            "tracks": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "1769",
+                            "name": "Exhibición de la Asociación Española de Sumo",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "",
                             "tracks": [
                                 ""
                             ]

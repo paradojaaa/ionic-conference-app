@@ -7,12 +7,32 @@
                     "time": "Escenario Principal",
                     "sessions": [
                         {
-                            "id": "1748",
+                            "id": "1946",
+                            "name": "Exhibición de baile de G O´Clock",
+                            "description": "",
+                            "timeStart": "11:30",
+                            "timeEnd": "12:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/06/dance-goclock.png",
+                            "tracks": []
+                        },
+                        {
+                            "id": "2056",
                             "name": "Concurso Asian Cover Dance",
                             "description": "",
                             "timeStart": "12:00",
                             "timeEnd": "14:30",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720.jpg",
+                            "tracks": [
+                                "Concurso"
+                            ]
+                        },
+                        {
+                            "id": "2057",
+                            "name": "Concierto TRUE",
+                            "description": "",
+                            "timeStart": "15:00",
+                            "timeEnd": "16:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/08/TRUE.png",
                             "tracks": [
                                 "Concurso"
                             ]
@@ -30,12 +50,236 @@
                             ]
                         },
                         {
+                            "id": "1748",
+                            "name": "Concierto Toriena",
+                            "description": "",
+                            "timeStart": "18:30",
+                            "timeEnd": "19:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/Toriena.png",
+                            "tracks": [
+                                "Concurso"
+                            ]
+                        },
+                        {
                             "id": "1754",
                             "name": "Entrega de premios ICL",
                             "description": "",
                             "timeStart": "19:30",
                             "timeEnd": "20:00",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/icl-3.jpeg",
+                            "tracks": []
+                        },
+                        {
+                            "id": "2086",
+                            "name": "Rave Weekend by 3bit",
+                            "description": "",
+                            "timeStart": "20:00",
+                            "timeEnd": "21:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/hand-1850120_960_720.jpg",
+                            "tracks": []
+                        }
+                    ]
+                },
+                {
+                    "time": "Conferencias 1",
+                    "sessions": [
+                        {
+                            "id": "1917",
+                            "name": "Animedia Contest",
+                            "description": "Pon a prueba tus conocimientos de anime en base a sus openings desde los años 80 hasta la actualidad.\r\n",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/iVYnNn6L_400x400.jpg",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1959",
+                            "name": "Presentación Odaiba Ediciones",
+                            "description": "",
+                            "timeStart": "13:00",
+                            "timeEnd": "14:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/odaiba.jpg",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1960",
+                            "name": "\"Refugio del Aventurero-Presentación 4ªTemporada\" por Saga Galdin",
+                            "description": "",
+                            "timeStart": "14:00",
+                            "timeEnd": "15:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/06/Saga-Galdin.png",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1977",
+                            "name": "Iniciación al cosplay con Ahriri y Eryth",
+                            "description": "",
+                            "timeStart": "15:00",
+                            "timeEnd": "16:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/Charla-Introducción-al-cosplay-4-scaled.jpg",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1945",
+                            "name": "\"Universo Resident Evil\" por Grupo USFA",
+                            "description": "Desde que en 1996 viese la luz el primer videojuego, fue tal su expectación que generó, que dio lugar no solo a una franquicia de videojuegos millonaria, si no un universo de Películas, Libros, Cómics, Restaurantes y Merchandising con una historia propia, que ha llegado a ser un referente en todos los ámbitos y que sin duda es un indispensable de la cultura Japonesa, el cual podrás conocer de la mano del mayor grupo de Cosplay dedicado a esta temática de toda España.\r\n",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/usfa.jpg",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1918",
+                            "name": "Animedia Contest",
+                            "description": "Pon a prueba tus conocimientos de anime en base a sus openings desde los años 80 hasta la actualidad.\r\n",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/iVYnNn6L_400x400.jpg",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1927",
+                            "name": "\"Perdona, ¿tienes un minuto para hablar del rol en vivo?\" por The Roamers",
+                            "description": " En esta charla te pedimos unos pocos más pero te contamos todo sobre este hobby: en qué consiste, cuáles son sus tipos, consejos para empezar y todas las posibilidades de eventos que hay en España para que te puedas decantar por tu favorito. \r\n\r\nSi siempre has tenido curiosidad pero no sabes cómo empezar, ¡te lo contamos todo y dejamos un espacio para que nos preguntes lo que quieras!\r\n\r\nAdemás, en la charla se dará el premio de la Gynkana Arcane: infiltración en Zaun. La persona ganadora recibirá una plaza para el Rol de Arcane, celebrado el 20 de enero en Madrid, y valorado en más de 60 €. ",
+                            "timeStart": "19:00",
+                            "timeEnd": "20:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/The-Roamers.png",
+                            "tracks": []
+                        }
+                    ]
+                },
+                {
+                    "time": "Conferencias 2",
+                    "sessions": [
+                        {
+                            "id": "1962",
+                            "name": "\"ONE PIECE: Quedada de cosplayers y concurso de doblaje \" por Gamotaku",
+                            "description": "",
+                            "timeStart": "11:30",
+                            "timeEnd": "12:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/08/Gamotaku.png",
+                            "tracks": []
+                        },
+                        {
+                            "id": "2076",
+                            "name": "\"Rotulando los TL de Mika: De la Empalagosa a Juliana\" por ProShojoSpain",
+                            "description": " Repaso a los Teens Love de Mika publicados por Odaiba Ediciones y el trabajo que conlleva adaptarlos para un rotulista.",
+                            "timeStart": "12:30",
+                            "timeEnd": "13:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/image-3.png",
+                            "tracks": []
+                        },
+                        {
+                            "id": "2058",
+                            "name": "\"El duelo, y como salir vivo de ellos\" por Escuela de Esgrima Francisco de Ettenhard",
+                            "description": "Conferencia con asaltos demostrativos, y guiados por un ponente.",
+                            "timeStart": "13:30",
+                            "timeEnd": "14:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/07/Francisco-de-Ettenhard.png",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1965",
+                            "name": "\"Descubriendo Corea\" por Instituto Kojachi",
+                            "description": "",
+                            "timeStart": "14:30",
+                            "timeEnd": "15:30",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/08/Instituto-Kojachi.png",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1961",
+                            "name": "\"MARVEL Y DC: Trivial superheroico \" por Gamotaku",
+                            "description": "",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/08/Gamotaku.png",
+                            "tracks": []
+                        },
+                        {
+                            "id": "2053",
+                            "name": "\"Coreografías y vestuario en el Kpop\" con Xénia Shining",
+                            "description": "Xenia_shining, cantante y bailarina dará una conferencia sobre cómo prepara las coreografías y \r\nlos vestuarios para sus actuaciones",
+                            "timeStart": "18:00",
+                            "timeEnd": "19:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/edeluri.png",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1963",
+                            "name": "\"Descubriendo el Teens Love con Mika\" por ProShojoSpain",
+                            "description": " Repaso a los Teens Love de Mika publicados por Odaiba Ediciones y el trabajo que conlleva adaptarlos para un rotulista.",
+                            "timeStart": "19:00",
+                            "timeEnd": "20:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/image-2.jpg",
+                            "tracks": []
+                        }
+                    ]
+                },
+                {
+                    "time": "Escenario Multiverso",
+                    "sessions": [
+                        {
+                            "id": "1755",
+                            "name": "Q&A - Artistas invitados: Heikala y Tasia",
+                            "description": "",
+                            "timeStart": "12:00",
+                            "timeEnd": "13:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/background-819577_960_720.jpg",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1922",
+                            "name": "Conferencia actores de doblaje Dragon Ball",
+                            "description": "¡Ven a conocer al elenco que puso voz a los personajes de Dragon Ball en español!\r\n\r\n\r\n",
+                            "timeStart": "13:00",
+                            "timeEnd": "15:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/promojapan-scaled.jpg",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1976",
+                            "name": "Panel de cosplay Kimetsu no Yaiba",
+                            "description": "",
+                            "timeStart": "15:00",
+                            "timeEnd": "16:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/Panel-Kimetsu.jpg",
+                            "tracks": []
+                        },
+                        {
+                            "id": "2049",
+                            "name": "Conferencia actores de doblaje Chainsaw Man",
+                            "description": "¡Ven a conocer al elenco que puso voz a los personajes de Chainsaw man en español!\r\n\r\n",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/07/Gracia-Comitre-Velasco.png",
+                            "tracks": []
+                        },
+                        {
+                            "id": "2055",
+                            "name": "QUIZZ de preguntas de Dragon Ball con ShenronZ y SAeNcSA",
+                            "description": "Concurso interactivo de Dragon Ball con premios",
+                            "timeStart": "17:00",
+                            "timeEnd": "18:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/01/unnamed.jpg",
+                            "tracks": []
+                        },
+                        {
+                            "id": "2077",
+                            "name": "Panel de cosplay Genshin Impact",
+                            "description": "",
+                            "timeStart": "18:00",
+                            "timeEnd": "19:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/Panel-Japan-Genshin.jpg",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1921",
+                            "name": "Panel de cosplay Twisted Wonderland",
+                            "description": "",
+                            "timeStart": "19:00",
+                            "timeEnd": "20:00",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/CARTEL-PANEL-TW.jpg",
                             "tracks": []
                         }
                     ]
@@ -156,28 +400,6 @@
                     ]
                 },
                 {
-                    "time": "Conferencias 1",
-                    "sessions": []
-                },
-                {
-                    "time": "Conferencias 2",
-                    "sessions": []
-                },
-                {
-                    "time": "Escenario Multiverso",
-                    "sessions": [
-                        {
-                            "id": "1755",
-                            "name": "Q&A - Artistas invitados",
-                            "description": "",
-                            "timeStart": "11:30",
-                            "timeEnd": "13:00",
-                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2022/12/background-819577_960_720.jpg",
-                            "tracks": []
-                        }
-                    ]
-                },
-                {
                     "time": "Tatami 1",
                     "sessions": [
                         {
@@ -190,12 +412,21 @@
                             "tracks": []
                         },
                         {
-                            "id": "1758",
+                            "id": "2064",
                             "name": "Exhibición Aikido Madrid",
                             "description": "",
                             "timeStart": "11:30",
                             "timeEnd": "14:30",
                             "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/06/Aikido-Madrid.png",
+                            "tracks": []
+                        },
+                        {
+                            "id": "1758",
+                            "name": "Exhibición de la Asociación Española de Sumo",
+                            "description": "",
+                            "timeStart": "16:00",
+                            "timeEnd": "17:00",
+                            "image": "",
                             "tracks": []
                         },
                         {
@@ -205,6 +436,15 @@
                             "timeStart": "17:00",
                             "timeEnd": "19:00",
                             "image": "",
+                            "tracks": []
+                        },
+                        {
+                            "id": "2051",
+                            "name": "Exhibición Taekwondo por Kumgang FM",
+                            "description": "",
+                            "timeStart": "19:00",
+                            "timeEnd": "19:45",
+                            "image": "https://www.japanweekend.com/madrid/wp-content/uploads/sites/2/2023/09/Kumgang-FM.png",
                             "tracks": []
                         }
                     ]
