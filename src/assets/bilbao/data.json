@@ -9,7 +9,66 @@
   ],
 
   "speakers": [
- 
+    {
+      "name": "Eternal-S",
+      "profilePic": "https://entradas.japanweekend.com/app/img/eternal-s.png",
+      "instagram": "_eternals",
+      "twitter": "eternals",
+      "about": "",
+      "title": "Artista",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "101"
+    },
+    {
+      "name": "MION",
+      "profilePic": "https://entradas.japanweekend.com/app/img/mion.png",
+      "instagram": "",
+      "twitter": "MION_official",
+      "about": "",
+      "title": "Cantante",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "103"
+    },
+    {
+      "name": "Jackwise Clown",
+      "profilePic": "https://entradas.japanweekend.com/app/img/jackwiseclown.png",
+      "instagram": "jackwise_clown",
+      "twitter": "",
+      "about": "",
+      "title": "Cosplayer",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "105"
+    },
+    {
+      "name": "Kujalice",
+      "profilePic": "https://entradas.japanweekend.com/app/img/kujalice.png",
+      "instagram": "kujalice",
+      "twitter": "kujalice",
+      "about": "",
+      "title": "Cosplayer",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "107"
+    },
+    {
+      "name": "Reina Takano",
+      "profilePic": "https://entradas.japanweekend.com/app/img/reinatakano.png",
+      "instagram": "reina.tokyonailart",
+      "twitter": "",
+      "about": "Reina Takano, nail artist japonesa fundadora de uno de los salones de nail art más rompedores de Tokio que estará haciendo manos completas por un módico precio en su stand",
+      "title": "Nail artist",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "109"
+    }
   ],
 
   "map": [
