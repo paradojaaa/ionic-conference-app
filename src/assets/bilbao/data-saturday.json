@@ -8,6 +8,17 @@
                 "sessions": [
                     {
                         "id": "468",
+                        "name": "Anime Music Experience",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/08/Motsukora.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "556",
                         "name": "Concurso de Dance",
                         "description": "",
                         "timeStart": "12:00",
@@ -18,12 +29,12 @@
                         ]
                     },
                     {
-                        "id": "469",
-                        "name": "Concurso de Karaoke",
+                        "id": "537",
+                        "name": "Concierto de MION",
                         "description": "",
                         "timeStart": "15:00",
-                        "timeEnd": "16:30",
-                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/audio-1851517_960_720.jpg",
+                        "timeEnd": "16:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/09/Mion.png",
                         "tracks": [
                             ""
                         ]
@@ -38,27 +49,157 @@
                         "tracks": [
                             ""
                         ]
+                    },
+                    {
+                        "id": "538",
+                        "name": "KAHOOT - Especial Anime con Dragoi- Bola N Cast!!!",
+                        "description": "QUIZZ ESPECIAL PARA DEMOSTRAR CUANTOS PERSONAJES DE ANIME O DIBUJOS ANIMADOS CONOCES. 30 PREGUNTAS CON IMAGENES PARA ACERTAR QUÉ PERSONAJE ES. PREMIO AL GANADOR.\r\n",
+                        "timeStart": "18:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/01/Seve-Atencia-1.jpg",
+                        "tracks": [
+                            ""
+                        ]
                     }
                 ]
             },
             {
                 "time": "Escenario de actividades",
-                "sessions": []
+                "sessions": [
+                    {
+                        "id": "559",
+                        "name": "Presentación de la serie de Manga en euskera: X-VENTURE de OOSO Editorial",
+                        "description": "Presentación de Manga euskaraz: X-VENTURE",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/10/OOSO.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "564",
+                        "name": "Concurso de Karaoke",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "15:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/02/audio-1851517_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "570",
+                        "name": "Taller de iniciación. Amigurumi kawaii limón",
+                        "description": "Si te interesa iniciarte en el mundo de los amigurumis, no lo dudes, apúntate a este taller. No hacen falta conocimientos previos, ¡así que no hay excusas! ¡Os esperamos!",
+                        "timeStart": "15:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/09/sorgin-lanak.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "469",
+                        "name": "\"Acierta el Opening\" por Navar-Manga",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/09/Navarmanga.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
             },
             {
                 "time": "Conferencias",
-                "sessions": []
+                "sessions": [
+                    {
+                        "id": "555",
+                        "name": "\"Cómo ilustrar un personaje para videojuegos y cine\" por Centro Pixels",
+                        "description": "Hablaremos de todos los pasos necesarios para crear el concept art de un personaje para cine y videojuegos desde los primeros bocetos hasta el acabado final. También hablaremos de cómo ilustrar en diferentes estilos, como por ejemplo cómo conseguir un acabado similar al estilo de \"Valorant\".",
+                        "timeStart": "11:30",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/09/Centro-pixels.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "554",
+                        "name": "\"Edición de fotografía aplicada al cosplay y 3D\" por Kujalice",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/09/Kujalice.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "571",
+                        "name": "Q&A con Jackwise Clown",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/09/Jackwise.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "562",
+                        "name": "\"Trivial Friki\" por Navar-Manga",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "15:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/09/Navarmanga.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "552",
+                        "name": "\"Analizo y pongo a prueba, todas las sillas del mercado GAMING y OFICINA” por AlexisPrieto",
+                        "description": "Pondremos a prueba en el escenario 4 sillas de diferentes precios y estilos: silla kawaii , oficina, top top e intermedia. Para que veas en qué te tienes que fijar a la hora de comprar una silla. ¡Ya basta de que nos engañen! Quiero ayudar y daros los trucos de la comodidad al mejor precio, ¡que lo hay! ",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/10/Captura-de-pantalla-2023-10-02-a-las-14.53.26.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "551",
+                        "name": "\"Cómo esculpir un personaje 3D para videojuegos e impresión\" por Centro Pixels",
+                        "description": "Hablaremos sobre todo el proceso de diseño orientado a esculpir y desarrollar un personaje 3D para videojuegos. Además, también comentaremos lo principal a tener en cuenta para poder preparar ese personaje para imprimirlo después en 3D.",
+                        "timeStart": "18:00",
+                        "timeEnd": "18:30",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/09/Centro-pixels.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "553",
+                        "name": "\"Viajar a Japón y no morir en el intento\" por Instituto Kojachi",
+                        "description": "",
+                        "timeStart": "18:30",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/08/Instituto-Kojachi.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
             },
             {
                 "time": "Tatami",
-                "sessions": []
-            },
-            {
-                "time": "Zona K-Pop Kuaizi",
                 "sessions": [
                     {
-                        "id": "478",
-                        "name": "Conoce la Baraja Hwatu y el modo de juego",
+                        "id": "542",
+                        "name": "Karate Kyokushin Bizkaia",
                         "description": "",
                         "timeStart": "11:00",
                         "timeEnd": "12:00",
@@ -68,10 +209,48 @@
                         ]
                     },
                     {
-                        "id": "479",
-                        "name": "Taller de juego Hwatu: aprende a jugar y echa unas partidas con nosotrxs",
+                        "id": "543",
+                        "name": "AIKIDO VILLAVA",
                         "description": "",
-                        "timeStart": "14:30",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "544",
+                        "name": "CLUB AIKIDO KENKIDO HORIZONTES SESTAO",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/08/Horizones-sestao.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "541",
+                        "name": "Club deportivo Sala de armas Salvatore Fabris",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/08/Sala-de-armas-salvatoreFabris.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Zona K-Pop Ohashi",
+                "sessions": [
+                    {
+                        "id": "475",
+                        "name": "Henna",
+                        "description": "",
+                        "timeStart": "10:30",
                         "timeEnd": "15:00",
                         "image": "",
                         "tracks": [
@@ -79,7 +258,7 @@
                         ]
                     },
                     {
-                        "id": "475",
+                        "id": "561",
                         "name": "Escenario Abierto",
                         "description": "",
                         "timeStart": "15:00",
@@ -90,7 +269,7 @@
                         ]
                     },
                     {
-                        "id": "476",
+                        "id": "560",
                         "name": "Kahoot Kpop",
                         "description": "",
                         "timeStart": "16:30",
@@ -99,12 +278,84 @@
                         "tracks": [
                             ""
                         ]
+                    },
+                    {
+                        "id": "476",
+                        "name": "Random Dance",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Reina Takano",
+                "sessions": [
+                    {
+                        "id": "565",
+                        "name": "Nail Art",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/10/Reina.png",
+                        "tracks": [
+                            ""
+                        ]
                     }
                 ]
             },
             {
                 "time": "Firmas",
-                "sessions": []
+                "sessions": [
+                    {
+                        "id": "569",
+                        "name": "Firmas JackWise Clown",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/09/Jackwise.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "567",
+                        "name": "Firmas Mion",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/09/Mion.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "566",
+                        "name": "Firmas Mion",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/09/Mion.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "568",
+                        "name": "Firmas JackWise Clown",
+                        "description": "",
+                        "timeStart": "18:30",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/bilbao/wp-content/uploads/sites/3/2023/09/Jackwise.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
             }
         ]
     }
