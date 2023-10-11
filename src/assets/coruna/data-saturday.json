@@ -1,11 +1,52 @@
 {
     "schedule": [
       {
-          "date": "SÁBADO (9:30 - 21:00)",
-          "groups": [
-              
-          ]
-      }
+        "date": "",
+        "groups": [
+            {
+                "time": "Escenario Principal",
+                "sessions": [
+                    {
+                        "id": "449",
+                        "name": "Asian Dance Contest",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "14:30",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/03/background-819577_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "448",
+                        "name": "Concurso de Karaoke",
+                        "description": "",
+                        "timeStart": "14:30",
+                        "timeEnd": "16:15",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/03/audio-1851517_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "447",
+                        "name": "Concurso de Cosplay",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/03/light-812677_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Escenario Secundario",
+                "sessions": []
+            }
+        ]
+    }
     ],
   
     

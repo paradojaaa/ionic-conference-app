@@ -1,11 +1,305 @@
 {
     "schedule": [
       {
-          "date": "SÁBADO (9:30 - 21:00)",
-          "groups": [
-              
-          ]
-      }
+        "date": "",
+        "groups": [
+            {
+                "time": "Ryucorp Anime Club",
+                "sessions": [
+                    {
+                        "id": "454",
+                        "name": "Juego Dibujo Lover",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "11:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/08/Ryuucorp-anime.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "455",
+                        "name": "Juego Foto Cosplay",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/08/Ryuucorp-anime.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "456",
+                        "name": "Juego Rockola Kpop",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/08/Ryuucorp-anime.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "457",
+                        "name": "Concurso de Dibujo",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/08/Ryuucorp-anime.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "458",
+                        "name": "Talleres de Hama y Doblaje",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "15:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/08/Ryuucorp-anime.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "459",
+                        "name": "Concurso Maestría Kpop",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "16:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/08/Ryuucorp-anime.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "461",
+                        "name": "Talleres de Hama y Doblaje",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/08/Ryuucorp-anime.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "453",
+                        "name": "Concurso Cacería Cosplay",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/08/Ryuucorp-anime.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "462",
+                        "name": "Talleres de Hama y Doblaje",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/08/Ryuucorp-anime.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "460",
+                        "name": "Juegos Dibujo Cosplay Kpop",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/08/Ryuucorp-anime.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Aiko",
+                "sessions": [
+                    {
+                        "id": "469",
+                        "name": "Grupos J-pop nuevas tendencias",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "11:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/10/Aiko.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "477",
+                        "name": "Los alpes japoneses - Shirakawago, Takayama",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/10/Aiko.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "471",
+                        "name": "Los amantes y la espada",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/10/Aiko.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "476",
+                        "name": "Ainen: Amor sincero",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/10/Aiko.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "473",
+                        "name": "Las dos geishas",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "15:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/10/Aiko.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "474",
+                        "name": "Bailes de geishas japonesas",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "16:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/10/Aiko.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "475",
+                        "name": "Charla sobre cultura japonesa",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/10/Aiko.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "468",
+                        "name": "La gata y el japonés",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/10/Aiko.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "472",
+                        "name": "Ainen: Amor sincero",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/10/Aiko.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "470",
+                        "name": "La vida rural en Japón",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "19:30",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/10/Aiko.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Photocalls",
+                "sessions": [
+                    {
+                        "id": "464",
+                        "name": "Fotografía y edición de cosplay",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "465",
+                        "name": "Fotografía y edición de cosplay",
+                        "description": "",
+                        "timeStart": "15:30",
+                        "timeEnd": "19:30",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "463",
+                        "name": "Edición de cosplay",
+                        "description": "",
+                        "timeStart": "19:30",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Hijos del Lobo",
+                "sessions": [
+                    {
+                        "id": "467",
+                        "name": "Taller de cota de malla",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "17:30",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/08/Hijos-del-lobo.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "466",
+                        "name": "Taller de Runas",
+                        "description": "",
+                        "timeStart": "18:30",
+                        "timeEnd": "19:30",
+                        "image": "https://www.japanweekend.com/acoruna/wp-content/uploads/sites/8/2023/08/Hijos-del-lobo.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
     ],
   
     

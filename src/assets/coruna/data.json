@@ -11,7 +11,30 @@
 
   
   "speakers": [
-   
+    {
+      "name": "MomonKun",
+      "profilePic": "https://entradas.japanweekend.com/app/img/momonkun.png",
+      "instagram": "",
+      "twitter": "MomonKun_",
+      "about": "MomonKun es un streamer que lleva realizando directos en Twitch desde 2020. Su contenido principal es GTA Roleplay, donde Viktor Volkov es su personaje más destacado. Además es un gran aficionado al anime, al manga y sobretodo a las novelas ligeras, siendo una de sus favoritas Overlord, que cuenta con animación y manga.",
+      "title": "Streamer",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "101"
+    },
+    {
+      "name": "Eothen",
+      "profilePic": "https://entradas.japanweekend.com/app/img/eothen.png",
+      "instagram": "eothencosplay",
+      "twitter": "EothenCosplay",
+      "about": "Cosplayer, performer, influencer y entusiasta del deporte, Eothen lleva creando cosplays desde hace ya varios años, dejando huella en los escenarios. Además ha trabajado para importantes empresas y marcas como Riot Games, Wild Rift, Valorant, Genshin Impact y Honkai Star Rail y ha sido jurado de concursos internacionales como WCS en México y Austria. También ha sido el representante español y ganador de manera consecutiva en @cosleague junto a Alisyuon y Dedalo, y también individualmente en CWM. Con más de medio millón de seguidores en sus redes sociales, Eothen se ha ido haciendo un hueco en el mundo del cosplay. ",
+      "title": "Cosplayer",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "103"
+    }
   ],
 
   "map": [
