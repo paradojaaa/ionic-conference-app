@@ -11,7 +11,30 @@
 
   
   "speakers": [
-  
+    {
+      "name": "Phirate CR",
+      "profilePic": "https://entradas.japanweekend.com/app/img/phiratecr.png",
+      "instagram": "phiratecr",
+      "twitter": "PhirateCR",
+      "about": "Con 9 años de experiencia en el cosplay, PhirateCR ha destacado en concursos tanto a nivel nacional como internacional. Ha representado a España en CICAF 2017, ganando la final y en PCH 2022. PhirateCR ha sido jurado en concursos nacionales e internacionales ✈️, compartiendo su conocimiento con el público. Su elección de personajes refleja su amor por el manganime y las artes marciales, y demuestra un genuino entusiasmo por el maquillaje y el crossplay.",
+      "title": "Cosplayer",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "101"
+    },
+    {
+      "name": "Ariel Van De Kamp",
+      "profilePic": "https://entradas.japanweekend.com/app/img/arielvandekamp.png",
+      "instagram": "arielvandekamp",
+      "twitter": "ArielVanDeKamp",
+      "about": "Ariel es una cosplayer alicantina reconocida por sus años de experiencia y pasión por el arte del cosplay. Lo que comenzó como un juego de niños se ha convertido en una afición llena de detalle, buen gusto y esfuerzo, profesionalizándose en patronaje y diseño de moda. Además de su dominio en la creación de trajes, Ariel ✨brilla✨ en el escenario, donde ha ganado numerosos premios en competiciones, destacando su habilidad para encarnar a sus personajes, gracias a su formación en artes escénicas. Por si fuera poco, disfruta utilizando sus redes sociales para compartir contenido divulgativo sobre cosplay, costura, moda, caracterización y otros aspectos artísticos.",
+      "title": "Cosplayer",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "103"
+    }
   ],
 
   "map": [

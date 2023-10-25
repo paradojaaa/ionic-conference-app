@@ -1,12 +1,54 @@
 {
     "schedule": [
         
-        {
-            "date": "DOMINGO 12/03 (11:00 - 19:00)",
-            "groups": [
-                
-            ]
-        }
+      {
+        "date": "DOMINGO 5/11 (11:00 - 19:00)",
+        "groups": [
+            {
+                "time": "Escenario Principal",
+                "sessions": [
+                    {
+                        "id": "719",
+                        "name": "Cover Fest por Vice2Dance",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/03/334233073_154934080787601_668495969555133004_n-300x300.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "718",
+                        "name": "Idol Exhibition",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "18:30",
+                        "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/02/light-812677_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Escenario de Actividades",
+                "sessions": [
+                    {
+                        "id": "721",
+                        "name": "Concurso Cosplay Junior",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:30",
+                        "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/02/background-819577_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
 
 
     ],

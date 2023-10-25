@@ -1,12 +1,87 @@
 {
     "schedule": [
         
-        {
-            "date": "SÁBADO 11/03 (10:00 A 20:00)",
-            "groups": [
-                
-            ]
-        }
+      {
+        "date": "SÁBADO 4/11 (10:00 A 20:00)",
+        "groups": [
+            {
+                "time": "Escenario Principal",
+                "sessions": [
+                    {
+                        "id": "763",
+                        "name": "Concurso de Karaoke",
+                        "description": "",
+                        "timeStart": "13:30",
+                        "timeEnd": "15:30",
+                        "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/02/audio-1851517_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "660",
+                        "name": "Concursos de Cosplay: Nordic Cosplay Championship, Japan Weekend Cosplay Show y Pasarela Cosplay",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "18:30",
+                        "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/02/background-819577_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "762",
+                        "name": "Concursos de Cosplay: Japan Weekend Cosplay Show y Pasarela Cosplay",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "18:30",
+                        "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/02/background-819577_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "664",
+                        "name": "Entrega de premios",
+                        "description": "",
+                        "timeStart": "19:30",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Escenario de Actividades",
+                "sessions": [
+                    {
+                        "id": "761",
+                        "name": "Japan Makeup by Thuya Escuela",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "17:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "764",
+                        "name": "Presentación de Novedades por Jonu Media",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/barcelona/wp-content/uploads/sites/5/2023/03/lLK0MUXv_400x400-2.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
 
 
     ],
