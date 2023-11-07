@@ -1,9 +1,107 @@
 {
     "schedule": [
       {
-        "date": "Domingo 7/5 (11:00-19:00)",
+        "date": "Domingo 19/11 (11:00-19:00)",
         "groups": [
-           
+            {
+                "time": "Escenario Principal",
+                "sessions": [
+                    {
+                        "id": "1323",
+                        "name": "Concurso de cosplay Junior",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/bokeh-2072271_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1559",
+                        "name": "Idol Exhibition",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/Fh1ytBLXoAAWt2f.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Conferencias",
+                "sessions": []
+            },
+            {
+                "time": "Escenario de Actividades",
+                "sessions": []
+            },
+            {
+                "time": "Tatami",
+                "sessions": []
+            },
+            {
+                "time": "Zona K-pop",
+                "sessions": [
+                    {
+                        "id": "1336",
+                        "name": "MÚSICA + PETICIONES",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/bokeh-2072271_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1339",
+                        "name": "RANDOM DANCE",
+                        "description": "",
+                        "timeStart": "12:30",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/hand-1850120_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1334",
+                        "name": "MÚSICA + PETICIONES",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/bokeh-2072271_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1337",
+                        "name": "EXHIBICIONES KPOP",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "16:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/empty-dark-room-modern-futuristic-sci-fi-background-3d-illustration.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1335",
+                        "name": "RANDOM DANCE",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/hand-1850120_960_720.jpg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            }
         ]
     }
     ],
