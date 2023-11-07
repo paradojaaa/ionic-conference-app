@@ -11,7 +11,54 @@
 
   
   "speakers": [
-    
+    {
+      "name": "Chalseu",
+      "profilePic": "https://entradas.japanweekend.com/app/img/chalseu.png",
+      "instagram": "chalseu_d",
+      "twitter": "Chalseu_D",
+      "about": "Charles es un artista 2D de Francia cuya pasión es plasmar en sus ilustraciones escenas de lo más coloridas, además estudió animación 2D y diseño de personajes en la universidad. Tras graduarse ha trabajado en diferentes proyectos como libros infantiles y juveniles (Dark Mystical) y juegos de mesa (La Mansión Encantada de Disney).",
+      "title": "Artista",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "101"
+    },
+    {
+      "name": "Sai Westwood",
+      "profilePic": "https://entradas.japanweekend.com/app/img/saiwestwood.png",
+      "instagram": "",
+      "twitter": "SaiWestwood",
+      "about": "Durante más de una década, Sai ha dado vida a sus personajes favoritos. Ama cada aspecto de la creación de sus cosplays, desde el maquillaje y peinado hasta la confección, reflejándose en todas sus creaciones. Como cosplayer profesional, ha ganado prestigiosos concursos en su país, incluyendo WCS en 2020, y representó a Ucrania en ICL en 2018.",
+      "title": "Cosplayer",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "103"
+    },
+    {
+      "name": "Hizaki",
+      "profilePic": "https://entradas.japanweekend.com/app/img/hizaki.png",
+      "instagram": "hizaki_official",
+      "twitter": "HIZAKIofficial",
+      "about": "HIZAKI es el líder y compositor de la banda Jupiter, formada en 2013 y también miembro de la banda Versailles, la cual renació en 2016. Es conocido por su maestría tocando la guitarra y su continua búsqueda por la belleza en la música. Gracias a esto y su extraordinaria energía, ha conseguido que su popularidad trascienda las fronteras más allá de Japón. Su anterior álbum Rosario se ha posicionado en lo alto de las listas de ventas a pesar de ser un CD puramente instrumental.",
+      "title": "Músico",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "105"
+    },
+    {
+      "name": "Kouki",
+      "profilePic": "https://entradas.japanweekend.com/app/img/kuoki.png",
+      "instagram": "kouki_buddhacomplex",
+      "twitter": "kouki_d_out",
+      "about": "Kouki es el vocalista de D=OUT, la famosa banda de rock visual kei que celebra su 17 aniversario este año. Conocido profesionalmente como Kouki Hanamizakura, también abarca otros estilos como el tradicional Enka japonés, llegando a ocupar el primer puesto en la categoría enka tanto en Francia como en Japón. Kouki se preocupa por incluir la belleza nipona en sus actuaciones, como el tsugaru shamisen (instrumento de cuerda tradicional) y abanicos para sus danzas, haciendo su show uno de los mas completos que se pueden ver en un escenario. Con su singular estilo artístico tiene el propósito de hacer vibrar a los corazones de su público , así que no dudes en acercarte al evento para poder disfrutar de todas las sorpresas que tiene preparadas en su actuación.",
+      "title": "Cantante",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "107"
+    }
   ],
 
   "map": [
