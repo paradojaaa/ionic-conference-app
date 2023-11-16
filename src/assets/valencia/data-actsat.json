@@ -1,913 +1,1230 @@
 {
   "schedule": [
     {
-      "date": "Sábado 18/11 (10:00-20:00)",
-      "groups": [
-          {
-              "time": "Saga Skywalker",
-              "sessions": [
-                  {
-                      "id": "1492",
-                      "name": "Artistas de otra galaxia",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400-300x300.jpeg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1496",
-                      "name": "Memory de las Galaxias",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400.jpeg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1545",
-                      "name": "Photocall Star Wars",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400.jpeg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1544",
-                      "name": "Desfile de Starwars",
-                      "description": "",
-                      "timeStart": "11:30",
-                      "timeEnd": "12:30",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400.jpeg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1497",
-                      "name": "Desfile de Starwars",
-                      "description": "",
-                      "timeStart": "17:30",
-                      "timeEnd": "18:30",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400.jpeg",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Saga Skywalker",
-              "sessions": [
-                  {
-                      "id": "1543",
-                      "name": "Máscaras",
-                      "description": "",
-                      "timeStart": "17:00",
-                      "timeEnd": "20:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400.jpeg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1546",
-                      "name": "Doble del Mandaloriano",
-                      "description": "",
-                      "timeStart": "17:00",
-                      "timeEnd": "20:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400.jpeg",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Inst. Kojachi - Zona Cultural",
-              "sessions": [
-                  {
-                      "id": "1549",
-                      "name": "Tú sí lo sabes (Demuestra cuánto sabes de la cultura nipona)",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "11:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1550",
-                      "name": "Origami",
-                      "description": "",
-                      "timeStart": "11:00",
-                      "timeEnd": "12:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1506",
-                      "name": "Tú sí lo sabes (Demuestra cuánto sabes de la cultura nipona)",
-                      "description": "",
-                      "timeStart": "12:00",
-                      "timeEnd": "13:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1503",
-                      "name": "Iniciación al japonés",
-                      "description": "",
-                      "timeStart": "13:00",
-                      "timeEnd": "14:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1505",
-                      "name": "Iniciación a la caligrafía japoenesa a pincel (Shodo)",
-                      "description": "",
-                      "timeStart": "16:00",
-                      "timeEnd": "18:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1436",
-                      "name": "Origami",
-                      "description": "",
-                      "timeStart": "18:00",
-                      "timeEnd": "19:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1439",
-                      "name": "Tú sí lo sabes (Demuestra cuánto sabes de la cultura nipona)",
-                      "description": "",
-                      "timeStart": "19:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Inst. Kojachi - Zona Tu Nombre",
-              "sessions": [
-                  {
-                      "id": "1442",
-                      "name": "Tu nombre en japonés",
-                      "description": "CONSULTA EL HORARIO EN EL STAND DE INSTITUTO KOJACHI",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1441",
-                      "name": "Tu nombre en japonés",
-                      "description": "",
-                      "timeStart": "16:30",
-                      "timeEnd": "19:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Inst. Kojachi - Zons Lúdica",
-              "sessions": [
-                  {
-                      "id": "1443",
-                      "name": "Concurso de Dibujo",
-                      "description": "CONSULTA EL HORARIO EN EL STAND DE INSTITUTO KOJACHI",
-                      "timeStart": "10:00",
-                      "timeEnd": "19:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1444",
-                      "name": "Golf",
-                      "description": "CONSULTA EL HORARIO EN EL STAND DE INSTITUTO KOJACHI",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1548",
-                      "name": "El juego de Eduardo",
-                      "description": "CONSULTA EL HORARIO EN EL STAND DE INSTITUTO KOJACHI",
-                      "timeStart": "10:00",
-                      "timeEnd": "19:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Tyris Wrestling",
-              "sessions": [
-                  {
-                      "id": "1494",
-                      "name": "Entrenamiento de iniciación al Pro wrestling",
-                      "description": "Tyris Wrestling es una asociación juvenil sin ánimo de lucro fundada de 2020 cuyo objetivo es la\r\npromoción de la lucha libre profesional, también conocida como professional wrestling o pressing catch,\r\nmediante entrenamientos y espectáculos. La lucha libre es una disciplina artística que utiliza elementos\r\nnarrativos y de escenificación de combate para contar historias encima de un cuadrilátero en forma de\r\nperformance. Sus espectáculos consisten en una serie de combates en los que se cuentan historias que\r\nenfrentan a héroes y villanos mediante movimientos, llaves y acrobacias espectaculares.",
-                      "timeStart": "11:00",
-                      "timeEnd": "13:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/Captura-de-pantalla-2022-11-25-a-las-18.13.53-300x284.png",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1493",
-                      "name": "Show de Pro-Wrestling",
-                      "description": "",
-                      "timeStart": "17:00",
-                      "timeEnd": "19:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/Captura-de-pantalla-2022-11-25-a-las-18.13.53-300x284.png",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "One Shot Quest",
-              "sessions": [
-                  {
-                      "id": "1560",
-                      "name": "Rol en vivo “Quién robó la joya real”",
-                      "description": "",
-                      "timeStart": "12:00",
-                      "timeEnd": "13:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/10/t-roleo.png",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1562",
-                      "name": "Rol en vivo “Quién robó la joya real”",
-                      "description": "",
-                      "timeStart": "12:00",
-                      "timeEnd": "13:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/10/t-roleo.png",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1561",
-                      "name": "Villanos Disney “Cita a ciegas”",
-                      "description": "",
-                      "timeStart": "13:00",
-                      "timeEnd": "14:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/10/t-roleo.png",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Asoc. AIKO",
-              "sessions": [
-                  {
-                      "id": "1454",
-                      "name": "Vídeos musicales grupos J-Pop",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "11:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1447",
-                      "name": "Charla: Cómo poner un kimono",
-                      "description": "",
-                      "timeStart": "11:00",
-                      "timeEnd": "12:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1448",
-                      "name": "\"El tabernero y su prometida\"",
-                      "description": "",
-                      "timeStart": "12:00",
-                      "timeEnd": "12:30",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1449",
-                      "name": "\"Los amantes y la espada\"",
-                      "description": "",
-                      "timeStart": "13:15",
-                      "timeEnd": "14:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1450",
-                      "name": "Videos musicales de bailes de geishas japonesas",
-                      "description": "",
-                      "timeStart": "14:00",
-                      "timeEnd": "15:30",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1451",
-                      "name": "\"Las dos geishas\"",
-                      "description": "",
-                      "timeStart": "16:00",
-                      "timeEnd": "17:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1452",
-                      "name": "Charla: \"Diferencias entre la cultura española y japonesa\"",
-                      "description": "",
-                      "timeStart": "17:00",
-                      "timeEnd": "17:45",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1453",
-                      "name": "\"Takeko Nakano: la última mujer samurai\"",
-                      "description": "",
-                      "timeStart": "18:00",
-                      "timeEnd": "18:30",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1446",
-                      "name": "\"Tokyo: un laboratorio del futuro)",
-                      "description": "",
-                      "timeStart": "18:30",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Club del Anime UPV",
-              "sessions": [
-                  {
-                      "id": "1507",
-                      "name": "Pintacaras",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "11:30",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1535",
-                      "name": "Pintacaras",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "11:30",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1534",
-                      "name": "Caricaturas",
-                      "description": "",
-                      "timeStart": "11:30",
-                      "timeEnd": "12:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1536",
-                      "name": "Caricaturas",
-                      "description": "",
-                      "timeStart": "13:00",
-                      "timeEnd": "14:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1533",
-                      "name": "Pintacaras",
-                      "description": "",
-                      "timeStart": "16:00",
-                      "timeEnd": "18:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1508",
-                      "name": "Caricaturas",
-                      "description": "",
-                      "timeStart": "19:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Asoc. M´Anime",
-              "sessions": [
-                  {
-                      "id": "1471",
-                      "name": "Adivina el anime por sus emojis",
-                      "description": "",
-                      "timeStart": "11:30",
-                      "timeEnd": "12:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/29028006_555745308136301_5861064916475052032_n.png",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1472",
-                      "name": "Torneo Mario kart",
-                      "description": "",
-                      "timeStart": "12:00",
-                      "timeEnd": "12:30",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/29028006_555745308136301_5861064916475052032_n.png",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1528",
-                      "name": "Adivina el personaje anime por su ojo",
-                      "description": "",
-                      "timeStart": "12:30",
-                      "timeEnd": "13:30",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/05/26962394_1187223634746558_8896472710265293774_o.png",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1473",
-                      "name": "Kahoots de anime (Boku no hero, kimetsu, Attack on Titans…)",
-                      "description": "",
-                      "timeStart": "15:00",
-                      "timeEnd": "16:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/05/26962394_1187223634746558_8896472710265293774_o.png",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1474",
-                      "name": "Torneos Super Smash Bros Ultimate",
-                      "description": "",
-                      "timeStart": "16:00",
-                      "timeEnd": "17:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/29028006_555745308136301_5861064916475052032_n.png",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1475",
-                      "name": "Adivina el personaje del LoL",
-                      "description": "",
-                      "timeStart": "17:00",
-                      "timeEnd": "18:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/29028006_555745308136301_5861064916475052032_n.png",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1476",
-                      "name": "Karaoke libre",
-                      "description": "",
-                      "timeStart": "18:00",
-                      "timeEnd": "19:45",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/29028006_555745308136301_5861064916475052032_n.png",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Club del Cómic",
-              "sessions": [
-                  {
-                      "id": "1510",
-                      "name": "Diseño de personajes",
-                      "description": "\r\nLa actividad consiste en explicar como hacer diseño de personajes, adaptando el taller al nivel del público, desde las bases de formas hasta la concepción mediante silueta",
-                      "timeStart": "11:00",
-                      "timeEnd": "12:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1512",
-                      "name": "Relatos en tres viñetas",
-                      "description": "\r\nTaller sobre cómo plantear una trama argumental en papel mediante la aplicación de las bases narrativas en viñetas\r\n",
-                      "timeStart": "12:00",
-                      "timeEnd": "13:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1509",
-                      "name": "Diseño de personajes",
-                      "description": "La actividad consiste en explicar como hacer diseño de personajes, adaptando el taller al nivel del público, desde las bases de formas hasta la concepción mediante silueta",
-                      "timeStart": "16:00",
-                      "timeEnd": "17:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1511",
-                      "name": "Relatos en tres viñetas",
-                      "description": "Taller sobre cómo plantear una trama argumental en papel mediante la aplicación de las bases narrativas en viñetas\r\n",
-                      "timeStart": "17:00",
-                      "timeEnd": "18:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "FuuRyuukan Bugei Dojo",
-              "sessions": [
-                  {
-                      "id": "1531",
-                      "name": "Taller de juegos tradicionales Go y Shogi",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1532",
-                      "name": "Cultura japonesa",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Ludosport Valencia",
-              "sessions": [
-                  {
-                      "id": "1527",
-                      "name": "Clases de prueba con sables láser",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Hermandad CV Softcombat",
-              "sessions": [
-                  {
-                      "id": "1468",
-                      "name": "Iniciación al softcombat",
-                      "description": "",
-                      "timeStart": "12:00",
-                      "timeEnd": "16:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1469",
-                      "name": "Torneo de Softcombat",
-                      "description": "",
-                      "timeStart": "16:30",
-                      "timeEnd": "18:30",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/Kop9G9vL_400x400.jpg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1470",
-                      "name": "Iniciación al Softcombat y Softcombat libre",
-                      "description": "",
-                      "timeStart": "18:30",
-                      "timeEnd": "20:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/Kop9G9vL_400x400.jpg",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Valora Games",
-              "sessions": [
-                  {
-                      "id": "1455",
-                      "name": "Torneo VGC Pokemon Escarlata Purpura",
-                      "description": " -Necesario acudir al torneo con consola Nintendo Switch propia, cargador y el juego de Pokémon Escarlata o Pokémon Púrpura \r\n-Recomendado inscribirse en:  https://forms.gle/fR9FRNgmC1kB1eyW6",
-                      "timeStart": "11:30",
-                      "timeEnd": "12:30",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/1366_2000.jpeg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1456",
-                      "name": "Torneo Mario Kart",
-                      "description": "",
-                      "timeStart": "12:30",
-                      "timeEnd": "14:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/K4QAJD5DN5DU5OMLUKOTGT736A.jpg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1457",
-                      "name": "Torneo Puyo Puyo Tetris 15:30",
-                      "description": "",
-                      "timeStart": "15:30",
-                      "timeEnd": "16:30",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/3xBTPQhm93HARtEYmpSxqhy-hkeRID4XgFkuD1Adb-Q_350x200_1x-0.jpeg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1458",
-                      "name": "Torneo Just dance",
-                      "description": "",
-                      "timeStart": "16:30",
-                      "timeEnd": "18:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/H2x1_NSwitch_JustDance2022_image1280w.jpg",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": " Associació Kourindou",
-              "sessions": [
-                  {
-                      "id": "1530",
-                      "name": "Freeplay: Dance Dance Revolution , Guitar Hero , Touhou Project Shooter , Touhou Project Fighter, Osu!",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1529",
-                      "name": "Torneo Touhou 12.3",
-                      "description": "",
-                      "timeStart": "17:00",
-                      "timeEnd": "18:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "DotClass Games",
-              "sessions": [
-                  {
-                      "id": "1445",
-                      "name": "Freeplay de Gravity Long",
-                      "description": "Gravity Long: Juego de plataformas en el que la mecánica principal es el cambio de gravedad.\r\n\r\n",
-                      "timeStart": "10:15",
-                      "timeEnd": "19:45",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/04/tarjeta_dotclassgames_delante.jpg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1498",
-                      "name": "Freeplay de Chasing Shadows",
-                      "description": "\r\nChasing Shadows: Juego de parkour de desplazamiento lateral, en el que tendrás que huir de tu otro yo.\r\n\r\n",
-                      "timeStart": "10:15",
-                      "timeEnd": "19:45",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/04/tarjeta_dotclassgames_delante.jpg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1499",
-                      "name": "Freeplay de The guancho game",
-                      "description": "The guancho game: Juego de plataformas y acción con una historia trepidante y mecánicas innovadoras. Deberás vencer a diferentes enemigos  para poder liberar tu brazo de una arma mortal y  conocer los orígenes del guancho.\r\n\r\n",
-                      "timeStart": "10:15",
-                      "timeEnd": "19:45",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/04/tarjeta_dotclassgames_delante.jpg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1500",
-                      "name": "Freeplay de nuestros juegos: Gravity Long, Space Cave y Beyond the dark.",
-                      "description": "Gravity Long: Juego de plataformas en el que la mecánica principal es el cambio de gravedad.\r\n\r\nChasing Shadows: Juego de parkour de desplazamiento lateral, en el que tendrás que huir de tu otro yo.\r\n\r\nThe guancho game: Juego de plataformas y acción con una historia trepidante y mecánicas innovadoras. Deberás vencer a diferentes enemigos  para poder liberar tu brazo de una arma mortal y  conocer los orígenes del guancho.\r\n\r\nRemember Me: La historia nos pone en la piel de Markus, un asesino quien muere de la peor manera posible y despierta en un limbo entre el mundo de los vivos y el de los muertos,  donde deberá remediar sus más oscuros y bizarros pecados cometidos en vida. ¿Lo conseguirá? O ¿Sus remordimientos podrán con Markus?",
-                      "timeStart": "10:15",
-                      "timeEnd": "19:45",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/04/tarjeta_dotclassgames_delante.jpg",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1501",
-                      "name": "Freeplay de Remember me",
-                      "description": "\r\nRemember Me: La historia nos pone en la piel de Markus, un asesino quien muere de la peor manera posible y despierta en un limbo entre el mundo de los vivos y el de los muertos,  donde deberá remediar sus más oscuros y bizarros pecados cometidos en vida. ¿Lo conseguirá? O ¿Sus remordimientos podrán con Markus?",
-                      "timeStart": "10:15",
-                      "timeEnd": "19:45",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/04/tarjeta_dotclassgames_delante.jpg",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Trifasik Games",
-              "sessions": [
-                  {
-                      "id": "1502",
-                      "name": "Demostración del juego Guerra de Limos",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/04/z_TrifasikGames_logo.png",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "PIF Games",
-              "sessions": [
-                  {
-                      "id": "1495",
-                      "name": "Demostración del juego \"AntaYagí\"",
-                      "description": "En AntaYagí, de 3 a 7 jugadores os convertireis en excéntricos mercaderes en busca de fama y fortuna. Participad en intercambios de lo más peculiares; con muffins, magos errantes y piruletas musicales. Sólo hay una condición... Debido al bullicio constante de la ciudad de los Mil Sombreros, ¡jugaréis con las cartas del revés! Nadie verá lo que llevó para comerciar, pero todos sabréis lo que tienen los demás. Elegid sabiamente y, ¡a cambiar oro por tiranosaurios rex!",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          },
-          {
-              "time": "Japan Challenge",
-              "sessions": [
-                  {
-                      "id": "1537",
-                      "name": "Taller de Hamas y Pulseras",
-                      "description": "¿Quieres un recuerdo del evento? En el stand de la JAPAN CHALLENGE podrás realizar un hamma de tu personaje\r\nfavorito el único requisito es tu presencia. Acércate a nuestro stand, realiza una figura y nosotros te lo planchamos y podrás llevártelo!\r\n\r\n¿Te acuerdas de la moda de hacer con gomas elásticas unas pulseras top guays? Pues vuelve la moda\r\na la JAPAN CHALLENGE y es que, al igual que los hamas podrás hacer tu pulsera y llevartelo y pasar el rato en nuestro stand.",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1538",
-                      "name": "Torneo de justas de caballos y duendes",
-                      "description": "Si te aburres y no tienes actividad que hacer... tienes el torneo de caballos y duendes donde\r\npodrás desafiar a vuestros amigos a un torneo justo y deberá quitar el sombrero a tu contrincante con la espada de goma.",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1539",
-                      "name": "Just Dance",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  },
-                  {
-                      "id": "1540",
-                      "name": "Karaoke Go!",
-                      "description": "",
-                      "timeStart": "10:00",
-                      "timeEnd": "20:00",
-                      "image": "",
-                      "tracks": [
-                          ""
-                      ]
-                  }
-              ]
-          }
-      ]
-  }
+        "date": "Sábado 18/11 (10:00-20:00)",
+        "groups": [
+            {
+                "time": "Asoc. AIKO",
+                "sessions": [
+                    {
+                        "id": "1454",
+                        "name": "Vídeos musicales: Grupos J-Pop. Nuevas tendencias",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "11:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1447",
+                        "name": "Documental: Los alpes japoneses Shirakawago, Takayama",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1448",
+                        "name": "Teatro: \"Los amantes y la espada\"",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1449",
+                        "name": "Teatro: \"Ainen, amor sincero\"",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1450",
+                        "name": "Teatro: \"Las dos geishas\"",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "15:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1451",
+                        "name": "Vídeos musicales: \"Bailes de geishas japonesas\"",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "16:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1452",
+                        "name": "Charla: Cultura japonesa",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1453",
+                        "name": "Teatro: \"Los amantes y la espada\"",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1565",
+                        "name": "Teatro: \"Ainen, amor sincero\"",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1446",
+                        "name": "Documental: La vida rural en Japón",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "A través del Espejo",
+                "sessions": [
+                    {
+                        "id": "1585",
+                        "name": "Mirror Mirror, mi primer contacto con la moda Lolita",
+                        "description": "Realizaremos una actividad en el mismo stand donde durante el evento la gente se puede apuntar para vivir la experiencia de vestirse y arreglarse con nuestra ayuda y llevarse una foto de recuerdo. Dispondremos de dos plazas cada hora para ambos días.",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/A-traves-del-espejo.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1586",
+                        "name": "Exposición de vestidos lolita",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/A-traves-del-espejo.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Tyris Wrestling",
+                "sessions": [
+                    {
+                        "id": "1494",
+                        "name": "Entrenamiento de iniciación al Pro wrestling",
+                        "description": "Tyris Wrestling es una asociación juvenil sin ánimo de lucro fundada de 2020 cuyo objetivo es la\r\npromoción de la lucha libre profesional, también conocida como professional wrestling o pressing catch,\r\nmediante entrenamientos y espectáculos. La lucha libre es una disciplina artística que utiliza elementos\r\nnarrativos y de escenificación de combate para contar historias encima de un cuadrilátero en forma de\r\nperformance. Sus espectáculos consisten en una serie de combates en los que se cuentan historias que\r\nenfrentan a héroes y villanos mediante movimientos, llaves y acrobacias espectaculares.",
+                        "timeStart": "11:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/Captura-de-pantalla-2022-11-25-a-las-18.13.53-300x284.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1493",
+                        "name": "Show de Pro-Wrestling",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/Captura-de-pantalla-2022-11-25-a-las-18.13.53-300x284.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Valora Games",
+                "sessions": [
+                    {
+                        "id": "1653",
+                        "name": "Inscripciones pokémon",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "11:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/valora-games.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1654",
+                        "name": "Torneo Pokémon",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/valora-games.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1655",
+                        "name": "Torneo Mario Kart",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/valora-games.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1652",
+                        "name": "Torneo JUST DANCE",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/valora-games.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Inst. Kojachi - Zona Cultural",
+                "sessions": [
+                    {
+                        "id": "1549",
+                        "name": "Tú sí lo sabes (Demuestra cuánto sabes de la cultura nipona)",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "11:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1550",
+                        "name": "Origami",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1506",
+                        "name": "Tú sí lo sabes (Demuestra cuánto sabes de la cultura nipona)",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1503",
+                        "name": "Iniciación al japonés",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1505",
+                        "name": "Iniciación a la caligrafía japoenesa a pincel (Shodo)",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "18:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1436",
+                        "name": "Origami",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1439",
+                        "name": "Tú sí lo sabes (Demuestra cuánto sabes de la cultura nipona)",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Inst. Kojachi - Zona Tu Nombre",
+                "sessions": [
+                    {
+                        "id": "1442",
+                        "name": "Tu nombre en japonés",
+                        "description": "CONSULTA EL HORARIO EN EL STAND DE INSTITUTO KOJACHI",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Inst. Kojachi - Zons Lúdica",
+                "sessions": [
+                    {
+                        "id": "1443",
+                        "name": "Concurso de Dibujo",
+                        "description": "CONSULTA EL HORARIO EN EL STAND DE INSTITUTO KOJACHI",
+                        "timeStart": "10:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1444",
+                        "name": "Golf",
+                        "description": "CONSULTA EL HORARIO EN EL STAND DE INSTITUTO KOJACHI",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1548",
+                        "name": "El juego de Eduardo",
+                        "description": "CONSULTA EL HORARIO EN EL STAND DE INSTITUTO KOJACHI",
+                        "timeStart": "10:00",
+                        "timeEnd": "19:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Club del Anime UPV",
+                "sessions": [
+                    {
+                        "id": "1580",
+                        "name": "Pintacaras",
+                        "description": "Pintamos la cara de lo que nos pidan, es un taller orientado a niños pequeños pero pueden venir de cualquier edad. Usamos pinturas para pieles sensibles en base a agua para evitar cualquier reacción.",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/club-del-anime-upv.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1581",
+                        "name": "Haz tu propia robertopegatina",
+                        "description": "Teniendo de base folios adhesivos con una plantilla de nuestra mascota Roberto, invitamos a los que quieran hacer este taller a vestir a Roberto de su personaje favorito, poder pintarlo, recortarlo, y tener una pegatina personalizada de nuestro maravilloso pez koi.",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/club-del-anime-upv.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1535",
+                        "name": "Haz tu llavero de Sanrio",
+                        "description": "Proporcionamos plástico reductor y enseñamos a como hacer sus propios llaveros con temática principal Sanrio. Es un taller con plazas limitadas (hasta que se acabe el plástico reductor)",
+                        "timeStart": "16:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/club-del-anime-upv.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Club del Cómic",
+                "sessions": [
+                    {
+                        "id": "1645",
+                        "name": "Taller de creación de personajes y cómic en 3 viñetas",
+                        "description": "\r\nLa actividad consiste en explicar como hacer diseño de personajes, adaptando el taller al nivel del público, desde las bases de formas hasta la concepción mediante silueta",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1510",
+                        "name": "Taller de creación de personajes y cómic en 3 viñetas",
+                        "description": "La actividad consiste en explicar como hacer diseño de personajes, adaptando el taller al nivel del público, desde las bases de formas hasta la concepción mediante silueta",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Asoc. M´Anime",
+                "sessions": [
+                    {
+                        "id": "1471",
+                        "name": "Inscripciones torneos // información",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/29028006_555745308136301_5861064916475052032_n.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1629",
+                        "name": "Torneo Mario kart",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/29028006_555745308136301_5861064916475052032_n.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1630",
+                        "name": "Loldle",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/29028006_555745308136301_5861064916475052032_n.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1631",
+                        "name": "Lectura de cartas del tarot Sakura Card Captor",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "16:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/29028006_555745308136301_5861064916475052032_n.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1472",
+                        "name": "Kahoots",
+                        "description": "",
+                        "timeStart": "15:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/29028006_555745308136301_5861064916475052032_n.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1474",
+                        "name": "Torneo Super Smash Bros",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/29028006_555745308136301_5861064916475052032_n.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1476",
+                        "name": "Karaoke libre",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/29028006_555745308136301_5861064916475052032_n.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Escuela de Arte Valterna ",
+                "sessions": [
+                    {
+                        "id": "1626",
+                        "name": "Taller tatuaje aerografo",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "13:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1625",
+                        "name": "Taller Dibujo Manga",
+                        "description": "",
+                        "timeStart": "13:30",
+                        "timeEnd": "15:30",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1624",
+                        "name": "Taller tatuaje aerografo",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Saga Skywalker",
+                "sessions": [
+                    {
+                        "id": "1492",
+                        "name": "Artistas de otra galaxia",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400-300x300.jpeg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1496",
+                        "name": "Memory de las Galaxias",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400.jpeg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1545",
+                        "name": "Photocall Star Wars",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400.jpeg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1544",
+                        "name": "Desfile de Starwars",
+                        "description": "",
+                        "timeStart": "11:30",
+                        "timeEnd": "12:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400.jpeg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1497",
+                        "name": "Desfile de Starwars",
+                        "description": "",
+                        "timeStart": "17:30",
+                        "timeEnd": "18:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400.jpeg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Saga Skywalker",
+                "sessions": [
+                    {
+                        "id": "1543",
+                        "name": "Máscaras",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400.jpeg",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1546",
+                        "name": "Doble del Mandaloriano",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2022/11/705X5JVl_400x400.jpeg",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Bounty Rangers",
+                "sessions": [
+                    {
+                        "id": "1660",
+                        "name": "Exposición de cascos mandalorianos",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/bounty-rangers.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "One Shot Quest",
+                "sessions": [
+                    {
+                        "id": "1691",
+                        "name": "Rol en vivo “Quién robó la joya real”",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/10/t-roleo.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1692",
+                        "name": "Villanos Disney “Cita a ciegas”",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/10/t-roleo.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1560",
+                        "name": "Rol en vivo “Quién robó la joya real”",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/10/t-roleo.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1561",
+                        "name": "Villanos Disney “Cita a ciegas”",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/10/t-roleo.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Shinyuden",
+                "sessions": [
+                    {
+                        "id": "1684",
+                        "name": "Torneo de RETRO REVENGERS",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/shinyuden.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Art Toy Invasion",
+                "sessions": [
+                    {
+                        "id": "1694",
+                        "name": "Exposición y pintura en directo de Art Toy",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "PIF Games",
+                "sessions": [
+                    {
+                        "id": "1640",
+                        "name": "DEMOSTRACIONES JUEGOS DE MESA",
+                        "description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+                        "timeStart": "10:00",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/pif-games-1.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1639",
+                        "name": "DEMOSTRACIONES JUEGOS DE MESA",
+                        "description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+                        "timeStart": "16:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/pif-games-1.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Gremio de Jugadores",
+                "sessions": [
+                    {
+                        "id": "1644",
+                        "name": "PRESENTACIÓN BLOOD",
+                        "description": "Bienvenidos a Drachenbrug, antigua ciudad de vampiros, luchad por saciar tu sed, elimina a la competencia y asegura tu supervivencia.\r\n\r\nResumen:\r\nInicias con 8 cartas y 3 vidas, tu objetivo es ser el primero en quedarte sin cartas o ser el último en pie (con vida). Puedes descartarte cartas alimentándote y otras cartas te servirán para molestar o incluso matar a tus rivales, solo importa tu supervivencia.",
+                        "timeStart": "16:30",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/Gremio-de-jugadores.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Buckbeak Riders",
+                "sessions": [
+                    {
+                        "id": "1577",
+                        "name": "Exposición de Quadball y de camisetas de varios equipos del mundo",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/Buckbeak-riders.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1578",
+                        "name": "Partido de Quadball con libre participación",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/Buckbeak-riders.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1576",
+                        "name": "Exposición de Quadball y de camisetas de varios equipos del mundo",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "16:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/Buckbeak-riders.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1574",
+                        "name": "Concurso de Tiro al Aro",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/Buckbeak-riders.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1579",
+                        "name": "Exposición de Quadball y de camisetas de varios equipos del mundo",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/Buckbeak-riders.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1573",
+                        "name": "Partido de Quadball con libre participación",
+                        "description": "",
+                        "timeStart": "18:30",
+                        "timeEnd": "19:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/Buckbeak-riders.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1575",
+                        "name": "Exposición de Quadball y de camisetas de varios equipos del mundo",
+                        "description": "",
+                        "timeStart": "19:30",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/Buckbeak-riders.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Ludosport Valencia",
+                "sessions": [
+                    {
+                        "id": "1608",
+                        "name": "Clases de prueba con sables láser",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/ludosport.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1609",
+                        "name": "Combates exhibición",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "12:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/ludosport.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1610",
+                        "name": "Clases de prueba con sables láser",
+                        "description": "",
+                        "timeStart": "12:30",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/ludosport.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1611",
+                        "name": "Combates exhibición",
+                        "description": "",
+                        "timeStart": "14:00",
+                        "timeEnd": "14:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/ludosport.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1612",
+                        "name": "Clases de prueba con sables láser",
+                        "description": "",
+                        "timeStart": "14:30",
+                        "timeEnd": "16:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/ludosport.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1613",
+                        "name": "Combates exhibición",
+                        "description": "",
+                        "timeStart": "16:30",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/ludosport.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1607",
+                        "name": "Clases de prueba con sables láser",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/ludosport.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1527",
+                        "name": "Combates exhibición",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "19:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/ludosport.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Club d´esgrima Morvedre & ToBukao",
+                "sessions": [
+                    {
+                        "id": "1675",
+                        "name": "Clases de comba",
+                        "description": "",
+                        "timeStart": "10:30",
+                        "timeEnd": "11:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/to-bukao.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1677",
+                        "name": "Combates de prueba de Esgrima",
+                        "description": "",
+                        "timeStart": "10:30",
+                        "timeEnd": "11:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/morvedre-esgrima.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1670",
+                        "name": "Exhibición de comba",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "11:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/to-bukao.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1678",
+                        "name": "Combates de exhibición de Esgrima",
+                        "description": "",
+                        "timeStart": "11:00",
+                        "timeEnd": "11:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/morvedre-esgrima.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1667",
+                        "name": "Clases de comba",
+                        "description": "",
+                        "timeStart": "11:30",
+                        "timeEnd": "12:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/to-bukao.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1679",
+                        "name": "Combates de prueba de Esgrima",
+                        "description": "",
+                        "timeStart": "11:30",
+                        "timeEnd": "13:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/morvedre-esgrima.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1673",
+                        "name": "Bukao games",
+                        "description": "",
+                        "timeStart": "12:00",
+                        "timeEnd": "12:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/to-bukao.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1669",
+                        "name": "Clases de comba",
+                        "description": "",
+                        "timeStart": "12:30",
+                        "timeEnd": "14:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/to-bukao.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1680",
+                        "name": "Combates de exhibición de Esgrima",
+                        "description": "",
+                        "timeStart": "13:00",
+                        "timeEnd": "13:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/morvedre-esgrima.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1672",
+                        "name": "Clases de comba",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/to-bukao.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1681",
+                        "name": "Combates de prueba de Esgrima",
+                        "description": "",
+                        "timeStart": "16:00",
+                        "timeEnd": "17:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/morvedre-esgrima.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1664",
+                        "name": "Exhibición de comba",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "17:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/to-bukao.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1682",
+                        "name": "Combates de exhibición de Esgrima",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "17:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/morvedre-esgrima.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1674",
+                        "name": "Clases de comba",
+                        "description": "",
+                        "timeStart": "17:30",
+                        "timeEnd": "18:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/to-bukao.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1683",
+                        "name": "Combates de prueba de Esgrima",
+                        "description": "",
+                        "timeStart": "17:30",
+                        "timeEnd": "18:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/morvedre-esgrima.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1665",
+                        "name": "Bukao games",
+                        "description": "",
+                        "timeStart": "18:00",
+                        "timeEnd": "18:30",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/to-bukao.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1666",
+                        "name": "Clases de comba",
+                        "description": "",
+                        "timeStart": "18:30",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/to-bukao.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1668",
+                        "name": "Combates de exhibición de Esgrima",
+                        "description": "",
+                        "timeStart": "18:30",
+                        "timeEnd": "19:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/morvedre-esgrima.png",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1676",
+                        "name": "Combates de prueba de Esgrima",
+                        "description": "",
+                        "timeStart": "19:00",
+                        "timeEnd": "20:00",
+                        "image": "https://www.japanweekend.com/valencia/wp-content/uploads/sites/4/2023/11/morvedre-esgrima.png",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "FuuRyuukan Bugei Dojo",
+                "sessions": [
+                    {
+                        "id": "1531",
+                        "name": "Taller de juegos tradicionales Go y Shogi",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1532",
+                        "name": "Cultura japonesa",
+                        "description": "",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "time": "Japan Challenge",
+                "sessions": [
+                    {
+                        "id": "1537",
+                        "name": "Taller de Hamas y Pulseras",
+                        "description": "¿Quieres un recuerdo del evento? En el stand de la JAPAN CHALLENGE podrás realizar un hamma de tu personaje\r\nfavorito el único requisito es tu presencia. Acércate a nuestro stand, realiza una figura y nosotros te lo planchamos y podrás llevártelo!\r\n\r\n¿Te acuerdas de la moda de hacer con gomas elásticas unas pulseras top guays? Pues vuelve la moda\r\na la JAPAN CHALLENGE y es que, al igual que los hamas podrás hacer tu pulsera y llevartelo y pasar el rato en nuestro stand.",
+                        "timeStart": "10:00",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1539",
+                        "name": "Taller de pokeballs",
+                        "description": "",
+                        "timeStart": "17:00",
+                        "timeEnd": "18:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    },
+                    {
+                        "id": "1540",
+                        "name": "Taller de varitas",
+                        "description": "",
+                        "timeStart": "18:15",
+                        "timeEnd": "20:00",
+                        "image": "",
+                        "tracks": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
   ],
 
   
